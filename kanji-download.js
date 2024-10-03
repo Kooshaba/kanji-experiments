@@ -4,7 +4,7 @@ import { load } from 'cheerio';
 import { promises as fsPromises } from 'fs';
 import { join } from 'path';
 import sharp from 'sharp';
-import { writeFile } from 'fs/promises';
+import { writeFile, readFile } from 'fs/promises'; // Added readFile
 
 // Function to convert katakana to hiragana
 function katakanaToHiragana(katakana) {
@@ -132,14 +132,41 @@ async function fetchKanjiDetails(kanjiUrl) {
     'https://www.kanshudo.com/kanji/雨',
     'https://www.kanshudo.com/kanji/休',
     'https://www.kanshudo.com/kanji/午',
-    
+    'https://www.kanshudo.com/kanji/容',
+    'https://www.kanshudo.com/kanji/内',
+    'https://www.kanshudo.com/kanji/力',
+    'https://www.kanshudo.com/kanji/新',
+    'https://www.kanshudo.com/kanji/古',
+    'https://www.kanshudo.com/kanji/安',
+    'https://www.kanshudo.com/kanji/短',
+    'https://www.kanshudo.com/kanji/明',
+    'https://www.kanshudo.com/kanji/暗',
   ];
 
-  const kanjiDetailsList = [];
+  // Read existing kanji details
+  let existingKanjiDetails = [];
+  try {
+    const data = await readFile('public/kanjiDetails.json', 'utf8');
+    existingKanjiDetails = JSON.parse(data);
+  } catch (error) {
+    console.log('No existing kanji details found, starting fresh.');
+  }
+
+  // Extract kanji characters from existing details
+  const existingKanjiCharacters = new Set(existingKanjiDetails.map(detail => detail.kanji));
+
+  // Filter out URLs for kanji that already have details
+  const newKanjiUrls = kanjiUrls.filter(url => {
+    const kanjiCharacter = url.split('/').pop();
+    return !existingKanjiCharacters.has(kanjiCharacter);
+  });
+  console.log(`Downloading details for ${newKanjiUrls.length} new kanji.`);
+
+  const kanjiDetailsList = [...existingKanjiDetails];
   const fetchPromises = [];
 
-  for (let i = 0; i < kanjiUrls.length; i += 10) {
-    const chunk = kanjiUrls.slice(i, i + 10);
+  for (let i = 0; i < newKanjiUrls.length; i += 10) {
+    const chunk = newKanjiUrls.slice(i, i + 10);
     const promises = chunk.map(url => fetchKanjiDetails(url));
     fetchPromises.push(...promises);
     

@@ -925,5 +925,110 @@
     ],
     "meaning": "11AM-1PM, noon, seventh sign of Chinese zodiac, sign of the horse",
     "imagePath": "kanji/午.png"
+  },
+  {
+    "kanji": "容",
+    "readings": [
+      "い.れる",
+      "よう"
+    ],
+    "meaning": "contain, form, looks",
+    "imagePath": "kanji/容.png"
+  },
+  {
+    "kanji": "内",
+    "readings": [
+      "うち",
+      "だい",
+      "ない"
+    ],
+    "meaning": "among, between, home, house, inside, within",
+    "imagePath": "kanji/内.png"
+  },
+  {
+    "kanji": "力",
+    "readings": [
+      "ちから",
+      "りい",
+      "りき",
+      "りょく"
+    ],
+    "meaning": "bear up, exert, power, strain, strength, strong",
+    "imagePath": "kanji/力.png"
+  },
+  {
+    "kanji": "新",
+    "readings": [
+      "あたら.しい",
+      "あら-",
+      "あら.た",
+      "にい-",
+      "しん"
+    ],
+    "meaning": "new",
+    "imagePath": "kanji/新.png"
+  },
+  {
+    "kanji": "古",
+    "readings": [
+      "-ふる.す",
+      "ふる-",
+      "ふる.い",
+      "こ"
+    ],
+    "meaning": "old",
+    "imagePath": "kanji/古.png"
+  },
+  {
+    "kanji": "安",
+    "readings": [
+      "やす",
+      "やす.い",
+      "やす.まる",
+      "やす.らか",
+      "あん"
+    ],
+    "meaning": "cheap, contented, low, peaceful, quiet, relax, rested",
+    "imagePath": "kanji/安.png"
+  },
+  {
+    "kanji": "短",
+    "readings": [
+      "みじか.い",
+      "たん"
+    ],
+    "meaning": "brevity, defect, fault, short, weak point",
+    "imagePath": "kanji/短.png"
+  },
+  {
+    "kanji": "明",
+    "readings": [
+      "-あ.け",
+      "あ.かす",
+      "あ.かり",
+      "あ.く",
+      "あ.くる",
+      "あ.ける",
+      "あか.らむ",
+      "あか.るい",
+      "あか.るむ",
+      "あき.らか",
+      "みょう",
+      "みん",
+      "めい"
+    ],
+    "meaning": "bright, light",
+    "imagePath": "kanji/明.png"
+  },
+  {
+    "kanji": "暗",
+    "readings": [
+      "くら.い",
+      "くら.む",
+      "くれ.る",
+      "あん"
+    ],
+    "meaning": "be blinded, darkness, disappear, grow dark, informal, shade",
+    "imagePath": "kanji/暗.png"
   }
 ]
