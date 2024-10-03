@@ -1,0 +1,929 @@
+[
+  {
+    "kanji": "人",
+    "readings": [
+      "-と",
+      "-り",
+      "ひと",
+      "じん",
+      "にん"
+    ],
+    "meaning": "person",
+    "imagePath": "kanji/人.png"
+  },
+  {
+    "kanji": "一",
+    "readings": [
+      "ひと-",
+      "ひと.つ",
+      "いち",
+      "いつ"
+    ],
+    "meaning": "one, one radical (no.1)",
+    "imagePath": "kanji/一.png"
+  },
+  {
+    "kanji": "日",
+    "readings": [
+      "-か",
+      "-び",
+      "ひ",
+      "じつ",
+      "にち"
+    ],
+    "meaning": "Japan, counter for days, day, sun",
+    "imagePath": "kanji/日.png"
+  },
+  {
+    "kanji": "大",
+    "readings": [
+      "-おお.いに",
+      "おお-",
+      "おお.きい",
+      "たい",
+      "だい"
+    ],
+    "meaning": "big, large",
+    "imagePath": "kanji/大.png"
+  },
+  {
+    "kanji": "年",
+    "readings": [
+      "とし",
+      "ねん"
+    ],
+    "meaning": "counter for years, year",
+    "imagePath": "kanji/年.png"
+  },
+  {
+    "kanji": "出",
+    "readings": [
+      "-だ.す",
+      "-で",
+      "い.だす",
+      "い.でる",
+      "だ.す",
+      "で.る",
+      "しゅつ",
+      "すい"
+    ],
+    "meaning": "come out, exit, go out, leave, protrude, put out",
+    "imagePath": "kanji/出.png"
+  },
+  {
+    "kanji": "本",
+    "readings": [
+      "もと",
+      "ほん"
+    ],
+    "meaning": "book, counter for long cylindrical things, main, origin, present, real, true",
+    "imagePath": "kanji/本.png"
+  },
+  {
+    "kanji": "中",
+    "readings": [
+      "あた.る",
+      "うち",
+      "なか",
+      "ちゅう"
+    ],
+    "meaning": "center, in, inside, mean, middle",
+    "imagePath": "kanji/中.png"
+  },
+  {
+    "kanji": "子",
+    "readings": [
+      "-こ",
+      "こ",
+      "ね",
+      "し",
+      "す",
+      "つ"
+    ],
+    "meaning": "11PM-1AM, child, first sign of Chinese zodiac, sign of the rat",
+    "imagePath": "kanji/子.png"
+  },
+  {
+    "kanji": "見",
+    "readings": [
+      "み.える",
+      "み.せる",
+      "み.る",
+      "けん"
+    ],
+    "meaning": "chances, hopes, idea, look at, opinion, see, visible",
+    "imagePath": "kanji/見.png"
+  },
+  {
+    "kanji": "国",
+    "readings": [
+      "くに",
+      "こく"
+    ],
+    "meaning": "country",
+    "imagePath": "kanji/国.png"
+  },
+  {
+    "kanji": "上",
+    "readings": [
+      "-あ.がり",
+      "-あ.がる",
+      "-あ.げる",
+      "-うえ",
+      "あ.がり",
+      "あ.がる",
+      "あ.げる",
+      "うえ",
+      "うわ-",
+      "かみ",
+      "たてまつ.る",
+      "のぼ.す",
+      "のぼ.せる",
+      "のぼ.り",
+      "のぼ.る",
+      "しゃん",
+      "しょう",
+      "じょう"
+    ],
+    "meaning": "above, up",
+    "imagePath": "kanji/上.png"
+  },
+  {
+    "kanji": "分",
+    "readings": [
+      "わ.かつ",
+      "わ.かる",
+      "わ.かれる",
+      "わ.け",
+      "わ.ける",
+      "ふん",
+      "ぶ",
+      "ぶん"
+    ],
+    "meaning": "1%, chances, degree, duty, know, minute of time, one's lot, part, rate, segment, shaku/100, share, understand",
+    "imagePath": "kanji/分.png"
+  },
+  {
+    "kanji": "生",
+    "readings": [
+      "-う",
+      "い.かす",
+      "い.きる",
+      "い.ける",
+      "う.まれ",
+      "う.まれる",
+      "う.む",
+      "うま.れる",
+      "うまれ",
+      "お.う",
+      "き",
+      "な.す",
+      "な.る",
+      "なま",
+      "なま-",
+      "は.える",
+      "は.やす",
+      "む.す",
+      "しょう",
+      "せい"
+    ],
+    "meaning": "birth, genuine, life",
+    "imagePath": "kanji/生.png"
+  },
+  {
+    "kanji": "行",
+    "readings": [
+      "-い.き",
+      "-いき",
+      "-ゆ.き",
+      "-ゆき",
+      "い.く",
+      "おこ.なう",
+      "おこな.う",
+      "ゆ.く",
+      "あん",
+      "ぎょう",
+      "こう"
+    ],
+    "meaning": "act, bank, carry out, conduct, going, journey, line, row",
+    "imagePath": "kanji/行.png"
+  },
+  {
+    "kanji": "二",
+    "readings": [
+      "ふた",
+      "ふた.つ",
+      "ふたたび",
+      "じ",
+      "に"
+    ],
+    "meaning": "two, two radical (no. 7)",
+    "imagePath": "kanji/二.png"
+  },
+  {
+    "kanji": "間",
+    "readings": [
+      "あい",
+      "あいだ",
+      "ま",
+      "かん",
+      "けん"
+    ],
+    "meaning": "interval, space",
+    "imagePath": "kanji/間.png"
+  },
+  {
+    "kanji": "時",
+    "readings": [
+      "-どき",
+      "とき",
+      "じ"
+    ],
+    "meaning": "hour, time",
+    "imagePath": "kanji/時.png"
+  },
+  {
+    "kanji": "気",
+    "readings": [
+      "き",
+      "き",
+      "け"
+    ],
+    "meaning": "air, atmosphere, mind, mood, spirit",
+    "imagePath": "kanji/気.png"
+  },
+  {
+    "kanji": "十",
+    "readings": [
+      "そ",
+      "と",
+      "とお",
+      "じっ",
+      "じゅう",
+      "じゅっ"
+    ],
+    "meaning": "ten",
+    "imagePath": "kanji/十.png"
+  },
+  {
+    "kanji": "女",
+    "readings": [
+      "おんな",
+      "め",
+      "じょ",
+      "にょ",
+      "にょう"
+    ],
+    "meaning": "female, woman",
+    "imagePath": "kanji/女.png"
+  },
+  {
+    "kanji": "三",
+    "readings": [
+      "み",
+      "み.つ",
+      "みっ.つ",
+      "さん",
+      "ぞう"
+    ],
+    "meaning": "three",
+    "imagePath": "kanji/三.png"
+  },
+  {
+    "kanji": "前",
+    "readings": [
+      "-まえ",
+      "まえ",
+      "ぜん"
+    ],
+    "meaning": "before, in front",
+    "imagePath": "kanji/前.png"
+  },
+  {
+    "kanji": "入",
+    "readings": [
+      "-い.り",
+      "-い.る",
+      "-い.れ",
+      "い.る",
+      "い.れる",
+      "はい.る",
+      "じゅ",
+      "にゅう"
+    ],
+    "meaning": "enter, insert",
+    "imagePath": "kanji/入.png"
+  },
+  {
+    "kanji": "小",
+    "readings": [
+      "お-",
+      "こ-",
+      "さ-",
+      "ちい.さい",
+      "しょう"
+    ],
+    "meaning": "little, small",
+    "imagePath": "kanji/小.png"
+  },
+  {
+    "kanji": "後",
+    "readings": [
+      "あと",
+      "うし.ろ",
+      "うしろ",
+      "おく.れる",
+      "のち",
+      "こう",
+      "ご"
+    ],
+    "meaning": "back, behind, later",
+    "imagePath": "kanji/後.png"
+  },
+  {
+    "kanji": "長",
+    "readings": [
+      "おさ",
+      "なが.い",
+      "ちょう"
+    ],
+    "meaning": "leader, long, senior, superior",
+    "imagePath": "kanji/長.png"
+  },
+  {
+    "kanji": "下",
+    "readings": [
+      "-くだ.す",
+      "お.りる",
+      "お.ろす",
+      "くだ.さる",
+      "くだ.す",
+      "くだ.り",
+      "くだ.る",
+      "さ.がる",
+      "さ.げる",
+      "した",
+      "しも",
+      "もと",
+      "か",
+      "げ"
+    ],
+    "meaning": "below, descend, down, give, inferior, low",
+    "imagePath": "kanji/下.png"
+  },
+  {
+    "kanji": "学",
+    "readings": [
+      "まな.ぶ",
+      "がく"
+    ],
+    "meaning": "learning, science, study",
+    "imagePath": "kanji/学.png"
+  },
+  {
+    "kanji": "月",
+    "readings": [
+      "つき",
+      "がつ",
+      "げつ"
+    ],
+    "meaning": "month, moon",
+    "imagePath": "kanji/月.png"
+  },
+  {
+    "kanji": "何",
+    "readings": [
+      "なに",
+      "なに-",
+      "なん",
+      "なん-",
+      "か"
+    ],
+    "meaning": "what",
+    "imagePath": "kanji/何.png"
+  },
+  {
+    "kanji": "来",
+    "readings": [
+      "き",
+      "き.たす",
+      "き.たる",
+      "きた.す",
+      "きた.る",
+      "く.る",
+      "こ",
+      "たい",
+      "らい"
+    ],
+    "meaning": "become, cause, come, due, next",
+    "imagePath": "kanji/来.png"
+  },
+  {
+    "kanji": "話",
+    "readings": [
+      "はな.す",
+      "はなし",
+      "わ"
+    ],
+    "meaning": "tale, talk",
+    "imagePath": "kanji/話.png"
+  },
+  {
+    "kanji": "山",
+    "readings": [
+      "やま",
+      "さん",
+      "せん"
+    ],
+    "meaning": "mountain",
+    "imagePath": "kanji/山.png"
+  },
+  {
+    "kanji": "高",
+    "readings": [
+      "-だか",
+      "たか",
+      "たか.い",
+      "たか.まる",
+      "たか.める",
+      "こう"
+    ],
+    "meaning": "expensive, high, tall",
+    "imagePath": "kanji/高.png"
+  },
+  {
+    "kanji": "今",
+    "readings": [
+      "いま",
+      "きん",
+      "こん"
+    ],
+    "meaning": "now",
+    "imagePath": "kanji/今.png"
+  },
+  {
+    "kanji": "書",
+    "readings": [
+      "-が.き",
+      "-がき",
+      "か.く",
+      "しょ"
+    ],
+    "meaning": "write",
+    "imagePath": "kanji/書.png"
+  },
+  {
+    "kanji": "五",
+    "readings": [
+      "いつ",
+      "いつ.つ",
+      "ご"
+    ],
+    "meaning": "five",
+    "imagePath": "kanji/五.png"
+  },
+  {
+    "kanji": "名",
+    "readings": [
+      "-な",
+      "な",
+      "みょう",
+      "めい"
+    ],
+    "meaning": "distinguished, name, noted, reputation",
+    "imagePath": "kanji/名.png"
+  },
+  {
+    "kanji": "金",
+    "readings": [
+      "-がね",
+      "かな-",
+      "かね",
+      "きん",
+      "こん",
+      "ごん"
+    ],
+    "meaning": "gold",
+    "imagePath": "kanji/金.png"
+  },
+  {
+    "kanji": "男",
+    "readings": [
+      "お",
+      "おとこ",
+      "だん",
+      "なん"
+    ],
+    "meaning": "male",
+    "imagePath": "kanji/男.png"
+  },
+  {
+    "kanji": "外",
+    "readings": [
+      "そと",
+      "と-",
+      "はず.す",
+      "はず.れる",
+      "ほか",
+      "がい",
+      "げ"
+    ],
+    "meaning": "outside",
+    "imagePath": "kanji/外.png"
+  },
+  {
+    "kanji": "四",
+    "readings": [
+      "よ",
+      "よ.つ",
+      "よっ.つ",
+      "よん",
+      "し"
+    ],
+    "meaning": "four",
+    "imagePath": "kanji/四.png"
+  },
+  {
+    "kanji": "先",
+    "readings": [
+      "さき",
+      "ま.ず",
+      "せん"
+    ],
+    "meaning": "ahead, before, future, precedence, previous",
+    "imagePath": "kanji/先.png"
+  },
+  {
+    "kanji": "川",
+    "readings": [
+      "かわ",
+      "せん"
+    ],
+    "meaning": "river, river or three-stroke river radical (no. 47), stream",
+    "imagePath": "kanji/川.png"
+  },
+  {
+    "kanji": "東",
+    "readings": [
+      "ひがし",
+      "とう"
+    ],
+    "meaning": "east",
+    "imagePath": "kanji/東.png"
+  },
+  {
+    "kanji": "聞",
+    "readings": [
+      "き.く",
+      "き.こえる",
+      "ぶん",
+      "もん"
+    ],
+    "meaning": "ask, hear, listen",
+    "imagePath": "kanji/聞.png"
+  },
+  {
+    "kanji": "語",
+    "readings": [
+      "かた.らう",
+      "かた.る",
+      "ご"
+    ],
+    "meaning": "language, speech, word",
+    "imagePath": "kanji/語.png"
+  },
+  {
+    "kanji": "九",
+    "readings": [
+      "ここの",
+      "ここの.つ",
+      "きゅう",
+      "く"
+    ],
+    "meaning": "nine",
+    "imagePath": "kanji/九.png"
+  },
+  {
+    "kanji": "食",
+    "readings": [
+      "く.う",
+      "く.らう",
+      "た.べる",
+      "は.む",
+      "しょく",
+      "じき"
+    ],
+    "meaning": "eat, food",
+    "imagePath": "kanji/食.png"
+  },
+  {
+    "kanji": "八",
+    "readings": [
+      "や",
+      "や.つ",
+      "やっ.つ",
+      "よう",
+      "はち",
+      "はつ"
+    ],
+    "meaning": "eight, eight radical (no. 12)",
+    "imagePath": "kanji/八.png"
+  },
+  {
+    "kanji": "水",
+    "readings": [
+      "みず",
+      "みず-",
+      "すい"
+    ],
+    "meaning": "water",
+    "imagePath": "kanji/水.png"
+  },
+  {
+    "kanji": "天",
+    "readings": [
+      "あま-",
+      "あまつ",
+      "あめ",
+      "てん"
+    ],
+    "meaning": "heavens, imperial, sky",
+    "imagePath": "kanji/天.png"
+  },
+  {
+    "kanji": "木",
+    "readings": [
+      "き",
+      "こ-",
+      "ぼく",
+      "もく"
+    ],
+    "meaning": "tree, wood",
+    "imagePath": "kanji/木.png"
+  },
+  {
+    "kanji": "六",
+    "readings": [
+      "む",
+      "む.つ",
+      "むい",
+      "むっ.つ",
+      "りく",
+      "ろく"
+    ],
+    "meaning": "six",
+    "imagePath": "kanji/六.png"
+  },
+  {
+    "kanji": "万",
+    "readings": [
+      "よろず",
+      "ばん",
+      "まん"
+    ],
+    "meaning": "10,000, ten thousand",
+    "imagePath": "kanji/万.png"
+  },
+  {
+    "kanji": "白",
+    "readings": [
+      "しら-",
+      "しろ",
+      "しろ.い",
+      "はく",
+      "びゃく"
+    ],
+    "meaning": "white",
+    "imagePath": "kanji/白.png"
+  },
+  {
+    "kanji": "七",
+    "readings": [
+      "なな",
+      "なな.つ",
+      "なの",
+      "しち"
+    ],
+    "meaning": "seven",
+    "imagePath": "kanji/七.png"
+  },
+  {
+    "kanji": "円",
+    "readings": [
+      "まど",
+      "まど.か",
+      "まる",
+      "まる.い",
+      "まろ.やか",
+      "えん"
+    ],
+    "meaning": "circle, round, yen",
+    "imagePath": "kanji/円.png"
+  },
+  {
+    "kanji": "電",
+    "readings": [
+      "でん"
+    ],
+    "meaning": "electricity",
+    "imagePath": "kanji/電.png"
+  },
+  {
+    "kanji": "父",
+    "readings": [
+      "ちち",
+      "ふ"
+    ],
+    "meaning": "father",
+    "imagePath": "kanji/父.png"
+  },
+  {
+    "kanji": "北",
+    "readings": [
+      "きた",
+      "ほく"
+    ],
+    "meaning": "north",
+    "imagePath": "kanji/北.png"
+  },
+  {
+    "kanji": "車",
+    "readings": [
+      "くるま",
+      "しゃ"
+    ],
+    "meaning": "car",
+    "imagePath": "kanji/車.png"
+  },
+  {
+    "kanji": "母",
+    "readings": [
+      "はは",
+      "も",
+      "ぼ"
+    ],
+    "meaning": "mother",
+    "imagePath": "kanji/母.png"
+  },
+  {
+    "kanji": "半",
+    "readings": [
+      "なか.ば",
+      "はん"
+    ],
+    "meaning": "half, middle, odd number, part-, semi-",
+    "imagePath": "kanji/半.png"
+  },
+  {
+    "kanji": "百",
+    "readings": [
+      "もも",
+      "ひゃく",
+      "びゃく"
+    ],
+    "meaning": "hundred",
+    "imagePath": "kanji/百.png"
+  },
+  {
+    "kanji": "土",
+    "readings": [
+      "つち",
+      "と",
+      "ど"
+    ],
+    "meaning": "Turkey, earth, ground, soil",
+    "imagePath": "kanji/土.png"
+  },
+  {
+    "kanji": "西",
+    "readings": [
+      "にし",
+      "さい",
+      "す",
+      "せい"
+    ],
+    "meaning": "Spain, west",
+    "imagePath": "kanji/西.png"
+  },
+  {
+    "kanji": "読",
+    "readings": [
+      "-よ.み",
+      "よ.む",
+      "とう",
+      "とく",
+      "どく"
+    ],
+    "meaning": "read",
+    "imagePath": "kanji/読.png"
+  },
+  {
+    "kanji": "千",
+    "readings": [
+      "ち",
+      "せん"
+    ],
+    "meaning": "thousand",
+    "imagePath": "kanji/千.png"
+  },
+  {
+    "kanji": "校",
+    "readings": [
+      "きょう",
+      "こう"
+    ],
+    "meaning": "correction, exam, printing, proof, school",
+    "imagePath": "kanji/校.png"
+  },
+  {
+    "kanji": "右",
+    "readings": [
+      "みぎ",
+      "う",
+      "ゆう"
+    ],
+    "meaning": "right",
+    "imagePath": "kanji/右.png"
+  },
+  {
+    "kanji": "南",
+    "readings": [
+      "みなみ",
+      "な",
+      "なん"
+    ],
+    "meaning": "south",
+    "imagePath": "kanji/南.png"
+  },
+  {
+    "kanji": "左",
+    "readings": [
+      "ひだり",
+      "さ",
+      "しゃ"
+    ],
+    "meaning": "left",
+    "imagePath": "kanji/左.png"
+  },
+  {
+    "kanji": "友",
+    "readings": [
+      "とも",
+      "ゆう"
+    ],
+    "meaning": "friend",
+    "imagePath": "kanji/友.png"
+  },
+  {
+    "kanji": "火",
+    "readings": [
+      "-び",
+      "ひ",
+      "ほ-",
+      "か"
+    ],
+    "meaning": "fire",
+    "imagePath": "kanji/火.png"
+  },
+  {
+    "kanji": "毎",
+    "readings": [
+      "-ごと.に",
+      "ごと",
+      "まい"
+    ],
+    "meaning": "every",
+    "imagePath": "kanji/毎.png"
+  },
+  {
+    "kanji": "雨",
+    "readings": [
+      "-さめ",
+      "あま-",
+      "あめ",
+      "う"
+    ],
+    "meaning": "rain",
+    "imagePath": "kanji/雨.png"
+  },
+  {
+    "kanji": "休",
+    "readings": [
+      "やす.まる",
+      "やす.む",
+      "やす.める",
+      "きゅう"
+    ],
+    "meaning": "day off, rest, retire, sleep",
+    "imagePath": "kanji/休.png"
+  },
+  {
+    "kanji": "午",
+    "readings": [
+      "うま",
+      "ご"
+    ],
+    "meaning": "11AM-1PM, noon, seventh sign of Chinese zodiac, sign of the horse",
+    "imagePath": "kanji/午.png"
+  }
+]
