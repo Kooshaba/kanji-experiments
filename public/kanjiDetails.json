@@ -1030,5 +1030,208 @@
     ],
     "meaning": "be blinded, darkness, disappear, grow dark, informal, shade",
     "imagePath": "kanji/暗.png"
+  },
+  {
+    "kanji": "開",
+    "readings": [
+      "-びら.き",
+      "あ.く",
+      "あ.ける",
+      "ひら.き",
+      "ひら.く",
+      "ひら.ける",
+      "かい"
+    ],
+    "meaning": "open, unfold, unseal",
+    "imagePath": "kanji/開.png"
+  },
+  {
+    "kanji": "豆",
+    "readings": [
+      "まめ",
+      "まめ-",
+      "ず",
+      "とう"
+    ],
+    "meaning": "beans, midget, pea",
+    "imagePath": "kanji/豆.png"
+  },
+  {
+    "kanji": "赤",
+    "readings": [
+      "あか",
+      "あか-",
+      "あか.い",
+      "あか.らむ",
+      "あか.らめる",
+      "しゃく",
+      "せき"
+    ],
+    "meaning": "red",
+    "imagePath": "kanji/赤.png"
+  },
+  {
+    "kanji": "仕",
+    "readings": [
+      "つか.える",
+      "し",
+      "じ"
+    ],
+    "meaning": "attend, doing, official, serve",
+    "imagePath": "kanji/仕.png"
+  },
+  {
+    "kanji": "事",
+    "readings": [
+      "こと",
+      "つか.う",
+      "つか.える",
+      "じ",
+      "ず"
+    ],
+    "meaning": "business, fact, matter, possibly, reason, thing",
+    "imagePath": "kanji/事.png"
+  },
+  {
+    "kanji": "英",
+    "readings": [
+      "はなぶさ",
+      "えい"
+    ],
+    "meaning": "England, English, calyx, hero, outstanding",
+    "imagePath": "kanji/英.png"
+  },
+  {
+    "kanji": "秋",
+    "readings": [
+      "あき",
+      "とき",
+      "しゅう"
+    ],
+    "meaning": "autumn",
+    "imagePath": "kanji/秋.png"
+  },
+  {
+    "kanji": "飴",
+    "readings": [
+      "あめ",
+      "やしな.う",
+      "い",
+      "し"
+    ],
+    "meaning": "candy, rice jelly",
+    "imagePath": "kanji/飴.png"
+  },
+  {
+    "kanji": "姉",
+    "readings": [
+      "あね",
+      "はは",
+      "し"
+    ],
+    "meaning": "elder sister",
+    "imagePath": "kanji/姉.png"
+  },
+  {
+    "kanji": "兄",
+    "readings": [
+      "あに",
+      "きょう",
+      "けい"
+    ],
+    "meaning": "big brother, elder brother",
+    "imagePath": "kanji/兄.png"
+  },
+  {
+    "kanji": "青",
+    "readings": [
+      "あお",
+      "あお-",
+      "あお.い",
+      "しょう",
+      "せい"
+    ],
+    "meaning": "blue, green",
+    "imagePath": "kanji/青.png"
+  },
+  {
+    "kanji": "朝",
+    "readings": [
+      "あさ",
+      "ちょう"
+    ],
+    "meaning": "(North) Korea, dynasty, epoch, morning, period, regime",
+    "imagePath": "kanji/朝.png"
+  },
+  {
+    "kanji": "飯",
+    "readings": [
+      "めし",
+      "はん"
+    ],
+    "meaning": "boiled rice, meal",
+    "imagePath": "kanji/飯.png"
+  },
+  {
+    "kanji": "足",
+    "readings": [
+      "あし",
+      "た.す",
+      "た.りる",
+      "た.る",
+      "そく"
+    ],
+    "meaning": "be sufficient, counter for pairs of footwear, foot, leg",
+    "imagePath": "kanji/足.png"
+  },
+  {
+    "kanji": "頭",
+    "readings": [
+      "-がしら",
+      "あたま",
+      "かしら",
+      "かぶり",
+      "ず",
+      "と",
+      "とう"
+    ],
+    "meaning": "counter for large animals, head",
+    "imagePath": "kanji/頭.png"
+  },
+  {
+    "kanji": "晩",
+    "readings": [
+      "ばん"
+    ],
+    "meaning": "night, nightfall",
+    "imagePath": "kanji/晩.png"
+  },
+  {
+    "kanji": "番",
+    "readings": [
+      "つが.い",
+      "ばん"
+    ],
+    "meaning": "number in a series, turn",
+    "imagePath": "kanji/番.png"
+  },
+  {
+    "kanji": "号",
+    "readings": [
+      "さけ.ぶ",
+      "よびな",
+      "ごう"
+    ],
+    "meaning": "call, item, name, nickname, number, pseudonym, title",
+    "imagePath": "kanji/号.png"
+  },
+  {
+    "kanji": "不",
+    "readings": [
+      "ふ",
+      "ぶ"
+    ],
+    "meaning": "bad, clumsy, negative, non-, ugly",
+    "imagePath": "kanji/不.png"
   }
 ]
