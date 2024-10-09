@@ -207,6 +207,22 @@ const KanjiViewer = ({ kanjiData }: { kanjiData: KanjiData }) => {
           >
             Correct
           </button>
+
+          <div
+            style={{
+              marginTop: "20px",
+              border: "1px solid #ccc",
+              padding: "10px",
+            }}
+          >
+            <div style={{ marginBottom: "10px" }}>Sample Words:</div>
+            {currentKanji.vocab.map((vocabWord, index) => (
+              <div key={index} style={{ marginBottom: "5px" }}>
+                <strong>{vocabWord.word}</strong> ({vocabWord.reading}):{" "}
+                {vocabWord.meaning}
+              </div>
+            ))}
+          </div>
         </div>
       )}
       {!showDetails && (

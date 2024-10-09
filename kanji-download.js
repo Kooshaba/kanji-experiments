@@ -159,7 +159,8 @@ async function fetchKanjiDetails(kanjiUrl) {
     '晩',
     '番',
     '号',
-    '不'
+    '不',
+    '更'
   ];
 
   // Read existing kanji details
