@@ -1,25 +1,49 @@
 import React, { useState, useEffect } from "react";
-import { Attempt, KanjiData, KanjiHistory } from "./types";
+import {
+  Attempt,
+  Kanji,
+  KanjiData,
+  KanjiHistory,
+  SRSLevelTranslations,
+  SessionSummary,
+} from "./types";
+import { createSRSStorage } from "./SRSStorage";
+import { Duration, DateTime } from "luxon";
 
-function getKanjiHistory(): KanjiHistory {
-  return JSON.parse(localStorage.getItem("kanjiHistory") || "{}");
-}
-
-function getKanjiHistoryForKanji(kanji: string): Attempt[] {
-  const history = getKanjiHistory();
-  return history[kanji] || [];
-}
-
-const KanjiViewer = ({ kanjiData }: { kanjiData: KanjiData }) => {
+const KanjiViewer = ({
+  kanjiData,
+  onCorrect,
+  onIncorrect,
+  srsStorage,
+  onSessionComplete,
+}: {
+  kanjiData: KanjiData;
+  srsStorage: ReturnType<typeof createSRSStorage>;
+  onCorrect: (kanji: string, easeFactor?: number) => void;
+  onIncorrect: (kanji: string) => void;
+  onSessionComplete: (summary: SessionSummary) => void;
+}) => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showDetails, setShowDetails] = useState(false);
-  const [attemptHistory, setAttemptHistory] = useState<
-    {
-      time: string;
-      correct: boolean;
-    }[]
-  >([]);
   const [sessionHistory, setSessionHistory] = useState<KanjiHistory>({});
+  const [sessionSummary, setSessionSummary] = useState<SessionSummary>({
+    totalTime: Duration.fromObject({ seconds: 0 }),
+    totalKanji: 0,
+    correctKanji: 0,
+    incorrectKanji: 0,
+  });
+  const [startTime, setStartTime] = useState(DateTime.now());
+
+  useEffect(() => {
+    setStartTime(DateTime.now());
+    setCurrentIndex(0);
+    setSessionSummary({
+      totalTime: Duration.fromObject({ seconds: 0 }),
+      totalKanji: 0,
+      correctKanji: 0,
+      incorrectKanji: 0,
+    });
+  }, [kanjiData]);
 
   useEffect(() => {
     const handleKeyDown = (event) => {
@@ -29,6 +53,9 @@ const KanjiViewer = ({ kanjiData }: { kanjiData: KanjiData }) => {
       if (event.key === "ArrowDown" && showDetails) {
         handleIncorrect();
       }
+      if (event.key === "ArrowUp" && showDetails) {
+        handleEasy();
+      }
     };
 
     window.addEventListener("keydown", handleKeyDown);
@@ -37,35 +64,28 @@ const KanjiViewer = ({ kanjiData }: { kanjiData: KanjiData }) => {
     };
   }, [showDetails, kanjiData]);
 
-  useEffect(() => {
-    if (kanjiData.length > 0) {
-      const currentKanji = kanjiData[currentIndex].kanji;
-      const history = getKanjiHistory();
-      setAttemptHistory(history[currentKanji] || []);
-    }
-  }, [currentIndex, kanjiData]);
-
   const advance = () => {
     setShowDetails(!showDetails);
     if (showDetails) {
-      setCurrentIndex((currentIndex + 1) % kanjiData.length);
+      if (currentIndex < kanjiData.length - 1) {
+        setCurrentIndex(currentIndex + 1);
+      } else {
+        const endTime = DateTime.now();
+        const totalTime = endTime.diff(startTime);
+        onSessionComplete({
+          ...sessionSummary,
+          totalTime: totalTime,
+        });
+      }
     }
   };
 
-  const flashScreen = async (color) => {
+  const flashScreen = async (color: string) => {
     const body = document.body;
     body.style.transition = "background-color 0.5s ease";
     body.style.backgroundColor = color;
     await new Promise((resolve) => setTimeout(resolve, 200));
-    body.style.backgroundColor = ""; // Reset to original color
-  };
-
-  const saveAttempt = (kanji, correct) => {
-    const history = getKanjiHistory();
-    const attempts = history[kanji] || [];
-    attempts.push({ time: new Date().toISOString(), correct });
-    history[kanji] = attempts;
-    localStorage.setItem("kanjiHistory", JSON.stringify(history));
+    body.style.backgroundColor = "";
   };
 
   const updateSessionHistory = (kanji: string, correct: boolean) => {
@@ -78,26 +98,66 @@ const KanjiViewer = ({ kanjiData }: { kanjiData: KanjiData }) => {
 
   const handleCorrect = async () => {
     const currentKanji = kanjiData[currentIndex].kanji;
-    saveAttempt(currentKanji, true);
+    onCorrect(currentKanji);
+    setSessionSummary({
+      ...sessionSummary,
+      totalKanji: sessionSummary.totalKanji + 1,
+      correctKanji: sessionSummary.correctKanji + 1,
+    });
+    updateSessionHistory(currentKanji, true);
     await flashScreen("green");
     advance();
+  };
+
+  const handleEasy = async () => {
+    const currentKanji = kanjiData[currentIndex].kanji;
+    onCorrect(currentKanji, 2);
+    setSessionSummary({
+      ...sessionSummary,
+      totalKanji: sessionSummary.totalKanji + 1,
+      correctKanji: sessionSummary.correctKanji + 1,
+    });
     updateSessionHistory(currentKanji, true);
+    await flashScreen("blue");
+    advance();
   };
 
   const handleIncorrect = async () => {
     const currentKanji = kanjiData[currentIndex].kanji;
-    saveAttempt(currentKanji, false);
+    onIncorrect(currentKanji);
+    setSessionSummary({
+      ...sessionSummary,
+      totalKanji: sessionSummary.totalKanji + 1,
+      incorrectKanji: sessionSummary.incorrectKanji + 1,
+    });
+    updateSessionHistory(currentKanji, false);
     await flashScreen("red");
     advance();
-    updateSessionHistory(currentKanji, false);
   };
 
   if (kanjiData.length === 0) return <div>Loading...</div>;
 
-  const currentKanji = kanjiData[currentIndex];
+  const currentKanji = kanjiData[currentIndex] as Kanji | undefined;
+  const currentKanjiSRSData = currentKanji
+    ? srsStorage.getKanji(currentKanji.kanji)
+    : undefined;
 
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
+      <div
+        style={{
+          marginTop: "10px",
+          marginBottom: "10px",
+          border: "none",
+          padding: "5px",
+          fontSize: "12px",
+          textAlign: "left",
+        }}
+      >
+        <h3>Session Data</h3>
+        <p>Remaining: {kanjiData.length - currentIndex}</p>
+      </div>
+
       <div
         style={{
           display: "flex",
@@ -136,8 +196,8 @@ const KanjiViewer = ({ kanjiData }: { kanjiData: KanjiData }) => {
         })}
       </div>
 
-      <div>{currentKanji.meaning}</div>
-      {showDetails && (
+      <div>{currentKanji?.meaning}</div>
+      {showDetails && currentKanji && (
         <div style={{ marginTop: "20px" }}>
           <div style={{ fontSize: "100px" }}>{currentKanji.kanji}</div>
           <img
@@ -146,6 +206,12 @@ const KanjiViewer = ({ kanjiData }: { kanjiData: KanjiData }) => {
             style={{ maxWidth: "100px" }}
           />
           <div>Readings: {currentKanji.readings.join(", ")}</div>
+
+          <div>Last Attempt: {currentKanjiSRSData?.lastAttemptAt}</div>
+          <div>
+            <strong>Level:</strong> {currentKanjiSRSData?.level} -{" "}
+            {SRSLevelTranslations[currentKanjiSRSData?.level ?? 0]}
+          </div>
 
           <a
             href={`https://www.kanshudo.com/search?q=${currentKanji.kanji}`}
@@ -164,33 +230,21 @@ const KanjiViewer = ({ kanjiData }: { kanjiData: KanjiData }) => {
             View on Kanshudo
           </a>
 
-          <div
-            style={{
-              marginTop: "20px",
-              border: "1px solid #ccc",
-              padding: "10px",
-            }}
-          >
-            <div style={{ marginBottom: "10px" }}>Previous Attempts:</div>
-            {attemptHistory.map((attempt, index) => (
-              <span
-                key={index}
-                style={{ color: attempt.correct ? "green" : "red" }}
-              >
-                {attempt.correct ? "✔️" : "❌"}
-              </span>
-            ))}
-          </div>
-
           <button
             onClick={handleIncorrect}
             style={{
               marginTop: "20px",
               padding: "10px 20px",
               marginLeft: "10px",
-              backgroundColor: "red", // Color for incorrect
+              backgroundColor: "red",
               color: "white",
+              cursor: "pointer", // Add cursor pointer
+              transition: "transform 0.2s", // Add transition for animation
             }}
+            onMouseEnter={(e) =>
+              (e.currentTarget.style.transform = "scale(1.1)")
+            }
+            onMouseLeave={(e) => (e.currentTarget.style.transform = "scale(1)")}
           >
             Incorrect
           </button>
@@ -201,11 +255,36 @@ const KanjiViewer = ({ kanjiData }: { kanjiData: KanjiData }) => {
               marginLeft: "10px",
               marginTop: "20px",
               padding: "10px 20px",
-              backgroundColor: "green", // Color for correct
+              backgroundColor: "green",
               color: "white",
+              cursor: "pointer", // Add cursor pointer
+              transition: "transform 0.2s", // Add transition for animation
             }}
+            onMouseEnter={(e) =>
+              (e.currentTarget.style.transform = "scale(1.1)")
+            }
+            onMouseLeave={(e) => (e.currentTarget.style.transform = "scale(1)")}
           >
             Correct
+          </button>
+
+          <button
+            onClick={handleEasy}
+            style={{
+              marginLeft: "10px",
+              marginTop: "20px",
+              padding: "10px 20px",
+              backgroundColor: "blue",
+              color: "white",
+              cursor: "pointer", // Add cursor pointer
+              transition: "transform 0.2s", // Add transition for animation
+            }}
+            onMouseEnter={(e) =>
+              (e.currentTarget.style.transform = "scale(1.1)")
+            }
+            onMouseLeave={(e) => (e.currentTarget.style.transform = "scale(1)")}
+          >
+            Easy
           </button>
 
           <div
@@ -216,10 +295,19 @@ const KanjiViewer = ({ kanjiData }: { kanjiData: KanjiData }) => {
             }}
           >
             <div style={{ marginBottom: "10px" }}>Sample Words:</div>
-            {currentKanji.vocab.map((vocabWord, index) => (
+            {currentKanji?.vocab?.map((vocabWord, index) => (
               <div key={index} style={{ marginBottom: "5px" }}>
                 <strong>{vocabWord.word}</strong> ({vocabWord.reading}):{" "}
-                {vocabWord.meaning}
+                {vocabWord.meaning}{" "}
+                <a
+                  href={`https://jisho.org/search/${encodeURIComponent(
+                    vocabWord.word
+                  )}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  (Jisho)
+                </a>
               </div>
             ))}
           </div>
@@ -228,7 +316,14 @@ const KanjiViewer = ({ kanjiData }: { kanjiData: KanjiData }) => {
       {!showDetails && (
         <button
           onClick={advance}
-          style={{ marginTop: "20px", padding: "10px 20px" }}
+          style={{
+            marginTop: "20px",
+            padding: "10px 20px",
+            cursor: "pointer", // Add cursor pointer
+            transition: "transform 0.2s", // Add transition for animation
+          }}
+          onMouseEnter={(e) => (e.currentTarget.style.transform = "scale(1.1)")}
+          onMouseLeave={(e) => (e.currentTarget.style.transform = "scale(1)")}
         >
           Show Details
         </button>

@@ -12,9 +12,10 @@ const openai = new OpenAI();
 async function fetchVocabForKanji(kanji, existingKanji) {
   try {
     console.log(`Generating vocab for ${kanji}`);
-    const prompt = `Generate vocabulary words using the kanji "${kanji}" and only using these kanji: ${existingKanji.join(', ')}.
-    Make EXTRA SURE THE WORDS ARE REAL AND JAPANESE.
-    Output max 10 words.
+    const prompt = `Generate vocabulary words using the kanji "${kanji}".
+    Only use kanji that are in the following list: ${existingKanji.join(', ')}.
+    Make sure the words are real and Japanese.
+    Output only 2 words using the two different readings. They should be the most common words.
     Output the words in json using this example format: {
       words: [{
         word: "word",
@@ -26,7 +27,7 @@ async function fetchVocabForKanji(kanji, existingKanji) {
       model: "gpt-4o-mini",
       response_format: { type: "json_object" },
       messages: [
-        { role: "system", content: "You are a helpful assistant." },
+        { role: "system", content: "You are a master of the Japanese language.You are generating vocabulary words given a specific kanji. You focus on accuracy and correctness." },
         {
             role: "user",
             content: prompt
@@ -51,11 +52,11 @@ async function fetchVocabForKanji(kanji, existingKanji) {
 
   // Extract kanji characters
   const existingKanji = kanjiDetails.map(detail => detail.kanji);
-
-  // Fetch vocab for each kanji
   for (const detail of kanjiDetails) {
-    const vocab = await fetchVocabForKanji(detail.kanji, existingKanji);
-    detail.vocab = vocab;
+    if (!detail.vocab || detail.vocab.length === 0) {
+      const vocab = await fetchVocabForKanji(detail.kanji, existingKanji);
+      detail.vocab = vocab;
+    }
   }
 
   // Save updated kanji details

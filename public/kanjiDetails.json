@@ -12,54 +12,14 @@
     "imagePath": "kanji/人.png",
     "vocab": [
       {
-        "word": "人間",
-        "reading": "にんげん",
-        "meaning": "human, humanity"
+        "word": "人",
+        "reading": "ひと",
+        "meaning": "person"
       },
       {
-        "word": "人出",
-        "reading": "ひとで",
-        "meaning": "crowd, number of people"
-      },
-      {
-        "word": "大人",
-        "reading": "おとな",
-        "meaning": "adult"
-      },
-      {
-        "word": "子供",
-        "reading": "こども",
-        "meaning": "child"
-      },
-      {
-        "word": "外国",
-        "reading": "がいこく",
-        "meaning": "foreign country"
-      },
-      {
-        "word": "友人",
-        "reading": "ゆうじん",
-        "meaning": "friend"
-      },
-      {
-        "word": "一人",
-        "reading": "ひとり",
-        "meaning": "one person, alone"
-      },
-      {
-        "word": "三人",
-        "reading": "さんにん",
-        "meaning": "three people"
-      },
-      {
-        "word": "人名",
-        "reading": "じんめい",
-        "meaning": "personal name"
-      },
-      {
-        "word": "年間",
-        "reading": "ねんかん",
-        "meaning": "year, period of years"
+        "word": "人",
+        "reading": "じん",
+        "meaning": "people, nationality (suffix)"
       }
     ]
   },
@@ -76,53 +36,13 @@
     "vocab": [
       {
         "word": "一人",
-        "reading": "ひとり",
-        "meaning": "one person; alone"
-      },
-      {
-        "word": "一年",
-        "reading": "いちねん",
-        "meaning": "one year"
-      },
-      {
-        "word": "一見",
-        "reading": "いっけん",
-        "meaning": "glance; one look"
+        "reading": "いちにん",
+        "meaning": "one person"
       },
       {
         "word": "一月",
         "reading": "いちがつ",
-        "meaning": "January; one month"
-      },
-      {
-        "word": "一番",
-        "reading": "いちばん",
-        "meaning": "number one; the best"
-      },
-      {
-        "word": "一緒",
-        "reading": "いっしょ",
-        "meaning": "together"
-      },
-      {
-        "word": "十分",
-        "reading": "じゅうぶん",
-        "meaning": "sufficient; enough (ten minutes)"
-      },
-      {
-        "word": "一時",
-        "reading": "いちじ",
-        "meaning": "one o'clock; one time"
-      },
-      {
-        "word": "一緒に",
-        "reading": "いっしょに",
-        "meaning": "together; with"
-      },
-      {
-        "word": "一生",
-        "reading": "いっしょう",
-        "meaning": "a lifetime; all one's life"
+        "meaning": "January"
       }
     ]
   },
@@ -139,54 +59,14 @@
     "imagePath": "kanji/日.png",
     "vocab": [
       {
-        "word": "日曜日",
-        "reading": "にちようび",
-        "meaning": "Sunday"
-      },
-      {
-        "word": "日中",
-        "reading": "にっちゅう",
-        "meaning": "during the day"
-      },
-      {
-        "word": "日記",
-        "reading": "にっき",
-        "meaning": "diary"
+        "word": "日",
+        "reading": "ひ",
+        "meaning": "day; sun"
       },
       {
         "word": "明日",
         "reading": "あした",
         "meaning": "tomorrow"
-      },
-      {
-        "word": "日出",
-        "reading": "ひので",
-        "meaning": "sunrise"
-      },
-      {
-        "word": "今日",
-        "reading": "きょう",
-        "meaning": "today"
-      },
-      {
-        "word": "日米",
-        "reading": "にちべい",
-        "meaning": "Japan and the United States"
-      },
-      {
-        "word": "休日",
-        "reading": "きゅうじつ",
-        "meaning": "holiday"
-      },
-      {
-        "word": "日程",
-        "reading": "にってい",
-        "meaning": "schedule"
-      },
-      {
-        "word": "日常",
-        "reading": "にちじょう",
-        "meaning": "daily life"
       }
     ]
   },
@@ -208,49 +88,9 @@
         "meaning": "adult"
       },
       {
-        "word": "大学",
-        "reading": "だいがく",
-        "meaning": "university"
-      },
-      {
         "word": "大きい",
         "reading": "おおきい",
         "meaning": "big; large"
-      },
-      {
-        "word": "大好き",
-        "reading": "だいすき",
-        "meaning": "love (something/someone)"
-      },
-      {
-        "word": "大丈夫",
-        "reading": "だいじょうぶ",
-        "meaning": "okay; fine"
-      },
-      {
-        "word": "大体",
-        "reading": "だいたい",
-        "meaning": "generally; roughly"
-      },
-      {
-        "word": "大分",
-        "reading": "おおいた",
-        "meaning": "considerably; quite"
-      },
-      {
-        "word": "大昔",
-        "reading": "おおむかし",
-        "meaning": "prehistoric times"
-      },
-      {
-        "word": "大雪",
-        "reading": "おおゆき",
-        "meaning": "heavy snow"
-      },
-      {
-        "word": "大和",
-        "reading": "やまと",
-        "meaning": "great harmony; ancient Japan"
       }
     ]
   },
@@ -264,54 +104,14 @@
     "imagePath": "kanji/年.png",
     "vocab": [
       {
-        "word": "年生",
-        "reading": "ねんせい",
-        "meaning": "year (in school), grade"
+        "word": "年",
+        "reading": "ねん",
+        "meaning": "year"
       },
       {
-        "word": "一年",
-        "reading": "いちねん",
-        "meaning": "one year"
-      },
-      {
-        "word": "年中",
-        "reading": "ねんちゅう",
-        "meaning": "all year round"
-      },
-      {
-        "word": "年齢",
-        "reading": "ねんれい",
-        "meaning": "age"
-      },
-      {
-        "word": "今年",
-        "reading": "ことし",
-        "meaning": "this year"
-      },
-      {
-        "word": "年末",
-        "reading": "ねんまつ",
-        "meaning": "end of year"
-      },
-      {
-        "word": "年代",
-        "reading": "ねんだい",
-        "meaning": "era, age"
-      },
-      {
-        "word": "年来",
-        "reading": "ねんらい",
-        "meaning": "for years, over the years"
-      },
-      {
-        "word": "年賀状",
-        "reading": "ねんがじょう",
-        "meaning": "New Year's card"
-      },
-      {
-        "word": "年始",
-        "reading": "ねんし",
-        "meaning": "beginning of the year"
+        "word": "年度",
+        "reading": "ねんど",
+        "meaning": "fiscal year; academic year"
       }
     ]
   },
@@ -331,54 +131,14 @@
     "imagePath": "kanji/出.png",
     "vocab": [
       {
-        "word": "出入",
-        "reading": "でいり",
-        "meaning": "going in and out"
-      },
-      {
         "word": "出発",
         "reading": "しゅっぱつ",
         "meaning": "departure"
       },
       {
-        "word": "出身",
-        "reading": "しゅっしん",
-        "meaning": "origin, birthplace"
-      },
-      {
-        "word": "出勤",
-        "reading": "しゅっきん",
-        "meaning": "going to work"
-      },
-      {
-        "word": "出欠",
-        "reading": "しゅっけつ",
-        "meaning": "attendance and absence"
-      },
-      {
-        "word": "出会",
-        "reading": "であい",
-        "meaning": "meeting, encounter"
-      },
-      {
-        "word": "出店",
-        "reading": "しゅってん",
-        "meaning": "opening a store"
-      },
-      {
-        "word": "出所",
-        "reading": "でどころ",
-        "meaning": "place of origin"
-      },
-      {
-        "word": "出願",
-        "reading": "しゅつがん",
-        "meaning": "application"
-      },
-      {
-        "word": "出力",
-        "reading": "しゅつりょく",
-        "meaning": "output"
+        "word": "出る",
+        "reading": "でる",
+        "meaning": "to go out"
       }
     ]
   },
@@ -397,49 +157,9 @@
         "meaning": "Japan"
       },
       {
-        "word": "本社",
-        "reading": "ほんしゃ",
-        "meaning": "head office"
-      },
-      {
-        "word": "本日",
-        "reading": "ほんじつ",
-        "meaning": "today"
-      },
-      {
-        "word": "本物",
-        "reading": "ほんもの",
-        "meaning": "real thing, genuine article"
-      },
-      {
-        "word": "本来",
-        "reading": "ほんらい",
-        "meaning": "originally, fundamentally"
-      },
-      {
-        "word": "本州",
-        "reading": "ほんしゅう",
-        "meaning": "Honshu (the main island of Japan)"
-      },
-      {
-        "word": "本番",
-        "reading": "ほんばん",
-        "meaning": "actual performance, the real thing"
-      },
-      {
-        "word": "本音",
-        "reading": "ほんね",
-        "meaning": "true intention, real intention"
-      },
-      {
-        "word": "本気",
-        "reading": "ほんき",
-        "meaning": "seriousness, earnestness"
-      },
-      {
-        "word": "本書",
-        "reading": "ほんしょ",
-        "meaning": "this book, this writing"
+        "word": "本子",
+        "reading": "ほんし",
+        "meaning": "book (in a general sense); this can also refer to a script or original text"
       }
     ]
   },
@@ -456,53 +176,13 @@
     "vocab": [
       {
         "word": "中",
-        "reading": "ちゅう",
-        "meaning": "middle, inside, among"
-      },
-      {
-        "word": "中心",
-        "reading": "ちゅうしん",
-        "meaning": "center"
-      },
-      {
-        "word": "中学生",
-        "reading": "ちゅうがくせい",
-        "meaning": "junior high school student"
+        "reading": "なか",
+        "meaning": "inside, middle"
       },
       {
         "word": "中国",
         "reading": "ちゅうごく",
         "meaning": "China"
-      },
-      {
-        "word": "中止",
-        "reading": "ちゅうし",
-        "meaning": "suspension, cancellation"
-      },
-      {
-        "word": "中身",
-        "reading": "なかみ",
-        "meaning": "contents, inside"
-      },
-      {
-        "word": "中間",
-        "reading": "ちゅうかん",
-        "meaning": "interval, middle"
-      },
-      {
-        "word": "仲間",
-        "reading": "なかま",
-        "meaning": "companion, friend"
-      },
-      {
-        "word": "人中",
-        "reading": "じんちゅう",
-        "meaning": "among people, in the crowd"
-      },
-      {
-        "word": "途中",
-        "reading": "とちゅう",
-        "meaning": "on the way; halfway"
       }
     ]
   },
@@ -525,49 +205,9 @@
         "meaning": "child"
       },
       {
-        "word": "子供たち",
-        "reading": "こどもたち",
-        "meaning": "children"
-      },
-      {
         "word": "女子",
         "reading": "じょし",
-        "meaning": "girl"
-      },
-      {
-        "word": "子猫",
-        "reading": "こねこ",
-        "meaning": "kitten"
-      },
-      {
-        "word": "子犬",
-        "reading": "こいぬ",
-        "meaning": "puppy"
-      },
-      {
-        "word": "息子",
-        "reading": "むすこ",
-        "meaning": "son"
-      },
-      {
-        "word": "子供向け",
-        "reading": "こどもむけ",
-        "meaning": "for children"
-      },
-      {
-        "word": "女の子",
-        "reading": "おんなのこ",
-        "meaning": "girl"
-      },
-      {
-        "word": "男子",
-        "reading": "だんし",
-        "meaning": "boy"
-      },
-      {
-        "word": "子音",
-        "reading": "しいん",
-        "meaning": "consonant"
+        "meaning": "girl; female"
       }
     ]
   },
@@ -583,54 +223,14 @@
     "imagePath": "kanji/見.png",
     "vocab": [
       {
-        "word": "見学",
-        "reading": "けんがく",
-        "meaning": "study by seeing; observation"
-      },
-      {
-        "word": "見えない",
-        "reading": "みえない",
-        "meaning": "invisible; cannot be seen"
-      },
-      {
-        "word": "見つける",
-        "reading": "みつける",
-        "meaning": "to find; to discover"
-      },
-      {
-        "word": "見本",
-        "reading": "みほん",
-        "meaning": "sample; example"
-      },
-      {
-        "word": "見逃す",
-        "reading": "みのがす",
-        "meaning": "to overlook; to miss"
-      },
-      {
-        "word": "見せる",
-        "reading": "みせる",
-        "meaning": "to show; to display"
-      },
-      {
-        "word": "見込み",
-        "reading": "みこみ",
-        "meaning": "expectation; prospect"
-      },
-      {
         "word": "見える",
         "reading": "みえる",
-        "meaning": "to be visible; can be seen"
+        "meaning": "to be visible"
       },
       {
-        "word": "見せびらかす",
-        "reading": "みせびらかす",
-        "meaning": "to show off; to flaunt"
-      },
-      {
-        "word": "見辛い",
-        "reading": "みづらい",
-        "meaning": "hard to see; difficult to see"
+        "word": "見学",
+        "reading": "けんがく",
+        "meaning": "study by observation; inspection"
       }
     ]
   },
@@ -644,54 +244,14 @@
     "imagePath": "kanji/国.png",
     "vocab": [
       {
-        "word": "国人",
-        "reading": "こくじん",
-        "meaning": "national; citizens of a country"
-      },
-      {
-        "word": "国土",
-        "reading": "こくど",
-        "meaning": "territory; national land"
-      },
-      {
-        "word": "国営",
-        "reading": "こくえい",
-        "meaning": "nationally operated; state-run"
+        "word": "国家",
+        "reading": "こっか",
+        "meaning": "nation, country"
       },
       {
         "word": "国際",
         "reading": "こくさい",
         "meaning": "international"
-      },
-      {
-        "word": "国家",
-        "reading": "こっか",
-        "meaning": "nation; state"
-      },
-      {
-        "word": "国内",
-        "reading": "こくない",
-        "meaning": "domestic; within the country"
-      },
-      {
-        "word": "国会",
-        "reading": "こっかい",
-        "meaning": "national diet; parliament"
-      },
-      {
-        "word": "国籍",
-        "reading": "こくせき",
-        "meaning": "nationality"
-      },
-      {
-        "word": "全国",
-        "reading": "ぜんこく",
-        "meaning": "nationwide; all over the country"
-      },
-      {
-        "word": "国境",
-        "reading": "こっきょう",
-        "meaning": "national border"
       }
     ]
   },
@@ -721,54 +281,14 @@
     "imagePath": "kanji/上.png",
     "vocab": [
       {
+        "word": "上る",
+        "reading": "のぼる",
+        "meaning": "to rise; to ascend"
+      },
+      {
         "word": "上手",
         "reading": "じょうず",
-        "meaning": "skillful; good at"
-      },
-      {
-        "word": "上がる",
-        "reading": "あがる",
-        "meaning": "to rise; to go up"
-      },
-      {
-        "word": "上着",
-        "reading": "うわぎ",
-        "meaning": "coat; outer clothing"
-      },
-      {
-        "word": "上司",
-        "reading": "じょうし",
-        "meaning": "superior; boss"
-      },
-      {
-        "word": "上位",
-        "reading": "じょうい",
-        "meaning": "higher rank; superior position"
-      },
-      {
-        "word": "上昇",
-        "reading": "じょうしょう",
-        "meaning": "rising; ascent"
-      },
-      {
-        "word": "上記",
-        "reading": "じょうき",
-        "meaning": "above-mentioned; stated above"
-      },
-      {
-        "word": "上演",
-        "reading": "じょうえん",
-        "meaning": "performance; staging"
-      },
-      {
-        "word": "上限",
-        "reading": "じょうげん",
-        "meaning": "upper limit; maximum"
-      },
-      {
-        "word": "上品",
-        "reading": "じょうひん",
-        "meaning": "elegant; refined"
+        "meaning": "skilled; skillful"
       }
     ]
   },
@@ -788,54 +308,14 @@
     "imagePath": "kanji/分.png",
     "vocab": [
       {
-        "word": "分ける",
-        "reading": "わける",
-        "meaning": "to divide, to split"
-      },
-      {
-        "word": "分かる",
-        "reading": "わかる",
-        "meaning": "to understand, to know"
-      },
-      {
         "word": "分数",
         "reading": "ぶんすう",
         "meaning": "fraction"
       },
       {
-        "word": "中分け",
-        "reading": "なかわけ",
-        "meaning": "parting hair down the middle"
-      },
-      {
-        "word": "分身",
-        "reading": "ぶんしん",
-        "meaning": "double, clone"
-      },
-      {
-        "word": "分け前",
-        "reading": "わけまえ",
-        "meaning": "share, portion (of profit, etc.)"
-      },
-      {
-        "word": "分け合う",
-        "reading": "わけあう",
-        "meaning": "to share (something) together"
-      },
-      {
-        "word": "十分",
-        "reading": "じゅうぶん",
-        "meaning": "enough, sufficient"
-      },
-      {
-        "word": "分量",
-        "reading": "ぶんりょう",
-        "meaning": "quantity, amount"
-      },
-      {
-        "word": "分裂",
-        "reading": "ぶんれつ",
-        "meaning": "division, split"
+        "word": "分ける",
+        "reading": "わける",
+        "meaning": "to divide"
       }
     ]
   },
@@ -867,54 +347,14 @@
     "imagePath": "kanji/生.png",
     "vocab": [
       {
-        "word": "生人",
-        "reading": "せいじん",
-        "meaning": "A living person; someone who is alive."
-      },
-      {
-        "word": "生年",
-        "reading": "せいねん",
-        "meaning": "Year of birth."
-      },
-      {
-        "word": "生中",
-        "reading": "せいちゅう",
-        "meaning": "Live (broadcast) or live performance."
-      },
-      {
-        "word": "生物",
-        "reading": "せいぶつ",
-        "meaning": "Living things; organisms."
+        "word": "生徒",
+        "reading": "せいと",
+        "meaning": "student"
       },
       {
         "word": "生活",
         "reading": "せいかつ",
-        "meaning": "Life; living."
-      },
-      {
-        "word": "生見",
-        "reading": "せいけん",
-        "meaning": "To see or observe something alive or real."
-      },
-      {
-        "word": "生行",
-        "reading": "せいこう",
-        "meaning": "Fertility or life activity."
-      },
-      {
-        "word": "生月",
-        "reading": "せいげつ",
-        "meaning": "The month of birth."
-      },
-      {
-        "word": "生時",
-        "reading": "せいじ",
-        "meaning": "Time of life or birth."
-      },
-      {
-        "word": "生気",
-        "reading": "せいき",
-        "meaning": "Vitality; energy; liveliness."
+        "meaning": "livelihood; life"
       }
     ]
   },
@@ -945,46 +385,6 @@
         "word": "行動",
         "reading": "こうどう",
         "meaning": "action, conduct"
-      },
-      {
-        "word": "行列",
-        "reading": "ぎょうれつ",
-        "meaning": "line, queue"
-      },
-      {
-        "word": "行き",
-        "reading": "いき",
-        "meaning": "going, way of going"
-      },
-      {
-        "word": "行動力",
-        "reading": "こうどうりょく",
-        "meaning": "ability to take action"
-      },
-      {
-        "word": "行事",
-        "reading": "ぎょうじ",
-        "meaning": "event, ceremony"
-      },
-      {
-        "word": "行き先",
-        "reading": "いきさき",
-        "meaning": "destination"
-      },
-      {
-        "word": "行為",
-        "reading": "こうい",
-        "meaning": "act, conduct"
-      },
-      {
-        "word": "行う",
-        "reading": "おこなう",
-        "meaning": "to perform, to carry out"
-      },
-      {
-        "word": "行き帰り",
-        "reading": "いきかえり",
-        "meaning": "round trip"
       }
     ]
   },
@@ -1003,47 +403,7 @@
       {
         "word": "二人",
         "reading": "ふたり",
-        "meaning": "two persons, a pair"
-      },
-      {
-        "word": "二月",
-        "reading": "にがつ",
-        "meaning": "February (the second month)"
-      },
-      {
-        "word": "二十",
-        "reading": "にじゅう",
-        "meaning": "twenty"
-      },
-      {
-        "word": "二階",
-        "reading": "にかい",
-        "meaning": "second floor"
-      },
-      {
-        "word": "二つ",
-        "reading": "ふたつ",
-        "meaning": "two (things)"
-      },
-      {
-        "word": "二日",
-        "reading": "ふつか",
-        "meaning": "the second day (of the month)"
-      },
-      {
-        "word": "二年",
-        "reading": "にねん",
-        "meaning": "two years"
-      },
-      {
-        "word": "二回",
-        "reading": "にかい",
-        "meaning": "twice"
-      },
-      {
-        "word": "二重",
-        "reading": "にじゅう",
-        "meaning": "double, layered"
+        "meaning": "two people"
       },
       {
         "word": "二時",
@@ -1070,49 +430,9 @@
         "meaning": "time"
       },
       {
-        "word": "間違い",
-        "reading": "まちがい",
-        "meaning": "mistake"
-      },
-      {
-        "word": "人間",
-        "reading": "にんげん",
-        "meaning": "human being"
-      },
-      {
-        "word": "間隔",
-        "reading": "かんかく",
-        "meaning": "interval; space"
-      },
-      {
         "word": "間に合う",
         "reading": "まにあう",
-        "meaning": "to be in time; to make it"
-      },
-      {
-        "word": "隙間",
-        "reading": "すきま",
-        "meaning": "gap; opening"
-      },
-      {
-        "word": "間取り",
-        "reading": "まどり",
-        "meaning": "room arrangement; layout"
-      },
-      {
-        "word": "間奏",
-        "reading": "かんそう",
-        "meaning": "interlude (in music or drama)"
-      },
-      {
-        "word": "間抜け",
-        "reading": "まぬけ",
-        "meaning": "fool; idiot"
-      },
-      {
-        "word": "間に",
-        "reading": "あいだに",
-        "meaning": "between; among"
+        "meaning": "to be on time / to be in time"
       }
     ]
   },
@@ -1132,49 +452,9 @@
         "meaning": "time"
       },
       {
-        "word": "時期",
-        "reading": "じき",
-        "meaning": "season, period"
-      },
-      {
-        "word": "時代",
-        "reading": "じだい",
-        "meaning": "era, age"
-      },
-      {
-        "word": "時計",
-        "reading": "とけい",
-        "meaning": "clock, watch"
-      },
-      {
         "word": "時刻",
         "reading": "じこく",
-        "meaning": "time, hour"
-      },
-      {
-        "word": "時分",
-        "reading": "じぶん",
-        "meaning": "time, moment"
-      },
-      {
-        "word": "日時",
-        "reading": "にちじ",
-        "meaning": "date and time"
-      },
-      {
-        "word": "時雨",
-        "reading": "しぐれ",
-        "meaning": "drizzling rain, late autumn rain"
-      },
-      {
-        "word": "時々",
-        "reading": "ときどき",
-        "meaning": "sometimes"
-      },
-      {
-        "word": "時音",
-        "reading": "ときおと",
-        "meaning": "sound of time, timbre of time"
+        "meaning": "time; hour"
       }
     ]
   },
@@ -1189,54 +469,14 @@
     "imagePath": "kanji/気.png",
     "vocab": [
       {
-        "word": "元気",
-        "reading": "げんき",
-        "meaning": "healthy, energetic"
-      },
-      {
         "word": "気分",
         "reading": "きぶん",
-        "meaning": "mood, feeling"
+        "meaning": "feeling; mood"
       },
       {
-        "word": "気持ち",
-        "reading": "きもち",
-        "meaning": "feeling, sensation"
-      },
-      {
-        "word": "気候",
-        "reading": "きこう",
-        "meaning": "climate"
-      },
-      {
-        "word": "気持ちいい",
-        "reading": "きもちいい",
-        "meaning": "comfortable, pleasant"
-      },
-      {
-        "word": "気遣い",
-        "reading": "きづかい",
-        "meaning": "care, concern"
-      },
-      {
-        "word": "気合",
-        "reading": "きあい",
-        "meaning": "spirit, energy, determination"
-      },
-      {
-        "word": "気楽",
-        "reading": "きらく",
-        "meaning": "carefree, easygoing"
-      },
-      {
-        "word": "気がする",
-        "reading": "きがする",
-        "meaning": "to feel like, to have a feeling"
-      },
-      {
-        "word": "気温",
-        "reading": "きおん",
-        "meaning": "temperature"
+        "word": "元気",
+        "reading": "げんき",
+        "meaning": "lively; healthy; energetic"
       }
     ]
   },
@@ -1254,54 +494,14 @@
     "imagePath": "kanji/十.png",
     "vocab": [
       {
-        "word": "十人",
-        "reading": "じゅうにん",
-        "meaning": "ten people"
-      },
-      {
-        "word": "十月",
-        "reading": "じゅうがつ",
-        "meaning": "October"
-      },
-      {
-        "word": "十年",
-        "reading": "じゅうねん",
-        "meaning": "ten years"
+        "word": "十",
+        "reading": "じゅう",
+        "meaning": "ten"
       },
       {
         "word": "十日",
         "reading": "とおか",
         "meaning": "ten days"
-      },
-      {
-        "word": "十字",
-        "reading": "じゅうじ",
-        "meaning": "cross"
-      },
-      {
-        "word": "十倍",
-        "reading": "じゅうばい",
-        "meaning": "ten times"
-      },
-      {
-        "word": "十秒",
-        "reading": "じゅうびょう",
-        "meaning": "ten seconds"
-      },
-      {
-        "word": "十音",
-        "reading": "じゅうおん",
-        "meaning": "ten sounds"
-      },
-      {
-        "word": "十月革命",
-        "reading": "じゅうがつかくめい",
-        "meaning": "October Revolution"
-      },
-      {
-        "word": "十年計画",
-        "reading": "じゅうねんけいかく",
-        "meaning": "ten-year plan"
       }
     ]
   },
@@ -1318,54 +518,14 @@
     "imagePath": "kanji/女.png",
     "vocab": [
       {
-        "word": "女の子",
-        "reading": "おんなのこ",
-        "meaning": "girl"
-      },
-      {
-        "word": "女王",
-        "reading": "じょおう",
-        "meaning": "queen"
+        "word": "女",
+        "reading": "おんな",
+        "meaning": "woman"
       },
       {
         "word": "女性",
         "reading": "じょせい",
-        "meaning": "woman; female"
-      },
-      {
-        "word": "女子",
-        "reading": "じょし",
-        "meaning": "girl; female student"
-      },
-      {
-        "word": "女の人",
-        "reading": "おんなのひと",
-        "meaning": "woman"
-      },
-      {
-        "word": "女友達",
-        "reading": "おんなともだち",
-        "meaning": "female friend"
-      },
-      {
-        "word": "女房",
-        "reading": "にょうぼう",
-        "meaning": "wife"
-      },
-      {
-        "word": "女神",
-        "reading": "めがみ",
-        "meaning": "goddess"
-      },
-      {
-        "word": "女優",
-        "reading": "じょゆう",
-        "meaning": "actress"
-      },
-      {
-        "word": "女の子供",
-        "reading": "おんなのこども",
-        "meaning": "girl child"
+        "meaning": "female, woman"
       }
     ]
   },
@@ -1390,46 +550,6 @@
         "word": "三日",
         "reading": "みっか",
         "meaning": "three days"
-      },
-      {
-        "word": "三年",
-        "reading": "さんねん",
-        "meaning": "three years"
-      },
-      {
-        "word": "三月",
-        "reading": "さんがつ",
-        "meaning": "March (third month)"
-      },
-      {
-        "word": "三時",
-        "reading": "さんじ",
-        "meaning": "three o'clock"
-      },
-      {
-        "word": "三つ",
-        "reading": "みっつ",
-        "meaning": "three (things)"
-      },
-      {
-        "word": "三角",
-        "reading": "さんかく",
-        "meaning": "triangle"
-      },
-      {
-        "word": "三倍",
-        "reading": "さんばい",
-        "meaning": "three times"
-      },
-      {
-        "word": "三州",
-        "reading": "さんしゅう",
-        "meaning": "three provinces"
-      },
-      {
-        "word": "三人称",
-        "reading": "さんにんしょう",
-        "meaning": "third person"
       }
     ]
   },
@@ -1444,54 +564,14 @@
     "imagePath": "kanji/前.png",
     "vocab": [
       {
-        "word": "前日",
-        "reading": "ぜんじつ",
-        "meaning": "the previous day"
+        "word": "前",
+        "reading": "まえ",
+        "meaning": "front, before"
       },
       {
-        "word": "前行",
-        "reading": "ぜんこう",
-        "meaning": "previous actions"
-      },
-      {
-        "word": "前半",
-        "reading": "ぜんはん",
-        "meaning": "first half"
-      },
-      {
-        "word": "前進",
-        "reading": "ぜんしん",
-        "meaning": "advance; progress"
-      },
-      {
-        "word": "前後",
-        "reading": "ぜんご",
-        "meaning": "before and after; around"
-      },
-      {
-        "word": "前面",
-        "reading": "ぜんめん",
-        "meaning": "the front; facade"
-      },
-      {
-        "word": "前提",
-        "reading": "ぜんてい",
-        "meaning": "premise; precondition"
-      },
-      {
-        "word": "前科",
-        "reading": "ぜんか",
-        "meaning": "previous conviction"
-      },
-      {
-        "word": "前兆",
-        "reading": "ぜんちょう",
-        "meaning": "omen; sign"
-      },
-      {
-        "word": "前回",
-        "reading": "ぜんかい",
-        "meaning": "last time; previous occurrence"
+        "word": "以前",
+        "reading": "いぜん",
+        "meaning": "before, ago"
       }
     ]
   },
@@ -1511,54 +591,14 @@
     "imagePath": "kanji/入.png",
     "vocab": [
       {
-        "word": "入学",
-        "reading": "にゅうがく",
-        "meaning": "admission to school"
+        "word": "入る",
+        "reading": "はいる",
+        "meaning": "to enter"
       },
       {
-        "word": "入れる",
-        "reading": "いれる",
-        "meaning": "to put in, to insert"
-      },
-      {
-        "word": "入浴",
-        "reading": "にゅうよく",
-        "meaning": "bathing"
-      },
-      {
-        "word": "入社",
-        "reading": "にゅうしゃ",
-        "meaning": "joining a company"
-      },
-      {
-        "word": "入り口",
-        "reading": "いりぐち",
-        "meaning": "entrance"
-      },
-      {
-        "word": "入場",
-        "reading": "にゅうじょう",
-        "meaning": "entrance, admission"
-      },
-      {
-        "word": "入院",
-        "reading": "にゅういん",
-        "meaning": "hospitalization"
-      },
-      {
-        "word": "入札",
-        "reading": "にゅうさつ",
-        "meaning": "bidding, tender"
-      },
-      {
-        "word": "入国",
-        "reading": "にゅうこく",
-        "meaning": "entry into a country"
-      },
-      {
-        "word": "入念",
-        "reading": "にゅうねん",
-        "meaning": "careful, meticulous"
+        "word": "入力",
+        "reading": "にゅうりょく",
+        "meaning": "input"
       }
     ]
   },
@@ -1575,16 +615,6 @@
     "imagePath": "kanji/小.png",
     "vocab": [
       {
-        "word": "小人",
-        "reading": "こびと",
-        "meaning": "dwarf; small person"
-      },
-      {
-        "word": "小さな",
-        "reading": "ちいさな",
-        "meaning": "small; little"
-      },
-      {
         "word": "小学校",
         "reading": "しょうがっこう",
         "meaning": "elementary school"
@@ -1592,37 +622,7 @@
       {
         "word": "小さい",
         "reading": "ちいさい",
-        "meaning": "small; little"
-      },
-      {
-        "word": "小麦",
-        "reading": "こむぎ",
-        "meaning": "wheat"
-      },
-      {
-        "word": "小説",
-        "reading": "しょうせつ",
-        "meaning": "novel; fiction"
-      },
-      {
-        "word": "小売",
-        "reading": "こうり",
-        "meaning": "retail"
-      },
-      {
-        "word": "小柄",
-        "reading": "こがら",
-        "meaning": "small build; slender"
-      },
-      {
-        "word": "小雨",
-        "reading": "こさめ",
-        "meaning": "light rain; drizzle"
-      },
-      {
-        "word": "小鳥",
-        "reading": "ことり",
-        "meaning": "small bird"
+        "meaning": "small"
       }
     ]
   },
@@ -1641,54 +641,14 @@
     "imagePath": "kanji/後.png",
     "vocab": [
       {
-        "word": "後日",
-        "reading": "ごにち",
-        "meaning": "later day, in the future"
-      },
-      {
         "word": "後ろ",
         "reading": "うしろ",
-        "meaning": "behind, back"
+        "meaning": "behind"
       },
       {
         "word": "後半",
         "reading": "こうはん",
         "meaning": "latter half"
-      },
-      {
-        "word": "後期",
-        "reading": "こうき",
-        "meaning": "later period"
-      },
-      {
-        "word": "後に",
-        "reading": "のちに",
-        "meaning": "afterwards, later"
-      },
-      {
-        "word": "後退",
-        "reading": "こうたい",
-        "meaning": "retreat, decline"
-      },
-      {
-        "word": "後継",
-        "reading": "こうけい",
-        "meaning": "successor"
-      },
-      {
-        "word": "後発",
-        "reading": "こうはつ",
-        "meaning": "late arrival, later development"
-      },
-      {
-        "word": "後悔",
-        "reading": "こうかい",
-        "meaning": "regret"
-      },
-      {
-        "word": "後世",
-        "reading": "こうせい",
-        "meaning": "future generations"
       }
     ]
   },
@@ -1708,49 +668,9 @@
         "meaning": "long"
       },
       {
-        "word": "長官",
-        "reading": "ちょうかん",
-        "meaning": "director, chief"
-      },
-      {
         "word": "長男",
         "reading": "ちょうなん",
         "meaning": "eldest son"
-      },
-      {
-        "word": "長女",
-        "reading": "ちょうじょ",
-        "meaning": "eldest daughter"
-      },
-      {
-        "word": "長期",
-        "reading": "ちょうき",
-        "meaning": "long term"
-      },
-      {
-        "word": "長時間",
-        "reading": "ちょうじかん",
-        "meaning": "long time"
-      },
-      {
-        "word": "長さ",
-        "reading": "ながさ",
-        "meaning": "length"
-      },
-      {
-        "word": "長持ち",
-        "reading": "ながもち",
-        "meaning": "durability, longevity"
-      },
-      {
-        "word": "長大",
-        "reading": "ちょうだい",
-        "meaning": "long and large"
-      },
-      {
-        "word": "長い間",
-        "reading": "ながいあいだ",
-        "meaning": "for a long time"
       }
     ]
   },
@@ -1776,54 +696,14 @@
     "imagePath": "kanji/下.png",
     "vocab": [
       {
-        "word": "下着",
-        "reading": "したぎ",
-        "meaning": "underwear"
+        "word": "下がる",
+        "reading": "さがる",
+        "meaning": "to fall, to drop, to go down"
       },
       {
         "word": "下手",
         "reading": "へた",
-        "meaning": "clumsy; unskilled"
-      },
-      {
-        "word": "降りる",
-        "reading": "おりる",
-        "meaning": "to get off; to descend"
-      },
-      {
-        "word": "下旬",
-        "reading": "げじゅん",
-        "meaning": "last ten days of the month"
-      },
-      {
-        "word": "地下",
-        "reading": "ちか",
-        "meaning": "underground"
-      },
-      {
-        "word": "下川",
-        "reading": "したかわ",
-        "meaning": "lower river"
-      },
-      {
-        "word": "下流",
-        "reading": "かりゅう",
-        "meaning": "downstream"
-      },
-      {
-        "word": "下町",
-        "reading": "したまち",
-        "meaning": "downtown; lower town"
-      },
-      {
-        "word": "下記",
-        "reading": "かき",
-        "meaning": "the following (text) in writing"
-      },
-      {
-        "word": "下位",
-        "reading": "かい",
-        "meaning": "lower rank"
+        "meaning": "clumsy, unskillful"
       }
     ]
   },
@@ -1837,54 +717,14 @@
     "imagePath": "kanji/学.png",
     "vocab": [
       {
-        "word": "学校",
-        "reading": "がっこう",
-        "meaning": "school"
+        "word": "学友",
+        "reading": "がくゆう",
+        "meaning": "school friend"
       },
       {
         "word": "学生",
         "reading": "がくせい",
         "meaning": "student"
-      },
-      {
-        "word": "学年",
-        "reading": "がくねん",
-        "meaning": "school year"
-      },
-      {
-        "word": "学問",
-        "reading": "がくもん",
-        "meaning": "study; learning"
-      },
-      {
-        "word": "学者",
-        "reading": "がくしゃ",
-        "meaning": "scholar"
-      },
-      {
-        "word": "学習",
-        "reading": "がくしゅう",
-        "meaning": "learning; study"
-      },
-      {
-        "word": "学力",
-        "reading": "がくりょく",
-        "meaning": "academic ability"
-      },
-      {
-        "word": "学際",
-        "reading": "がくさい",
-        "meaning": "interdisciplinary (study)"
-      },
-      {
-        "word": "学際的",
-        "reading": "がくさいてき",
-        "meaning": "interdisciplinary (adjective)"
-      },
-      {
-        "word": "学期",
-        "reading": "がっき",
-        "meaning": "academic term; semester"
       }
     ]
   },
@@ -1899,54 +739,14 @@
     "imagePath": "kanji/月.png",
     "vocab": [
       {
-        "word": "毎月",
-        "reading": "まいつき",
-        "meaning": "every month"
+        "word": "月",
+        "reading": "つき",
+        "meaning": "moon"
       },
       {
-        "word": "月曜日",
-        "reading": "げつようび",
-        "meaning": "Monday"
-      },
-      {
-        "word": "今月",
-        "reading": "こんげつ",
-        "meaning": "this month"
-      },
-      {
-        "word": "先月",
-        "reading": "せんげつ",
-        "meaning": "last month"
-      },
-      {
-        "word": "月見",
-        "reading": "つきみ",
-        "meaning": "moon viewing"
-      },
-      {
-        "word": "満月",
-        "reading": "まんげつ",
-        "meaning": "full moon"
-      },
-      {
-        "word": "月光",
-        "reading": "げっこう",
-        "meaning": "moonlight"
-      },
-      {
-        "word": "月末",
-        "reading": "げつまつ",
-        "meaning": "end of the month"
-      },
-      {
-        "word": "月給",
-        "reading": "げっきゅう",
-        "meaning": "monthly salary"
-      },
-      {
-        "word": "出月",
-        "reading": "いでづき",
-        "meaning": "new moon"
+        "word": "月",
+        "reading": "がつ",
+        "meaning": "month"
       }
     ]
   },
@@ -1963,54 +763,14 @@
     "imagePath": "kanji/何.png",
     "vocab": [
       {
-        "word": "何人",
-        "reading": "なんにん",
-        "meaning": "how many people"
+        "word": "何",
+        "reading": "なに",
+        "meaning": "what"
       },
       {
-        "word": "何年",
-        "reading": "なんねん",
-        "meaning": "how many years"
-      },
-      {
-        "word": "何時",
-        "reading": "なんじ",
-        "meaning": "what time"
-      },
-      {
-        "word": "何分",
-        "reading": "なんぷん",
-        "meaning": "how many minutes"
-      },
-      {
-        "word": "何月",
-        "reading": "なんがつ",
-        "meaning": "what month"
-      },
-      {
-        "word": "何年生",
-        "reading": "なんねんせい",
-        "meaning": "what grade (in school)"
-      },
-      {
-        "word": "何か",
-        "reading": "なにか",
-        "meaning": "something, anything"
-      },
-      {
-        "word": "何方",
-        "reading": "どなた",
-        "meaning": "who (polite)"
-      },
-      {
-        "word": "何時でも",
-        "reading": "なんじでも",
-        "meaning": "anytime"
-      },
-      {
-        "word": "何故",
-        "reading": "なぜ",
-        "meaning": "why"
+        "word": "何",
+        "reading": "なん",
+        "meaning": "what, which"
       }
     ]
   },
@@ -2039,46 +799,6 @@
         "word": "来年",
         "reading": "らいねん",
         "meaning": "next year"
-      },
-      {
-        "word": "来週",
-        "reading": "らいしゅう",
-        "meaning": "next week"
-      },
-      {
-        "word": "来月",
-        "reading": "らいげつ",
-        "meaning": "next month"
-      },
-      {
-        "word": "来日",
-        "reading": "らいにち",
-        "meaning": "arrival in Japan"
-      },
-      {
-        "word": "来場",
-        "reading": "らいじょう",
-        "meaning": "attendance at a venue"
-      },
-      {
-        "word": "来社",
-        "reading": "らいしゃ",
-        "meaning": "visiting a company"
-      },
-      {
-        "word": "来歴",
-        "reading": "らいれき",
-        "meaning": "personal history; background"
-      },
-      {
-        "word": "来客",
-        "reading": "らいきゃく",
-        "meaning": "visitor; guest"
-      },
-      {
-        "word": "来店",
-        "reading": "らいてん",
-        "meaning": "visit to a store"
       }
     ]
   },
@@ -2095,52 +815,12 @@
       {
         "word": "話す",
         "reading": "はなす",
-        "meaning": "to speak, to talk"
+        "meaning": "to speak; to talk"
       },
       {
-        "word": "会話",
-        "reading": "かいわ",
-        "meaning": "conversation"
-      },
-      {
-        "word": "話題",
-        "reading": "わだい",
-        "meaning": "topic, subject of conversation"
-      },
-      {
-        "word": "物語",
-        "reading": "ものがたり",
-        "meaning": "story, tale"
-      },
-      {
-        "word": "話し合い",
-        "reading": "はなしあい",
-        "meaning": "discussion, talks"
-      },
-      {
-        "word": "話者",
-        "reading": "わしゃ",
-        "meaning": "speaker"
-      },
-      {
-        "word": "耳話",
-        "reading": "みみばなし",
-        "meaning": "ear suggesting talks, gossip"
-      },
-      {
-        "word": "無話",
-        "reading": "むわ",
-        "meaning": "silence, quiet (without talk)"
-      },
-      {
-        "word": "白話",
-        "reading": "はくわ",
-        "meaning": "colloquial speech, vernacular"
-      },
-      {
-        "word": "和話",
-        "reading": "わわ",
-        "meaning": "Japanese-style conversation"
+        "word": "話",
+        "reading": "はなし",
+        "meaning": "talk; story; conversation"
       }
     ]
   },
@@ -2155,54 +835,14 @@
     "imagePath": "kanji/山.png",
     "vocab": [
       {
-        "word": "山人",
-        "reading": "やまびと",
-        "meaning": "mountaineer, a person who climbs mountains"
+        "word": "山",
+        "reading": "やま",
+        "meaning": "mountain"
       },
       {
-        "word": "山上",
-        "reading": "さんじょう",
-        "meaning": "mountaintop, summit"
-      },
-      {
-        "word": "山中",
-        "reading": "さんちゅう",
-        "meaning": "in the mountains, mountain area"
-      },
-      {
-        "word": "山田",
-        "reading": "やまだ",
-        "meaning": "mountain rice field (a common Japanese surname)"
-      },
-      {
-        "word": "高山",
-        "reading": "こうざん",
-        "meaning": "high mountain, altitude"
-      },
-      {
-        "word": "山月",
-        "reading": "さんげつ",
-        "meaning": "moon over the mountains"
-      },
-      {
-        "word": "山川",
-        "reading": "やまかわ",
-        "meaning": "mountain and river (often used in names)"
-      },
-      {
-        "word": "山道",
-        "reading": "やまみち",
-        "meaning": "mountain path, trail"
-      },
-      {
-        "word": "山口",
-        "reading": "やまぐち",
-        "meaning": "mountain mouth (a common Japanese surname and place name)"
-      },
-      {
-        "word": "山陰",
-        "reading": "さんいん",
-        "meaning": "shadow of the mountain, often refers to the San'in region in Japan"
+        "word": "山",
+        "reading": "さん",
+        "meaning": "suffix used in place names and mountain names"
       }
     ]
   },
@@ -2220,54 +860,14 @@
     "imagePath": "kanji/高.png",
     "vocab": [
       {
-        "word": "高人",
-        "reading": "こうじん",
-        "meaning": "high person; a noble or esteemed individual"
-      },
-      {
-        "word": "高大",
-        "reading": "こうだい",
-        "meaning": "tall and large; high and grand"
-      },
-      {
-        "word": "高年",
-        "reading": "こうねん",
-        "meaning": "advanced age; elder"
-      },
-      {
-        "word": "高出",
-        "reading": "こうしゅつ",
-        "meaning": "high out; high yield"
-      },
-      {
-        "word": "高本",
-        "reading": "こうほん",
-        "meaning": "high origin; higher text"
-      },
-      {
-        "word": "高中",
-        "reading": "こうちゅう",
-        "meaning": "high school (short for 高校中 or 高等中学校)"
-      },
-      {
-        "word": "高見",
-        "reading": "たかみ",
-        "meaning": "high viewpoint; perspective"
-      },
-      {
-        "word": "高行",
-        "reading": "こうこう",
-        "meaning": "high conduct; upright behavior"
+        "word": "高い",
+        "reading": "たかい",
+        "meaning": "high, tall"
       },
       {
         "word": "高山",
-        "reading": "たかやま",
+        "reading": "こうざん",
         "meaning": "high mountain"
-      },
-      {
-        "word": "高下",
-        "reading": "こうげ",
-        "meaning": "high and low; superior and inferior"
       }
     ]
   },
@@ -2282,54 +882,14 @@
     "imagePath": "kanji/今.png",
     "vocab": [
       {
-        "word": "今人",
-        "reading": "いまびと",
-        "meaning": "present person, contemporary person"
+        "word": "今",
+        "reading": "いま",
+        "meaning": "now"
       },
       {
-        "word": "今日日",
-        "reading": "こんにち",
-        "meaning": "today"
-      },
-      {
-        "word": "今月",
-        "reading": "こんげつ",
-        "meaning": "this month"
-      },
-      {
-        "word": "今週",
-        "reading": "こんしゅう",
-        "meaning": "this week"
-      },
-      {
-        "word": "今夜",
-        "reading": "こんや",
-        "meaning": "tonight"
-      },
-      {
-        "word": "今週末",
-        "reading": "こんしゅうまつ",
-        "meaning": "this weekend"
-      },
-      {
-        "word": "今後",
-        "reading": "こんご",
-        "meaning": "from now on"
-      },
-      {
-        "word": "今朝",
-        "reading": "けさ",
-        "meaning": "this morning"
-      },
-      {
-        "word": "今時",
-        "reading": "いまどき",
-        "meaning": "nowadays"
-      },
-      {
-        "word": "今行",
-        "reading": "いまい",
-        "meaning": "current trend, present style"
+        "word": "今度",
+        "reading": "こんど",
+        "meaning": "next time"
       }
     ]
   },
@@ -2345,16 +905,6 @@
     "imagePath": "kanji/書.png",
     "vocab": [
       {
-        "word": "書く",
-        "reading": "かく",
-        "meaning": "to write"
-      },
-      {
-        "word": "書き方",
-        "reading": "かきかた",
-        "meaning": "writing style; way of writing"
-      },
-      {
         "word": "書店",
         "reading": "しょてん",
         "meaning": "bookstore"
@@ -2362,37 +912,7 @@
       {
         "word": "書類",
         "reading": "しょるい",
-        "meaning": "documents; paperwork"
-      },
-      {
-        "word": "書道",
-        "reading": "しょどう",
-        "meaning": "calligraphy"
-      },
-      {
-        "word": "書名",
-        "reading": "しょめい",
-        "meaning": "book title"
-      },
-      {
-        "word": "書籍",
-        "reading": "しょせき",
-        "meaning": "books; publications"
-      },
-      {
-        "word": "読み書き",
-        "reading": "よみかき",
-        "meaning": "reading and writing"
-      },
-      {
-        "word": "書き留める",
-        "reading": "かきとめる",
-        "meaning": "to write down; to note"
-      },
-      {
-        "word": "書き出す",
-        "reading": "かきだす",
-        "meaning": "to begin writing"
+        "meaning": "document"
       }
     ]
   },
@@ -2407,54 +927,14 @@
     "imagePath": "kanji/五.png",
     "vocab": [
       {
+        "word": "五十",
+        "reading": "ごじゅう",
+        "meaning": "fifty"
+      },
+      {
         "word": "五人",
         "reading": "ごにん",
         "meaning": "five people"
-      },
-      {
-        "word": "五日",
-        "reading": "いつか",
-        "meaning": "five days"
-      },
-      {
-        "word": "五年",
-        "reading": "ごねん",
-        "meaning": "five years"
-      },
-      {
-        "word": "五分",
-        "reading": "ごぶ",
-        "meaning": "five minutes"
-      },
-      {
-        "word": "五つ",
-        "reading": "いつつ",
-        "meaning": "five (items)"
-      },
-      {
-        "word": "五回",
-        "reading": "ごかい",
-        "meaning": "five times"
-      },
-      {
-        "word": "五角形",
-        "reading": "ごかくけい",
-        "meaning": "pentagon"
-      },
-      {
-        "word": "五大",
-        "reading": "ごだい",
-        "meaning": "five major (things)"
-      },
-      {
-        "word": "五音",
-        "reading": "ごおん",
-        "meaning": "five tones"
-      },
-      {
-        "word": "五行",
-        "reading": "ごぎょう",
-        "meaning": "five elements"
       }
     ]
   },
@@ -2470,54 +950,14 @@
     "imagePath": "kanji/名.png",
     "vocab": [
       {
-        "word": "名人",
-        "reading": "めいじん",
-        "meaning": "master, expert"
-      },
-      {
         "word": "名前",
         "reading": "なまえ",
         "meaning": "name"
       },
       {
-        "word": "名所",
-        "reading": "めいしょ",
-        "meaning": "famous place, scenic spot"
-      },
-      {
-        "word": "名作",
-        "reading": "めいさく",
-        "meaning": "masterpiece"
-      },
-      {
-        "word": "名詞",
+        "word": "名刺",
         "reading": "めいし",
-        "meaning": "noun"
-      },
-      {
-        "word": "名札",
-        "reading": "なふだ",
-        "meaning": "name tag"
-      },
-      {
-        "word": "名義",
-        "reading": "めいぎ",
-        "meaning": "name, title, status"
-      },
-      {
-        "word": "名声",
-        "reading": "めいせい",
-        "meaning": "fame"
-      },
-      {
-        "word": "名古屋",
-        "reading": "なごや",
-        "meaning": "Nagoya (a city in Japan)"
-      },
-      {
-        "word": "名言",
-        "reading": "めいげん",
-        "meaning": "famous saying"
+        "meaning": "business card"
       }
     ]
   },
@@ -2535,54 +975,14 @@
     "imagePath": "kanji/金.png",
     "vocab": [
       {
-        "word": "金曜日",
-        "reading": "きんようび",
-        "meaning": "Friday"
+        "word": "金",
+        "reading": "きん",
+        "meaning": "gold; metal; money"
       },
       {
-        "word": "金属",
-        "reading": "きんぞく",
-        "meaning": "metal"
-      },
-      {
-        "word": "金額",
-        "reading": "きんがく",
-        "meaning": "amount of money"
-      },
-      {
-        "word": "金持ち",
-        "reading": "かねもち",
-        "meaning": "rich person"
-      },
-      {
-        "word": "金色",
-        "reading": "きんいろ",
-        "meaning": "gold color"
-      },
-      {
-        "word": "金魚",
-        "reading": "きんぎょ",
-        "meaning": "goldfish"
-      },
-      {
-        "word": "黄金",
-        "reading": "おうごん",
-        "meaning": "gold"
-      },
-      {
-        "word": "金剛",
-        "reading": "こんごう",
-        "meaning": "adamant (indestructible)"
-      },
-      {
-        "word": "金銭",
-        "reading": "きんせん",
-        "meaning": "money; cash"
-      },
-      {
-        "word": "金属製",
-        "reading": "きんぞくせい",
-        "meaning": "made of metal"
+        "word": "お金",
+        "reading": "おかね",
+        "meaning": "money"
       }
     ]
   },
@@ -2603,49 +1003,9 @@
         "meaning": "boy"
       },
       {
-        "word": "男らしい",
-        "reading": "おとこらしい",
-        "meaning": "manly"
-      },
-      {
         "word": "男性",
         "reading": "だんせい",
-        "meaning": "male"
-      },
-      {
-        "word": "男友達",
-        "reading": "おとこともだち",
-        "meaning": "male friend"
-      },
-      {
-        "word": "男の人",
-        "reading": "おとこのひと",
-        "meaning": "man"
-      },
-      {
-        "word": "大男",
-        "reading": "おおおとこ",
-        "meaning": "big man"
-      },
-      {
-        "word": "男爵",
-        "reading": "だんしゃく",
-        "meaning": "baron"
-      },
-      {
-        "word": "男育て",
-        "reading": "おとこそだて",
-        "meaning": "raising boys"
-      },
-      {
-        "word": "男声",
-        "reading": "だんせい",
-        "meaning": "male voice"
-      },
-      {
-        "word": "男勝り",
-        "reading": "おとこまさり",
-        "meaning": "manly (for a woman)"
+        "meaning": "man, male"
       }
     ]
   },
@@ -2672,46 +1032,6 @@
         "word": "外出",
         "reading": "がいしゅつ",
         "meaning": "going out"
-      },
-      {
-        "word": "外見",
-        "reading": "がいけん",
-        "meaning": "appearance"
-      },
-      {
-        "word": "外側",
-        "reading": "そとがわ",
-        "meaning": "outside; outer side"
-      },
-      {
-        "word": "外部",
-        "reading": "がいぶ",
-        "meaning": "outside; external"
-      },
-      {
-        "word": "外れる",
-        "reading": "はずれる",
-        "meaning": "to be disconnected; to come off"
-      },
-      {
-        "word": "外来",
-        "reading": "がいらい",
-        "meaning": "visitor from abroad; foreign"
-      },
-      {
-        "word": "外食",
-        "reading": "がいしょく",
-        "meaning": "eating out (at a restaurant)"
-      },
-      {
-        "word": "外科",
-        "reading": "げか",
-        "meaning": "surgery; surgical department"
-      },
-      {
-        "word": "外国人",
-        "reading": "がいこくじん",
-        "meaning": "foreigner"
       }
     ]
   },
@@ -2733,49 +1053,9 @@
         "meaning": "four people"
       },
       {
-        "word": "四年",
-        "reading": "しねん",
-        "meaning": "four years"
-      },
-      {
-        "word": "四時",
-        "reading": "しじ",
-        "meaning": "four o'clock"
-      },
-      {
         "word": "四月",
         "reading": "しがつ",
-        "meaning": "April (the fourth month)"
-      },
-      {
-        "word": "四国",
-        "reading": "しこく",
-        "meaning": "Shikoku (the fourth largest island in Japan)"
-      },
-      {
-        "word": "四間",
-        "reading": "しま",
-        "meaning": "four intervals/rooms"
-      },
-      {
-        "word": "四角",
-        "reading": "しかく",
-        "meaning": "square (shape)"
-      },
-      {
-        "word": "四十",
-        "reading": "しじゅう",
-        "meaning": "forty"
-      },
-      {
-        "word": "四輪",
-        "reading": "しりん",
-        "meaning": "four wheels"
-      },
-      {
-        "word": "四季",
-        "reading": "しき",
-        "meaning": "four seasons"
+        "meaning": "April"
       }
     ]
   },
@@ -2790,54 +1070,14 @@
     "imagePath": "kanji/先.png",
     "vocab": [
       {
-        "word": "先月",
-        "reading": "せんげつ",
-        "meaning": "last month"
-      },
-      {
-        "word": "先週",
-        "reading": "せんしゅう",
-        "meaning": "last week"
-      },
-      {
         "word": "先輩",
         "reading": "せんぱい",
-        "meaning": "senior, elder (in a group)"
-      },
-      {
-        "word": "先行",
-        "reading": "せんこう",
-        "meaning": "advance, preceding"
+        "meaning": "senior (in a school or workplace)"
       },
       {
         "word": "先に",
         "reading": "さきに",
-        "meaning": "before, in advance"
-      },
-      {
-        "word": "先端",
-        "reading": "せんたん",
-        "meaning": "tip, forefront"
-      },
-      {
-        "word": "先頭",
-        "reading": "せんとう",
-        "meaning": "the front, lead"
-      },
-      {
-        "word": "先見",
-        "reading": "せんけん",
-        "meaning": "foresight"
-      },
-      {
-        "word": "先途",
-        "reading": "せんと",
-        "meaning": "future path, future"
-      },
-      {
-        "word": "先義",
-        "reading": "せんぎ",
-        "meaning": "priority in rightness, precedence"
+        "meaning": "ahead; before"
       }
     ]
   },
@@ -2851,54 +1091,14 @@
     "imagePath": "kanji/川.png",
     "vocab": [
       {
-        "word": "川子",
-        "reading": "かわこ",
-        "meaning": "river child"
+        "word": "川",
+        "reading": "かわ",
+        "meaning": "river"
       },
       {
-        "word": "川口",
-        "reading": "かわぐち",
-        "meaning": "river mouth"
-      },
-      {
-        "word": "川上",
-        "reading": "かわかみ",
-        "meaning": "upstream"
-      },
-      {
-        "word": "川下",
-        "reading": "かわしも",
-        "meaning": "downstream"
-      },
-      {
-        "word": "川辺",
-        "reading": "かわべ",
-        "meaning": "riverbank"
-      },
-      {
-        "word": "川面",
-        "reading": "かわも",
-        "meaning": "river surface"
-      },
-      {
-        "word": "川遊び",
-        "reading": "かわあそび",
-        "meaning": "playing in the river"
-      },
-      {
-        "word": "川音",
-        "reading": "かわおと",
-        "meaning": "sound of the river"
-      },
-      {
-        "word": "川流れ",
-        "reading": "かわながれ",
-        "meaning": "river flow"
-      },
-      {
-        "word": "川浪",
-        "reading": "かわなみ",
-        "meaning": "river waves"
+        "word": "川",
+        "reading": "せん",
+        "meaning": "stream"
       }
     ]
   },
@@ -2912,54 +1112,14 @@
     "imagePath": "kanji/東.png",
     "vocab": [
       {
-        "word": "東京",
-        "reading": "とうきょう",
-        "meaning": "Tokyo"
+        "word": "東",
+        "reading": "ひがし",
+        "meaning": "east"
       },
       {
-        "word": "東洋",
-        "reading": "とうよう",
-        "meaning": "the Orient, Eastern Asia"
-      },
-      {
-        "word": "東口",
-        "reading": "ひがしぐち",
-        "meaning": "east exit"
-      },
-      {
-        "word": "東北",
-        "reading": "とうほく",
-        "meaning": "northeast (region in Japan)"
-      },
-      {
-        "word": "東西",
-        "reading": "とうざい",
-        "meaning": "east and west"
-      },
-      {
-        "word": "東南",
-        "reading": "とうなん",
-        "meaning": "southeast"
-      },
-      {
-        "word": "東風",
-        "reading": "ひがしかぜ",
-        "meaning": "eastern wind"
-      },
-      {
-        "word": "東郷",
-        "reading": "とうごう",
-        "meaning": "Togo (as in the name)"
-      },
-      {
-        "word": "東山",
-        "reading": "ひがしやま",
-        "meaning": "Higashiyama (as in a place name)"
-      },
-      {
-        "word": "東奔西走",
-        "reading": "とうほんせいそう",
-        "meaning": "to run about in all directions"
+        "word": "東",
+        "reading": "とう",
+        "meaning": "east (used in compound words, e.g., 東京都 - Tokyo)"
       }
     ]
   },
@@ -2983,46 +1143,6 @@
         "word": "聞こえる",
         "reading": "きこえる",
         "meaning": "to be heard; to be audible"
-      },
-      {
-        "word": "聞き",
-        "reading": "きき",
-        "meaning": "hearing; listening (noun form)"
-      },
-      {
-        "word": "新聞",
-        "reading": "しんぶん",
-        "meaning": "newspaper"
-      },
-      {
-        "word": "質問",
-        "reading": "しつもん",
-        "meaning": "question"
-      },
-      {
-        "word": "聞き手",
-        "reading": "ききて",
-        "meaning": "listener; auditor"
-      },
-      {
-        "word": "雑音",
-        "reading": "ざつおん",
-        "meaning": "noise; static"
-      },
-      {
-        "word": "聞くところ",
-        "reading": "きくところ",
-        "meaning": "according to what I hear"
-      },
-      {
-        "word": "聞かせる",
-        "reading": "きかせる",
-        "meaning": "to let (someone) hear; to tell"
-      },
-      {
-        "word": "音聞",
-        "reading": "おんきき",
-        "meaning": "listening to sounds"
       }
     ]
   },
@@ -3037,54 +1157,14 @@
     "imagePath": "kanji/語.png",
     "vocab": [
       {
-        "word": "英語",
-        "reading": "えいご",
-        "meaning": "English (language)"
-      },
-      {
-        "word": "語り",
-        "reading": "かたり",
-        "meaning": "talk, narrative"
-      },
-      {
-        "word": "語尾",
-        "reading": "ごび",
-        "meaning": "word ending, suffix"
-      },
-      {
-        "word": "話語",
-        "reading": "わご",
-        "meaning": "discourse, speech"
-      },
-      {
         "word": "言語",
         "reading": "げんご",
         "meaning": "language"
       },
       {
-        "word": "国語",
-        "reading": "こくご",
-        "meaning": "national language, language of one's country"
-      },
-      {
-        "word": "外国語",
-        "reading": "がいこくご",
-        "meaning": "foreign language"
-      },
-      {
-        "word": "話し言葉",
-        "reading": "はなしことば",
-        "meaning": "spoken language"
-      },
-      {
-        "word": "文字語",
-        "reading": "もじご",
-        "meaning": "written language, script"
-      },
-      {
-        "word": "漢語",
-        "reading": "かんご",
-        "meaning": "Sino-Japanese vocabulary"
+        "word": "語る",
+        "reading": "かたる",
+        "meaning": "to talk, to tell"
       }
     ]
   },
@@ -3100,54 +1180,14 @@
     "imagePath": "kanji/九.png",
     "vocab": [
       {
-        "word": "九人",
-        "reading": "きゅうにん",
-        "meaning": "nine people"
-      },
-      {
-        "word": "九日",
-        "reading": "ここのか",
-        "meaning": "ninth day of the month"
-      },
-      {
-        "word": "九年",
-        "reading": "きゅうねん",
-        "meaning": "nine years"
-      },
-      {
-        "word": "九分",
-        "reading": "きゅうぶん",
-        "meaning": "nine parts; ninety percent"
-      },
-      {
         "word": "九月",
         "reading": "くがつ",
         "meaning": "September"
       },
       {
-        "word": "九時",
-        "reading": "くじ",
-        "meaning": "nine o'clock"
-      },
-      {
-        "word": "九歳",
-        "reading": "きゅうさい",
-        "meaning": "nine years old"
-      },
-      {
-        "word": "九分音符",
-        "reading": "きゅうぶおんぷ",
-        "meaning": "ninth note (musical term)"
-      },
-      {
-        "word": "九条",
-        "reading": "きゅうじょう",
-        "meaning": "nine articles (or clauses)"
-      },
-      {
-        "word": "九州",
-        "reading": "きゅうしゅう",
-        "meaning": "Kyushu (the southernmost of Japan's four main islands)"
+        "word": "九人",
+        "reading": "きゅうにん",
+        "meaning": "nine people"
       }
     ]
   },
@@ -3165,54 +1205,14 @@
     "imagePath": "kanji/食.png",
     "vocab": [
       {
-        "word": "食事",
-        "reading": "しょくじ",
-        "meaning": "meal"
-      },
-      {
-        "word": "食べ物",
-        "reading": "たべもの",
-        "meaning": "food"
-      },
-      {
-        "word": "食堂",
-        "reading": "しょくどう",
-        "meaning": "dining hall"
-      },
-      {
-        "word": "食料",
-        "reading": "しょくりょう",
-        "meaning": "foodstuffs"
-      },
-      {
         "word": "食べる",
         "reading": "たべる",
         "meaning": "to eat"
       },
       {
-        "word": "食欲",
-        "reading": "しょくよく",
-        "meaning": "appetite"
-      },
-      {
-        "word": "食器",
-        "reading": "しょっき",
-        "meaning": "tableware"
-      },
-      {
-        "word": "食賃",
-        "reading": "しょくちん",
-        "meaning": "meal charge"
-      },
-      {
-        "word": "食文化",
-        "reading": "しょくぶんか",
-        "meaning": "food culture"
-      },
-      {
-        "word": "食べ放題",
-        "reading": "たべほうだい",
-        "meaning": "all-you-can-eat"
+        "word": "食事",
+        "reading": "しょくじ",
+        "meaning": "meal"
       }
     ]
   },
@@ -3230,54 +1230,14 @@
     "imagePath": "kanji/八.png",
     "vocab": [
       {
-        "word": "八百屋",
-        "reading": "やおや",
-        "meaning": "greengrocer"
-      },
-      {
-        "word": "八月",
-        "reading": "はちがつ",
-        "meaning": "August"
+        "word": "八百",
+        "reading": "やお",
+        "meaning": "eight hundred"
       },
       {
         "word": "八つ",
         "reading": "やっつ",
-        "meaning": "eight (counting)"
-      },
-      {
-        "word": "八人",
-        "reading": "はちにん",
-        "meaning": "eight people"
-      },
-      {
-        "word": "八方",
-        "reading": "はっぽう",
-        "meaning": "all directions"
-      },
-      {
-        "word": "八面",
-        "reading": "はちめん",
-        "meaning": "eight sides"
-      },
-      {
-        "word": "八丈",
-        "reading": "はちじょう",
-        "meaning": "a type of traditional Japanese garment"
-      },
-      {
-        "word": "八百",
-        "reading": "はっぴゃく",
-        "meaning": "eight hundred"
-      },
-      {
-        "word": "八分",
-        "reading": "はちぶ",
-        "meaning": "80% or eight parts"
-      },
-      {
-        "word": "八田",
-        "reading": "はった",
-        "meaning": "a Japanese family name"
+        "meaning": "eight (things)"
       }
     ]
   },
@@ -3292,54 +1252,14 @@
     "imagePath": "kanji/水.png",
     "vocab": [
       {
-        "word": "水道",
-        "reading": "すいどう",
-        "meaning": "water supply"
+        "word": "水",
+        "reading": "みず",
+        "meaning": "water"
       },
       {
         "word": "水分",
         "reading": "すいぶん",
-        "meaning": "moisture, water content"
-      },
-      {
-        "word": "水中",
-        "reading": "すいちゅう",
-        "meaning": "underwater, in water"
-      },
-      {
-        "word": "水準",
-        "reading": "すいじゅん",
-        "meaning": "water level, standard"
-      },
-      {
-        "word": "水着",
-        "reading": "みずぎ",
-        "meaning": "swimsuit"
-      },
-      {
-        "word": "水量",
-        "reading": "すいりょう",
-        "meaning": "water volume, flow rate"
-      },
-      {
-        "word": "水面",
-        "reading": "すいめん",
-        "meaning": "water surface"
-      },
-      {
-        "word": "水色",
-        "reading": "みずいろ",
-        "meaning": "light blue, water color"
-      },
-      {
-        "word": "水筒",
-        "reading": "すいとう",
-        "meaning": "water bottle"
-      },
-      {
-        "word": "水蒸気",
-        "reading": "すいじょうき",
-        "meaning": "water vapor, steam"
+        "meaning": "moisture; water content"
       }
     ]
   },
@@ -3363,46 +1283,6 @@
         "word": "天国",
         "reading": "てんごく",
         "meaning": "heaven"
-      },
-      {
-        "word": "天才",
-        "reading": "てんさい",
-        "meaning": "genius"
-      },
-      {
-        "word": "天文",
-        "reading": "てんもん",
-        "meaning": "astronomy"
-      },
-      {
-        "word": "天灯",
-        "reading": "てんとう",
-        "meaning": "sky lantern"
-      },
-      {
-        "word": "天気予報",
-        "reading": "てんきよほう",
-        "meaning": "weather forecast"
-      },
-      {
-        "word": "天体",
-        "reading": "てんたい",
-        "meaning": "celestial body"
-      },
-      {
-        "word": "天井",
-        "reading": "てんじょう",
-        "meaning": "ceiling"
-      },
-      {
-        "word": "天皇",
-        "reading": "てんのう",
-        "meaning": "Emperor of Japan"
-      },
-      {
-        "word": "天文学",
-        "reading": "てんもんがく",
-        "meaning": "astronomy"
       }
     ]
   },
@@ -3418,54 +1298,14 @@
     "imagePath": "kanji/木.png",
     "vocab": [
       {
+        "word": "木",
+        "reading": "き",
+        "meaning": "tree"
+      },
+      {
         "word": "木曜日",
         "reading": "もくようび",
         "meaning": "Thursday"
-      },
-      {
-        "word": "木々",
-        "reading": "きぎ",
-        "meaning": "trees"
-      },
-      {
-        "word": "木製",
-        "reading": "もくせい",
-        "meaning": "wooden"
-      },
-      {
-        "word": "木立",
-        "reading": "こだち",
-        "meaning": "grove"
-      },
-      {
-        "word": "木の葉",
-        "reading": "このは",
-        "meaning": "leaves of a tree"
-      },
-      {
-        "word": "木刀",
-        "reading": "ぼくとう",
-        "meaning": "wooden sword"
-      },
-      {
-        "word": "木材",
-        "reading": "もくざい",
-        "meaning": "lumber/wood"
-      },
-      {
-        "word": "木工",
-        "reading": "もっこう",
-        "meaning": "woodworking"
-      },
-      {
-        "word": "木目",
-        "reading": "きめ",
-        "meaning": "wood grain"
-      },
-      {
-        "word": "木星",
-        "reading": "もくせい",
-        "meaning": "Jupiter"
       }
     ]
   },
@@ -3488,49 +1328,9 @@
         "meaning": "six people"
       },
       {
-        "word": "六日",
-        "reading": "むいか",
-        "meaning": "sixth day (of the month)"
-      },
-      {
-        "word": "六年",
-        "reading": "ろくねん",
-        "meaning": "six years"
-      },
-      {
-        "word": "六時",
-        "reading": "ろくじ",
-        "meaning": "six o'clock"
-      },
-      {
-        "word": "六本",
-        "reading": "ろっぽん",
-        "meaning": "six (long cylindrical objects)"
-      },
-      {
-        "word": "六ヶ国",
-        "reading": "ろっかこく",
-        "meaning": "six countries"
-      },
-      {
         "word": "六月",
         "reading": "ろくがつ",
-        "meaning": "June (the sixth month)"
-      },
-      {
-        "word": "六十",
-        "reading": "ろくじゅう",
-        "meaning": "sixty"
-      },
-      {
-        "word": "六面",
-        "reading": "ろくめん",
-        "meaning": "six surfaces"
-      },
-      {
-        "word": "六角形",
-        "reading": "ろっかくけい",
-        "meaning": "hexagon (six-sided shape)"
+        "meaning": "June"
       }
     ]
   },
@@ -3547,52 +1347,12 @@
       {
         "word": "万年",
         "reading": "まんねん",
-        "meaning": "ten thousand years; eternity"
-      },
-      {
-        "word": "万事",
-        "reading": "ばんじ",
-        "meaning": "everything; all matters"
-      },
-      {
-        "word": "万人",
-        "reading": "ばんにん",
-        "meaning": "ten thousand people; a great number of people"
+        "meaning": "ten thousand years, eternity"
       },
       {
         "word": "万が一",
         "reading": "まんがいち",
-        "meaning": "just in case; if by any chance"
-      },
-      {
-        "word": "万引き",
-        "reading": "まんびき",
-        "meaning": "shoplifting; stealing"
-      },
-      {
-        "word": "万全",
-        "reading": "ばんぜん",
-        "meaning": "perfect; complete; flawless"
-      },
-      {
-        "word": "万国",
-        "reading": "ばんこく",
-        "meaning": "all countries; the world"
-      },
-      {
-        "word": "万事休す",
-        "reading": "ばんじきゅうす",
-        "meaning": "there's no turning back; all is lost"
-      },
-      {
-        "word": "万象",
-        "reading": "ばんしょう",
-        "meaning": "all phenomena; all things"
-      },
-      {
-        "word": "万葉",
-        "reading": "まんよう",
-        "meaning": "ten thousand leaves; refers to an ancient Japanese poetry collection"
+        "meaning": "if by any chance, just in case"
       }
     ]
   },
@@ -3609,54 +1369,14 @@
     "imagePath": "kanji/白.png",
     "vocab": [
       {
-        "word": "白人",
-        "reading": "はくじん",
-        "meaning": "white person; Caucasian"
-      },
-      {
-        "word": "白書",
-        "reading": "はくしょ",
-        "meaning": "white paper (government report)"
-      },
-      {
-        "word": "白スマ",
-        "reading": "しろすま",
-        "meaning": "white room; term used in design"
-      },
-      {
-        "word": "白髪",
-        "reading": "しらが",
-        "meaning": "white hair; gray hair"
-      },
-      {
-        "word": "白米",
-        "reading": "はくまい",
-        "meaning": "white rice"
-      },
-      {
-        "word": "白昼",
-        "reading": "はくちゅう",
-        "meaning": "broad daylight"
+        "word": "白い",
+        "reading": "しろい",
+        "meaning": "white"
       },
       {
         "word": "白紙",
         "reading": "はくし",
-        "meaning": "blank paper; white paper"
-      },
-      {
-        "word": "白衣",
-        "reading": "はくい",
-        "meaning": "white coat; lab coat"
-      },
-      {
-        "word": "白雪",
-        "reading": "しらゆき",
-        "meaning": "white snow"
-      },
-      {
-        "word": "白字",
-        "reading": "はくじ",
-        "meaning": "white letters; blank text"
+        "meaning": "blank paper"
       }
     ]
   },
@@ -3672,54 +1392,14 @@
     "imagePath": "kanji/七.png",
     "vocab": [
       {
-        "word": "七人",
-        "reading": "しちにん",
-        "meaning": "seven people"
-      },
-      {
-        "word": "七月",
-        "reading": "しちがつ",
-        "meaning": "July"
+        "word": "七",
+        "reading": "しち",
+        "meaning": "seven (numerical representation)"
       },
       {
         "word": "七日",
         "reading": "なのか",
-        "meaning": "seventh day (of the month)"
-      },
-      {
-        "word": "七つ",
-        "reading": "ななつ",
-        "meaning": "seven (used for counting)"
-      },
-      {
-        "word": "七本",
-        "reading": "ななほん",
-        "meaning": "seven long objects (like bottles, pencils)"
-      },
-      {
-        "word": "七年",
-        "reading": "しちねん",
-        "meaning": "seven years"
-      },
-      {
-        "word": "七番",
-        "reading": "ななばん",
-        "meaning": "number seven (like in a sequence)"
-      },
-      {
-        "word": "七色",
-        "reading": "なないろ",
-        "meaning": "seven colors (like a rainbow)"
-      },
-      {
-        "word": "七時",
-        "reading": "しちじ",
-        "meaning": "seven o'clock"
-      },
-      {
-        "word": "七月七日",
-        "reading": "たなばた",
-        "meaning": "Tanabata (Star Festival) celebrated on July 7th"
+        "meaning": "seven days; the seventh day of the month"
       }
     ]
   },
@@ -3737,54 +1417,14 @@
     "imagePath": "kanji/円.png",
     "vocab": [
       {
+        "word": "円",
+        "reading": "えん",
+        "meaning": "yen (Japanese currency)"
+      },
+      {
         "word": "円い",
         "reading": "まるい",
         "meaning": "round; circular"
-      },
-      {
-        "word": "円高",
-        "reading": "えんだか",
-        "meaning": "strong yen (currency)"
-      },
-      {
-        "word": "円山",
-        "reading": "えんざん",
-        "meaning": "Enzan; a name of a mountain or area"
-      },
-      {
-        "word": "円周",
-        "reading": "えんしゅう",
-        "meaning": "circumference"
-      },
-      {
-        "word": "円形",
-        "reading": "えんけい",
-        "meaning": "circular; round shape"
-      },
-      {
-        "word": "円満",
-        "reading": "えんまん",
-        "meaning": "harmony; peace; perfection"
-      },
-      {
-        "word": "円滑",
-        "reading": "えんかつ",
-        "meaning": "smooth; frictionless"
-      },
-      {
-        "word": "円票",
-        "reading": "えんぴょう",
-        "meaning": "yen note; yen bill"
-      },
-      {
-        "word": "円盤",
-        "reading": "えんばん",
-        "meaning": "disk; disk-like object"
-      },
-      {
-        "word": "円高差益",
-        "reading": "えんだかさえき",
-        "meaning": "gain from strong yen"
       }
     ]
   },
@@ -3805,46 +1445,6 @@
         "word": "電気",
         "reading": "でんき",
         "meaning": "electricity"
-      },
-      {
-        "word": "電話",
-        "reading": "でんわ",
-        "meaning": "telephone"
-      },
-      {
-        "word": "電池",
-        "reading": "でんち",
-        "meaning": "battery"
-      },
-      {
-        "word": "電気屋",
-        "reading": "でんきや",
-        "meaning": "electric shop"
-      },
-      {
-        "word": "電報",
-        "reading": "でんぽう",
-        "meaning": "telegram"
-      },
-      {
-        "word": "電気自動車",
-        "reading": "でんきじどうしゃ",
-        "meaning": "electric car"
-      },
-      {
-        "word": "電算",
-        "reading": "でんさん",
-        "meaning": "electronic calculation"
-      },
-      {
-        "word": "電波",
-        "reading": "でんぱ",
-        "meaning": "radio wave"
-      },
-      {
-        "word": "電磁",
-        "reading": "でんじ",
-        "meaning": "electromagnetic"
       }
     ]
   },
@@ -3866,46 +1466,6 @@
         "word": "父さん",
         "reading": "とうさん",
         "meaning": "dad"
-      },
-      {
-        "word": "父子",
-        "reading": "ふし",
-        "meaning": "father and child"
-      },
-      {
-        "word": "父兄",
-        "reading": "ふけい",
-        "meaning": "parents or guardians"
-      },
-      {
-        "word": "父なる",
-        "reading": "ちちなる",
-        "meaning": "fatherly"
-      },
-      {
-        "word": "父母",
-        "reading": "ふぼ",
-        "meaning": "parents"
-      },
-      {
-        "word": "父控",
-        "reading": "ちちひかえ",
-        "meaning": "father's absence or omission"
-      },
-      {
-        "word": "父祖",
-        "reading": "ちちそ",
-        "meaning": "ancestors"
-      },
-      {
-        "word": "父性",
-        "reading": "ふせい",
-        "meaning": "paternal nature"
-      },
-      {
-        "word": "祖父",
-        "reading": "そふ",
-        "meaning": "grandfather"
       }
     ]
   },
@@ -3921,52 +1481,12 @@
       {
         "word": "北国",
         "reading": "きたぐに",
-        "meaning": "northern country; the north"
+        "meaning": "Northern country; often refers to the northern regions of Japan."
       },
       {
         "word": "北風",
         "reading": "きたかぜ",
-        "meaning": "north wind"
-      },
-      {
-        "word": "北見",
-        "reading": "きたみ",
-        "meaning": "Kita (a place name)"
-      },
-      {
-        "word": "北上",
-        "reading": "ほくじょう",
-        "meaning": "going north; northbound"
-      },
-      {
-        "word": "北朝鮮",
-        "reading": "きたちょうせん",
-        "meaning": "North Korea"
-      },
-      {
-        "word": "北海",
-        "reading": "ほっかい",
-        "meaning": "north sea"
-      },
-      {
-        "word": "北方",
-        "reading": "ほっぽう",
-        "meaning": "northern region; northern part"
-      },
-      {
-        "word": "北極",
-        "reading": "ほっきょく",
-        "meaning": "North Pole"
-      },
-      {
-        "word": "北西",
-        "reading": "ほくせい",
-        "meaning": "northwest"
-      },
-      {
-        "word": "北斗",
-        "reading": "ほくと",
-        "meaning": "Big Dipper; Ursa Major"
+        "meaning": "North wind."
       }
     ]
   },
@@ -3982,52 +1502,12 @@
       {
         "word": "車",
         "reading": "くるま",
-        "meaning": "car"
+        "meaning": "car or vehicle"
       },
       {
         "word": "電車",
         "reading": "でんしゃ",
         "meaning": "train"
-      },
-      {
-        "word": "自転車",
-        "reading": "じてんしゃ",
-        "meaning": "bicycle"
-      },
-      {
-        "word": "車道",
-        "reading": "しゃどう",
-        "meaning": "roadway, roadway for vehicles"
-      },
-      {
-        "word": "車両",
-        "reading": "しゃりょう",
-        "meaning": "vehicle (railway, bus, etc.)"
-      },
-      {
-        "word": "乗車",
-        "reading": "じょうしゃ",
-        "meaning": "boarding (a vehicle)"
-      },
-      {
-        "word": "駐車",
-        "reading": "ちゅうしゃ",
-        "meaning": "parking (a vehicle)"
-      },
-      {
-        "word": "火車",
-        "reading": "かしゃ",
-        "meaning": "steam locomotive (historical term)"
-      },
-      {
-        "word": "運転車",
-        "reading": "うんてんしゃ",
-        "meaning": "driver (of a vehicle)"
-      },
-      {
-        "word": "補助車",
-        "reading": "ほじょしゃ",
-        "meaning": "support vehicle"
       }
     ]
   },
@@ -4042,54 +1522,14 @@
     "imagePath": "kanji/母.png",
     "vocab": [
       {
-        "word": "母国",
-        "reading": "ばこく",
-        "meaning": "home country; motherland"
-      },
-      {
-        "word": "母子",
-        "reading": "ぼし",
-        "meaning": "mother and child"
-      },
-      {
-        "word": "母親",
-        "reading": "ははおや",
+        "word": "母",
+        "reading": "はは",
         "meaning": "mother"
       },
       {
         "word": "母音",
         "reading": "ぼいん",
-        "meaning": "vowel (phonetics)"
-      },
-      {
-        "word": "母さん",
-        "reading": "かあさん",
-        "meaning": "mother (informal)"
-      },
-      {
-        "word": "母の日",
-        "reading": "ははのひ",
-        "meaning": "Mother's Day"
-      },
-      {
-        "word": "母乳",
-        "reading": "ぼにゅう",
-        "meaning": "breast milk"
-      },
-      {
-        "word": "母体",
-        "reading": "ぼたい",
-        "meaning": "mother's body; pregnant body"
-      },
-      {
-        "word": "母性",
-        "reading": "ぼせい",
-        "meaning": "maternal nature; motherhood"
-      },
-      {
-        "word": "母衣",
-        "reading": "ほろ",
-        "meaning": "a kind of bag; or covering (historical usage)"
+        "meaning": "vowel"
       }
     ]
   },
@@ -4105,52 +1545,12 @@
       {
         "word": "半年",
         "reading": "はんとし",
-        "meaning": "half a year, six months"
-      },
-      {
-        "word": "半日",
-        "reading": "はんにち",
-        "meaning": "half a day"
+        "meaning": "half a year"
       },
       {
         "word": "半分",
         "reading": "はんぶん",
-        "meaning": "half, half portion"
-      },
-      {
-        "word": "半生",
-        "reading": "はんせい",
-        "meaning": "half-cooked, rare (food)"
-      },
-      {
-        "word": "半月",
-        "reading": "はんつき",
-        "meaning": "half a month, bi-monthly"
-      },
-      {
-        "word": "半自動",
-        "reading": "はんじどう",
-        "meaning": "semi-automatic"
-      },
-      {
-        "word": "半導体",
-        "reading": "はんどうたい",
-        "meaning": "semiconductor"
-      },
-      {
-        "word": "半永久",
-        "reading": "はんえいきゅう",
-        "meaning": "semi-permanent"
-      },
-      {
-        "word": "半月板",
-        "reading": "はんげつばん",
-        "meaning": "meniscus (in the knee)"
-      },
-      {
-        "word": "半数",
-        "reading": "はんすう",
-        "meaning": "half (of a number), majority"
+        "meaning": "half"
       }
     ]
   },
@@ -4167,52 +1567,12 @@
       {
         "word": "百人",
         "reading": "ひゃくにん",
-        "meaning": "hundred people"
-      },
-      {
-        "word": "百年",
-        "reading": "ひゃくねん",
-        "meaning": "hundred years"
-      },
-      {
-        "word": "百万",
-        "reading": "ひゃくまん",
-        "meaning": "one million"
+        "meaning": "one hundred people"
       },
       {
         "word": "百円",
         "reading": "ひゃくえん",
-        "meaning": "hundred yen"
-      },
-      {
-        "word": "百学",
-        "reading": "ひゃくがく",
-        "meaning": "a hundred studies (a broad range of learning)"
-      },
-      {
-        "word": "百貨店",
-        "reading": "ひゃっかてん",
-        "meaning": "department store"
-      },
-      {
-        "word": "百味",
-        "reading": "ひゃくみ",
-        "meaning": "hundred flavors"
-      },
-      {
-        "word": "百肘",
-        "reading": "ひゃくひじ",
-        "meaning": "hundred elbows (used as a metaphor for many directions or perspectives)"
-      },
-      {
-        "word": "百戦",
-        "reading": "ひゃくせん",
-        "meaning": "hundred battles"
-      },
-      {
-        "word": "百花",
-        "reading": "ひゃっか",
-        "meaning": "hundred flowers (referring to a variety of flowers or beauty)"
+        "meaning": "one hundred yen"
       }
     ]
   },
@@ -4227,54 +1587,14 @@
     "imagePath": "kanji/土.png",
     "vocab": [
       {
-        "word": "土日",
-        "reading": "どにち",
-        "meaning": "Saturday and Sunday (weekend)"
-      },
-      {
-        "word": "土壌",
-        "reading": "どじょう",
-        "meaning": "soil, ground"
-      },
-      {
-        "word": "土産",
-        "reading": "みやげ",
-        "meaning": "souvenir, gift"
-      },
-      {
         "word": "土地",
         "reading": "とち",
-        "meaning": "land, terrain"
-      },
-      {
-        "word": "土木",
-        "reading": "どぼく",
-        "meaning": "civil engineering, construction"
+        "meaning": "land; ground"
       },
       {
         "word": "土曜日",
         "reading": "どようび",
         "meaning": "Saturday"
-      },
-      {
-        "word": "土用",
-        "reading": "どよう",
-        "meaning": "period before the change of seasons"
-      },
-      {
-        "word": "土台",
-        "reading": "どだい",
-        "meaning": "foundation, base"
-      },
-      {
-        "word": "土筆",
-        "reading": "つくし",
-        "meaning": "horsetail (plant)"
-      },
-      {
-        "word": "土器",
-        "reading": "どき",
-        "meaning": "earthenware, pottery"
       }
     ]
   },
@@ -4291,53 +1611,13 @@
     "vocab": [
       {
         "word": "西",
-        "reading": "nishi",
+        "reading": "にし",
         "meaning": "west"
       },
       {
-        "word": "西口",
-        "reading": "nishiguchi",
-        "meaning": "west exit"
-      },
-      {
-        "word": "西洋",
-        "reading": "seiyou",
-        "meaning": "the West; Western (culture)"
-      },
-      {
-        "word": "西日",
-        "reading": "nishibi",
-        "meaning": "setting sun; afternoon sun from the west"
-      },
-      {
-        "word": "西暦",
-        "reading": "seireki",
-        "meaning": "Christian era; Western calendar"
-      },
-      {
         "word": "西部",
-        "reading": "seibu",
-        "meaning": "western part; west region"
-      },
-      {
-        "word": "西区",
-        "reading": "nishiku",
-        "meaning": "west district"
-      },
-      {
-        "word": "西風",
-        "reading": "nishikaze",
-        "meaning": "west wind"
-      },
-      {
-        "word": "西国",
-        "reading": "saikoku",
-        "meaning": "Western countries; western regions"
-      },
-      {
-        "word": "西班牙",
-        "reading": "suipanya",
-        "meaning": "Spain"
+        "reading": "せいぶ",
+        "meaning": "western part; west"
       }
     ]
   },
@@ -4356,52 +1636,12 @@
       {
         "word": "読書",
         "reading": "どくしょ",
-        "meaning": "reading books"
-      },
-      {
-        "word": "読者",
-        "reading": "どくしゃ",
-        "meaning": "reader"
-      },
-      {
-        "word": "読み",
-        "reading": "よみ",
-        "meaning": "reading; interpretation"
-      },
-      {
-        "word": "読わく",
-        "reading": "よみわく",
-        "meaning": "to read aloud"
-      },
-      {
-        "word": "読み方",
-        "reading": "よみかた",
-        "meaning": "reading method; how to read"
-      },
-      {
-        "word": "読み書き",
-        "reading": "よみかき",
-        "meaning": "reading and writing"
+        "meaning": "reading (books)"
       },
       {
         "word": "読解",
         "reading": "どっかい",
         "meaning": "reading comprehension"
-      },
-      {
-        "word": "学読",
-        "reading": "がくどく",
-        "meaning": "academic reading"
-      },
-      {
-        "word": "読みにくい",
-        "reading": "よみにくい",
-        "meaning": "hard to read"
-      },
-      {
-        "word": "読まれる",
-        "reading": "よまれる",
-        "meaning": "to be read"
       }
     ]
   },
@@ -4415,54 +1655,14 @@
     "imagePath": "kanji/千.png",
     "vocab": [
       {
-        "word": "千人",
-        "reading": "せんにん",
-        "meaning": "thousand people"
-      },
-      {
-        "word": "千円",
-        "reading": "せんえん",
-        "meaning": "thousand yen"
-      },
-      {
         "word": "千年",
         "reading": "せんねん",
         "meaning": "thousand years"
       },
       {
-        "word": "千分",
-        "reading": "せんぶん",
-        "meaning": "one thousandth"
-      },
-      {
-        "word": "千本",
-        "reading": "せんぼん",
-        "meaning": "thousand sticks, or thousand bottles"
-      },
-      {
-        "word": "千夜",
-        "reading": "せんや",
-        "meaning": "thousand nights"
-      },
-      {
-        "word": "千鳥",
-        "reading": "ちどり",
-        "meaning": "plover (a type of bird)"
-      },
-      {
-        "word": "千秋",
-        "reading": "せんしゅう",
-        "meaning": "a thousand autumns, a long time"
-      },
-      {
-        "word": "千里",
-        "reading": "せんり",
-        "meaning": "thousand miles, a long distance"
-      },
-      {
-        "word": "千差万別",
-        "reading": "せんさばんべつ",
-        "meaning": "a great variety of differences"
+        "word": "千円",
+        "reading": "せんえん",
+        "meaning": "one thousand yen"
       }
     ]
   },
@@ -4481,49 +1681,9 @@
         "meaning": "school"
       },
       {
-        "word": "高校",
-        "reading": "こうこう",
-        "meaning": "high school"
-      },
-      {
-        "word": "小学校",
-        "reading": "しょうがっこう",
-        "meaning": "elementary school"
-      },
-      {
-        "word": "中学校",
-        "reading": "ちゅうがっこう",
-        "meaning": "middle school"
-      },
-      {
-        "word": "大学",
-        "reading": "だいがく",
-        "meaning": "university"
-      },
-      {
-        "word": "校舎",
-        "reading": "こうしゃ",
-        "meaning": "school building"
-      },
-      {
-        "word": "校長",
-        "reading": "こうちょう",
-        "meaning": "principal"
-      },
-      {
-        "word": "校歌",
-        "reading": "こうか",
-        "meaning": "school song"
-      },
-      {
         "word": "校庭",
         "reading": "こうてい",
         "meaning": "schoolyard"
-      },
-      {
-        "word": "校友",
-        "reading": "こうゆう",
-        "meaning": "alumni"
       }
     ]
   },
@@ -4538,54 +1698,14 @@
     "imagePath": "kanji/右.png",
     "vocab": [
       {
-        "word": "右手",
-        "reading": "みぎて",
-        "meaning": "right hand"
+        "word": "右",
+        "reading": "みぎ",
+        "meaning": "right (direction)"
       },
       {
         "word": "右側",
-        "reading": "みぎがわ",
+        "reading": "うそく",
         "meaning": "right side"
-      },
-      {
-        "word": "右折",
-        "reading": "うせつ",
-        "meaning": "right turn"
-      },
-      {
-        "word": "右耳",
-        "reading": "みぎみみ",
-        "meaning": "right ear"
-      },
-      {
-        "word": "右上",
-        "reading": "みぎうえ",
-        "meaning": "top right"
-      },
-      {
-        "word": "右下",
-        "reading": "みぎした",
-        "meaning": "bottom right"
-      },
-      {
-        "word": "右へ",
-        "reading": "みぎへ",
-        "meaning": "to the right"
-      },
-      {
-        "word": "右足",
-        "reading": "みぎあし",
-        "meaning": "right foot"
-      },
-      {
-        "word": "右窓",
-        "reading": "みぎまど",
-        "meaning": "right window"
-      },
-      {
-        "word": "右腕",
-        "reading": "みぎうで",
-        "meaning": "right arm"
       }
     ]
   },
@@ -4602,52 +1722,12 @@
       {
         "word": "南国",
         "reading": "なんごく",
-        "meaning": "southern country; tropical region"
+        "meaning": "southern country; tropical country"
       },
       {
         "word": "南部",
         "reading": "なんぶ",
-        "meaning": "south region; southern part"
-      },
-      {
-        "word": "南行",
-        "reading": "なんこう",
-        "meaning": "southward; heading south"
-      },
-      {
-        "word": "南線",
-        "reading": "なんせん",
-        "meaning": "south line; southern railway"
-      },
-      {
-        "word": "南風",
-        "reading": "なんぷう",
-        "meaning": "south wind"
-      },
-      {
-        "word": "南海",
-        "reading": "なんかい",
-        "meaning": "south sea"
-      },
-      {
-        "word": "南北",
-        "reading": "なんぼく",
-        "meaning": "north and south"
-      },
-      {
-        "word": "南側",
-        "reading": "みなみがわ",
-        "meaning": "south side"
-      },
-      {
-        "word": "南口",
-        "reading": "みなみぐち",
-        "meaning": "south exit"
-      },
-      {
-        "word": "南米",
-        "reading": "なんべい",
-        "meaning": "South America"
+        "meaning": "southern region; southern part"
       }
     ]
   },
@@ -4662,54 +1742,14 @@
     "imagePath": "kanji/左.png",
     "vocab": [
       {
-        "word": "左上",
-        "reading": "ひだりうえ",
-        "meaning": "upper left"
+        "word": "左",
+        "reading": "ひだり",
+        "meaning": "left"
       },
       {
         "word": "左側",
         "reading": "ひだりがわ",
         "meaning": "left side"
-      },
-      {
-        "word": "左手",
-        "reading": "ひだりて",
-        "meaning": "left hand"
-      },
-      {
-        "word": "左に",
-        "reading": "ひだりに",
-        "meaning": "to the left"
-      },
-      {
-        "word": "左行",
-        "reading": "ひだりこう",
-        "meaning": "leftward movement"
-      },
-      {
-        "word": "左折",
-        "reading": "させつ",
-        "meaning": "left turn"
-      },
-      {
-        "word": "左耳",
-        "reading": "ひだりみみ",
-        "meaning": "left ear"
-      },
-      {
-        "word": "左右",
-        "reading": "さゆう",
-        "meaning": "left and right"
-      },
-      {
-        "word": "左前",
-        "reading": "ひだりまえ",
-        "meaning": "left front"
-      },
-      {
-        "word": "左足",
-        "reading": "ひだりあし",
-        "meaning": "left leg"
       }
     ]
   },
@@ -4730,47 +1770,7 @@
       {
         "word": "友人",
         "reading": "ゆうじん",
-        "meaning": "friend; companion"
-      },
-      {
-        "word": "友好",
-        "reading": "ゆうこう",
-        "meaning": "friendship; good relations"
-      },
-      {
-        "word": "友愛",
-        "reading": "ゆうあい",
-        "meaning": "friendship; camaraderie"
-      },
-      {
-        "word": "友人関係",
-        "reading": "ゆうじんかんけい",
-        "meaning": "friendship; friend relationship"
-      },
-      {
-        "word": "友達作り",
-        "reading": "ともだちづくり",
-        "meaning": "making friends"
-      },
-      {
-        "word": "親友",
-        "reading": "しんゆう",
-        "meaning": "close friend; best friend"
-      },
-      {
-        "word": "友よ",
-        "reading": "ともよ",
-        "meaning": "dear friend"
-      },
-      {
-        "word": "友の会",
-        "reading": "ともあい",
-        "meaning": "friends' association"
-      },
-      {
-        "word": "友達の輪",
-        "reading": "ともだちのわ",
-        "meaning": "circle of friends"
+        "meaning": "friend; acquaintance"
       }
     ]
   },
@@ -4786,54 +1786,14 @@
     "imagePath": "kanji/火.png",
     "vocab": [
       {
-        "word": "火山",
-        "reading": "かざん",
-        "meaning": "volcano"
+        "word": "火",
+        "reading": "ひ",
+        "meaning": "fire"
       },
       {
         "word": "火曜日",
         "reading": "かようび",
         "meaning": "Tuesday"
-      },
-      {
-        "word": "火事",
-        "reading": "かじ",
-        "meaning": "fire (disaster)"
-      },
-      {
-        "word": "火気",
-        "reading": "かき",
-        "meaning": "fire (substance, heat)"
-      },
-      {
-        "word": "火花",
-        "reading": "ひばな",
-        "meaning": "spark"
-      },
-      {
-        "word": "火力",
-        "reading": "かりょく",
-        "meaning": "firepower"
-      },
-      {
-        "word": "火葬",
-        "reading": "かそう",
-        "meaning": "cremation"
-      },
-      {
-        "word": "火災",
-        "reading": "かさい",
-        "meaning": "fire disaster"
-      },
-      {
-        "word": "火影",
-        "reading": "ほかげ",
-        "meaning": "fire shadow"
-      },
-      {
-        "word": "火の車",
-        "reading": "ひのくるま",
-        "meaning": "fire truck (slang for financial trouble)"
       }
     ]
   },
@@ -4856,46 +1816,6 @@
         "word": "毎年",
         "reading": "まいとし",
         "meaning": "every year"
-      },
-      {
-        "word": "毎週",
-        "reading": "まいしゅう",
-        "meaning": "every week"
-      },
-      {
-        "word": "毎月",
-        "reading": "まいつき",
-        "meaning": "every month"
-      },
-      {
-        "word": "毎回",
-        "reading": "まいかい",
-        "meaning": "every time"
-      },
-      {
-        "word": "毎朝",
-        "reading": "まいあさ",
-        "meaning": "every morning"
-      },
-      {
-        "word": "毎晩",
-        "reading": "まいばん",
-        "meaning": "every evening"
-      },
-      {
-        "word": "毎年",
-        "reading": "まいねん",
-        "meaning": "every year"
-      },
-      {
-        "word": "毎夕",
-        "reading": "まいゆう",
-        "meaning": "every evening"
-      },
-      {
-        "word": "毎時",
-        "reading": "まいじ",
-        "meaning": "every hour"
       }
     ]
   },
@@ -4911,54 +1831,14 @@
     "imagePath": "kanji/雨.png",
     "vocab": [
       {
+        "word": "雨",
+        "reading": "あめ",
+        "meaning": "rain"
+      },
+      {
         "word": "雨天",
         "reading": "うてん",
         "meaning": "rainy weather"
-      },
-      {
-        "word": "雨女",
-        "reading": "あめおんな",
-        "meaning": "woman who brings rain (often used to describe someone who seems to bring rain on a day)"
-      },
-      {
-        "word": "雨季",
-        "reading": "うき",
-        "meaning": "rainy season"
-      },
-      {
-        "word": "雨合羽",
-        "reading": "あまがっぱ",
-        "meaning": "raincoat"
-      },
-      {
-        "word": "雨音",
-        "reading": "あまおと",
-        "meaning": "sound of rain"
-      },
-      {
-        "word": "豪雨",
-        "reading": "ごうう",
-        "meaning": "heavy rain"
-      },
-      {
-        "word": "雨雲",
-        "reading": "あまぐも",
-        "meaning": "rain cloud"
-      },
-      {
-        "word": "小雨",
-        "reading": "こさめ",
-        "meaning": "light rain"
-      },
-      {
-        "word": "雨水",
-        "reading": "あまみず",
-        "meaning": "rainwater"
-      },
-      {
-        "word": "梅雨",
-        "reading": "つゆ",
-        "meaning": "the rainy season (in Japan, typically around June)"
       }
     ]
   },
@@ -4974,54 +1854,14 @@
     "imagePath": "kanji/休.png",
     "vocab": [
       {
-        "word": "休日",
-        "reading": "きゅうじつ",
-        "meaning": "day off; holiday"
+        "word": "休む",
+        "reading": "やすむ",
+        "meaning": "to rest"
       },
       {
         "word": "休み",
         "reading": "やすみ",
-        "meaning": "rest; break; vacation"
-      },
-      {
-        "word": "休む",
-        "reading": "やすむ",
-        "meaning": "to rest; to take a break"
-      },
-      {
-        "word": "休憩",
-        "reading": "きゅうけい",
-        "meaning": "break; rest"
-      },
-      {
-        "word": "休暇",
-        "reading": "きゅうか",
-        "meaning": "vacation; leave of absence"
-      },
-      {
-        "word": "休養",
-        "reading": "きゅうよう",
-        "meaning": "rest and recuperation"
-      },
-      {
-        "word": "休業",
-        "reading": "きゅうぎょう",
-        "meaning": "business suspension; closure"
-      },
-      {
-        "word": "休戦",
-        "reading": "きゅうせん",
-        "meaning": "ceasefire; truce"
-      },
-      {
-        "word": "休校",
-        "reading": "きゅうこう",
-        "meaning": "school closure"
-      },
-      {
-        "word": "休息",
-        "reading": "きゅうそく",
-        "meaning": "rest; relaxation"
+        "meaning": "a break; holiday"
       }
     ]
   },
@@ -5035,54 +1875,14 @@
     "imagePath": "kanji/午.png",
     "vocab": [
       {
-        "word": "午前",
-        "reading": "ごぜん",
-        "meaning": "A.M.; morning"
-      },
-      {
         "word": "午後",
         "reading": "ごご",
-        "meaning": "P.M.; afternoon"
+        "meaning": "afternoon"
       },
       {
-        "word": "午飯",
-        "reading": "ごはん",
-        "meaning": "lunch; meal"
-      },
-      {
-        "word": "午時",
-        "reading": "ごじ",
-        "meaning": "noon; 12 o'clock"
-      },
-      {
-        "word": "午前中",
-        "reading": "ごぜんちゅう",
-        "meaning": "during the morning"
-      },
-      {
-        "word": "午年",
-        "reading": "うまどし",
-        "meaning": "Year of the Horse (lunar calendar)"
-      },
-      {
-        "word": "午後の紅茶",
-        "reading": "ごごのこうちゃ",
-        "meaning": "Afternoon Tea (brand name)"
-      },
-      {
-        "word": "午睡",
-        "reading": "ごすい",
-        "meaning": "afternoon nap"
-      },
-      {
-        "word": "午兎",
-        "reading": "ごと",
-        "meaning": "afternoon rabbit (a mythical creature)"
-      },
-      {
-        "word": "午刻",
-        "reading": "ごこく",
-        "meaning": "noon hour"
+        "word": "午前",
+        "reading": "ごぜん",
+        "meaning": "morning"
       }
     ]
   },
@@ -5096,11 +1896,6 @@
     "imagePath": "kanji/容.png",
     "vocab": [
       {
-        "word": "内容",
-        "reading": "ないよう",
-        "meaning": "content"
-      },
-      {
         "word": "容器",
         "reading": "ようき",
         "meaning": "container"
@@ -5108,42 +1903,7 @@
       {
         "word": "容姿",
         "reading": "ようし",
-        "meaning": "appearance"
-      },
-      {
-        "word": "容認",
-        "reading": "ようにん",
-        "meaning": "approval; acceptance"
-      },
-      {
-        "word": "容赦",
-        "reading": "ようしゃ",
-        "meaning": "forgiveness; pardon"
-      },
-      {
-        "word": "容貌",
-        "reading": "ようぼう",
-        "meaning": "appearance; looks"
-      },
-      {
-        "word": "容積",
-        "reading": "ようせき",
-        "meaning": "volume"
-      },
-      {
-        "word": "容疑",
-        "reading": "ようぎ",
-        "meaning": "suspicion"
-      },
-      {
-        "word": "容貌",
-        "reading": "ようぼう",
-        "meaning": "appearance; looks"
-      },
-      {
-        "word": "容倉",
-        "reading": "ようそう",
-        "meaning": "storing; arranging"
+        "meaning": "appearance; figure"
       }
     ]
   },
@@ -5158,54 +1918,14 @@
     "imagePath": "kanji/内.png",
     "vocab": [
       {
-        "word": "内容",
-        "reading": "ないよう",
-        "meaning": "content"
+        "word": "内",
+        "reading": "うち",
+        "meaning": "inside, within"
       },
       {
-        "word": "内側",
-        "reading": "うちがわ",
-        "meaning": "inside; inner side"
-      },
-      {
-        "word": "内科",
-        "reading": "ないか",
-        "meaning": "internal medicine"
-      },
-      {
-        "word": "内緒",
-        "reading": "ないしょ",
-        "meaning": "secrecy; secret"
-      },
-      {
-        "word": "以内",
-        "reading": "いない",
-        "meaning": "within; inside of"
-      },
-      {
-        "word": "国内",
-        "reading": "こくない",
-        "meaning": "domestic; within the country"
-      },
-      {
-        "word": "内元",
-        "reading": "ないげん",
-        "meaning": "internal element"
-      },
-      {
-        "word": "内輪",
-        "reading": "うちわ",
-        "meaning": "close-knit group; insider"
-      },
-      {
-        "word": "内省",
-        "reading": "ないせい",
-        "meaning": "introspection; self-examination"
-      },
-      {
-        "word": "内務",
-        "reading": "ないむ",
-        "meaning": "internal affairs; home affairs"
+        "word": "内",
+        "reading": "ない",
+        "meaning": "within, inside (used in compound words)"
       }
     ]
   },
@@ -5221,54 +1941,14 @@
     "imagePath": "kanji/力.png",
     "vocab": [
       {
-        "word": "力士",
-        "reading": "りきし",
-        "meaning": "sumo wrestler"
-      },
-      {
-        "word": "学生",
-        "reading": "がくせい",
-        "meaning": "student"
-      },
-      {
-        "word": "力強い",
-        "reading": "ちからづよい",
-        "meaning": "powerful; strong"
+        "word": "力",
+        "reading": "ちから",
+        "meaning": "power, strength"
       },
       {
         "word": "能力",
         "reading": "のうりょく",
-        "meaning": "ability; capability"
-      },
-      {
-        "word": "努力",
-        "reading": "どりょく",
-        "meaning": "effort; endeavor"
-      },
-      {
-        "word": "力作",
-        "reading": "りきさく",
-        "meaning": "masterpiece; great work"
-      },
-      {
-        "word": "力点",
-        "reading": "りきてん",
-        "meaning": "point of emphasis; focus"
-      },
-      {
-        "word": "力行",
-        "reading": "りきこう",
-        "meaning": "training; vigorous action"
-      },
-      {
-        "word": "種類",
-        "reading": "しゅるい",
-        "meaning": "type; kind"
-      },
-      {
-        "word": "生力",
-        "reading": "せいりょく",
-        "meaning": "vitality; life force"
+        "meaning": "ability, capability"
       }
     ]
   },
@@ -5285,54 +1965,14 @@
     "imagePath": "kanji/新.png",
     "vocab": [
       {
-        "word": "新人",
-        "reading": "しんじん",
-        "meaning": "new person; novice"
-      },
-      {
-        "word": "新年",
-        "reading": "しんねん",
-        "meaning": "new year"
-      },
-      {
         "word": "新しい",
         "reading": "あたらしい",
-        "meaning": "new; fresh"
+        "meaning": "new"
       },
       {
-        "word": "新しい本",
-        "reading": "あたらしいほん",
-        "meaning": "new book"
-      },
-      {
-        "word": "新入生",
-        "reading": "しんにゅうせい",
-        "meaning": "new student (freshman)"
-      },
-      {
-        "word": "新車",
-        "reading": "しんしゃ",
-        "meaning": "new car"
-      },
-      {
-        "word": "新しい仕事",
-        "reading": "あたらしいしごと",
-        "meaning": "new job"
-      },
-      {
-        "word": "新型",
-        "reading": "しんがた",
-        "meaning": "new model/type"
-      },
-      {
-        "word": "新発見",
-        "reading": "しんはっけん",
-        "meaning": "new discovery"
-      },
-      {
-        "word": "新興",
-        "reading": "しんこう",
-        "meaning": "newly rising; emerging"
+        "word": "新聞",
+        "reading": "しんぶん",
+        "meaning": "newspaper"
       }
     ]
   },
@@ -5348,54 +1988,14 @@
     "imagePath": "kanji/古.png",
     "vocab": [
       {
-        "word": "古人",
-        "reading": "こじん",
-        "meaning": "ancient person"
-      },
-      {
-        "word": "古本",
-        "reading": "こほん",
-        "meaning": "used book; old book"
-      },
-      {
-        "word": "古代",
-        "reading": "こだい",
-        "meaning": "ancient times"
-      },
-      {
         "word": "古い",
         "reading": "ふるい",
         "meaning": "old"
       },
       {
-        "word": "古木",
-        "reading": "こぼく",
-        "meaning": "old tree"
-      },
-      {
         "word": "古典",
         "reading": "こてん",
-        "meaning": "classic literature"
-      },
-      {
-        "word": "古今",
-        "reading": "ここん",
-        "meaning": "past and present"
-      },
-      {
-        "word": "古城",
-        "reading": "こじょう",
-        "meaning": "ancient castle"
-      },
-      {
-        "word": "古書",
-        "reading": "こしょ",
-        "meaning": "old book; antique book"
-      },
-      {
-        "word": "古楽",
-        "reading": "こがく",
-        "meaning": "ancient music"
+        "meaning": "classics"
       }
     ]
   },
@@ -5414,52 +2014,12 @@
       {
         "word": "安い",
         "reading": "やすい",
-        "meaning": "cheap"
+        "meaning": "cheap; inexpensive"
       },
       {
         "word": "安全",
         "reading": "あんぜん",
-        "meaning": "safety"
-      },
-      {
-        "word": "安定",
-        "reading": "あんてい",
-        "meaning": "stability"
-      },
-      {
-        "word": "安価",
-        "reading": "あんか",
-        "meaning": "inexpensive"
-      },
-      {
-        "word": "安眠",
-        "reading": "あんみん",
-        "meaning": "peaceful sleep"
-      },
-      {
-        "word": "安答",
-        "reading": "あんとう",
-        "meaning": "easy answer"
-      },
-      {
-        "word": "安楽",
-        "reading": "あんらく",
-        "meaning": "comfort"
-      },
-      {
-        "word": "安売り",
-        "reading": "やすうり",
-        "meaning": "sale"
-      },
-      {
-        "word": "安らぎ",
-        "reading": "やすらぎ",
-        "meaning": "peace of mind"
-      },
-      {
-        "word": "安堵",
-        "reading": "あんど",
-        "meaning": "relief"
+        "meaning": "safety; security"
       }
     ]
   },
@@ -5473,54 +2033,14 @@
     "imagePath": "kanji/短.png",
     "vocab": [
       {
-        "word": "短大",
-        "reading": "たんだい",
-        "meaning": "junior college"
+        "word": "短い",
+        "reading": "みじかい",
+        "meaning": "short"
       },
       {
         "word": "短時間",
         "reading": "たんじかん",
         "meaning": "short time"
-      },
-      {
-        "word": "短縮",
-        "reading": "たんしゅく",
-        "meaning": "abbreviation; reduction"
-      },
-      {
-        "word": "短所",
-        "reading": "たんしょ",
-        "meaning": "shortcoming; weakness"
-      },
-      {
-        "word": "短気",
-        "reading": "たんき",
-        "meaning": "short temper"
-      },
-      {
-        "word": "短篇",
-        "reading": "たんぺん",
-        "meaning": "short story; short piece"
-      },
-      {
-        "word": "短文",
-        "reading": "たんぶん",
-        "meaning": "short sentence"
-      },
-      {
-        "word": "短命",
-        "reading": "たんめい",
-        "meaning": "short life; brief lifespan"
-      },
-      {
-        "word": "短足",
-        "reading": "たんそく",
-        "meaning": "short legs"
-      },
-      {
-        "word": "短刀",
-        "reading": "たんとう",
-        "meaning": "short sword"
       }
     ]
   },
@@ -5546,53 +2066,13 @@
     "vocab": [
       {
         "word": "明日",
-        "reading": "あす",
+        "reading": "あした",
         "meaning": "tomorrow"
       },
       {
         "word": "明るい",
         "reading": "あかるい",
         "meaning": "bright"
-      },
-      {
-        "word": "明白",
-        "reading": "めいはく",
-        "meaning": "clear, plain"
-      },
-      {
-        "word": "明ける",
-        "reading": "あける",
-        "meaning": "to dawn, to break (e.g., day)"
-      },
-      {
-        "word": "明細",
-        "reading": "めいさい",
-        "meaning": "details, particulars"
-      },
-      {
-        "word": "明治",
-        "reading": "めいじ",
-        "meaning": "Meiji era (1868-1912)"
-      },
-      {
-        "word": "明示",
-        "reading": "めいじ",
-        "meaning": "explicit, indication"
-      },
-      {
-        "word": "明論",
-        "reading": "めいろん",
-        "meaning": "clarity of opinion"
-      },
-      {
-        "word": "明瞭",
-        "reading": "めいりょう",
-        "meaning": "clear, distinct"
-      },
-      {
-        "word": "明快",
-        "reading": "めいかい",
-        "meaning": "clear, succinct"
       }
     ]
   },
@@ -5613,49 +2093,9 @@
         "meaning": "darkness"
       },
       {
-        "word": "暗証",
-        "reading": "あんしょう",
-        "meaning": "security (password)"
-      },
-      {
-        "word": "暗記",
-        "reading": "あんき",
-        "meaning": "memorization"
-      },
-      {
-        "word": "暗示",
-        "reading": "あんじ",
-        "meaning": "hint, suggestion"
-      },
-      {
-        "word": "暗殺",
-        "reading": "あんさつ",
-        "meaning": "assassination"
-      },
-      {
-        "word": "暗い",
-        "reading": "くらい",
-        "meaning": "dark"
-      },
-      {
         "word": "暗号",
         "reading": "あんごう",
-        "meaning": "code, cipher"
-      },
-      {
-        "word": "暗幕",
-        "reading": "あんまく",
-        "meaning": "blackout curtain"
-      },
-      {
-        "word": "暗転",
-        "reading": "あんてん",
-        "meaning": "dark transition (usually in theater)"
-      },
-      {
-        "word": "暗礁",
-        "reading": "あんしょう",
-        "meaning": "reef (figuratively, an obstacle or problem)"
+        "meaning": "code (cipher)"
       }
     ]
   },
@@ -5676,52 +2116,12 @@
       {
         "word": "開く",
         "reading": "ひらく",
-        "meaning": "to open (something); to unlock"
+        "meaning": "to open"
       },
       {
         "word": "開ける",
         "reading": "あける",
-        "meaning": "to open (a door, window, etc.)"
-      },
-      {
-        "word": "開山",
-        "reading": "かいざん",
-        "meaning": "the opening of a mountain; often refers to the first ascension of a mountain"
-      },
-      {
-        "word": "開通",
-        "reading": "かいつう",
-        "meaning": "opening (of a road, passage, etc.); to become operational"
-      },
-      {
-        "word": "開発",
-        "reading": "かいはつ",
-        "meaning": "development; exploitation"
-      },
-      {
-        "word": "開校",
-        "reading": "かいこう",
-        "meaning": "opening of a school; establishment of a school"
-      },
-      {
-        "word": "開放",
-        "reading": "かいほう",
-        "meaning": "liberation; opening"
-      },
-      {
-        "word": "開業",
-        "reading": "かいぎょう",
-        "meaning": "opening a business; starting a practice"
-      },
-      {
-        "word": "開店",
-        "reading": "かいてん",
-        "meaning": "opening of a store; start of business hours"
-      },
-      {
-        "word": "開戦",
-        "reading": "かいせん",
-        "meaning": "start of war; declaration of war"
+        "meaning": "to open (something)"
       }
     ]
   },
@@ -5737,54 +2137,14 @@
     "imagePath": "kanji/豆.png",
     "vocab": [
       {
+        "word": "豆",
+        "reading": "まめ",
+        "meaning": "bean; pea"
+      },
+      {
         "word": "豆腐",
         "reading": "とうふ",
         "meaning": "tofu"
-      },
-      {
-        "word": "豆苗",
-        "reading": "とうみょう",
-        "meaning": "pea shoots"
-      },
-      {
-        "word": "豆知識",
-        "reading": "まめちしき",
-        "meaning": "trivia; little known facts"
-      },
-      {
-        "word": "豆腐料理",
-        "reading": "とうふりょうり",
-        "meaning": "tofu dishes"
-      },
-      {
-        "word": "豆粒",
-        "reading": "まめつぶ",
-        "meaning": "pea-sized; tiny like a bean"
-      },
-      {
-        "word": "豆札",
-        "reading": "まめふだ",
-        "meaning": "small card; ticket (for promotion or advertisement)"
-      },
-      {
-        "word": "豆白",
-        "reading": "まめしろ",
-        "meaning": "white bean; bean color"
-      },
-      {
-        "word": "甘豆",
-        "reading": "あままめ",
-        "meaning": "sweet beans"
-      },
-      {
-        "word": "青豆",
-        "reading": "あおまめ",
-        "meaning": "green peas; green beans"
-      },
-      {
-        "word": "豆音",
-        "reading": "まめね",
-        "meaning": "pea sound; small sound"
       }
     ]
   },
@@ -5803,54 +2163,14 @@
     "imagePath": "kanji/赤.png",
     "vocab": [
       {
-        "word": "赤い",
-        "reading": "あかい",
-        "meaning": "red (adjective)"
-      },
-      {
         "word": "赤ちゃん",
         "reading": "あかちゃん",
         "meaning": "baby"
       },
       {
-        "word": "赤色",
-        "reading": "あかいろ",
-        "meaning": "red color"
-      },
-      {
-        "word": "赤外線",
-        "reading": "せきがいせん",
-        "meaning": "infrared ray"
-      },
-      {
-        "word": "赤面",
-        "reading": "せきめん",
-        "meaning": "blushing"
-      },
-      {
-        "word": "赤字",
-        "reading": "あかじ",
-        "meaning": "deficit, red ink (in financial terms)"
-      },
-      {
-        "word": "赤道",
-        "reading": "せきどう",
-        "meaning": "equator"
-      },
-      {
-        "word": "赤い花",
-        "reading": "あかいはな",
-        "meaning": "red flower"
-      },
-      {
-        "word": "赤羽",
-        "reading": "あかばね",
-        "meaning": "red wings (a place name in Tokyo)"
-      },
-      {
-        "word": "赤飯",
-        "reading": "せきはん",
-        "meaning": "steamed glutinous rice colored with adzuki beans, served at celebrations"
+        "word": "赤い",
+        "reading": "あかい",
+        "meaning": "red"
       }
     ]
   },
@@ -5872,47 +2192,7 @@
       {
         "word": "仕方",
         "reading": "しかた",
-        "meaning": "way; method; means; manner"
-      },
-      {
-        "word": "仕入れ",
-        "reading": "しいれ",
-        "meaning": "purchase; stock"
-      },
-      {
-        "word": "仕返し",
-        "reading": "しかえし",
-        "meaning": "revenge; retaliation"
-      },
-      {
-        "word": "仕組み",
-        "reading": "しくみ",
-        "meaning": "structure; mechanism"
-      },
-      {
-        "word": "使役",
-        "reading": "しえき",
-        "meaning": "causative form; to let someone do; to have someone do"
-      },
-      {
-        "word": "使命",
-        "reading": "しめい",
-        "meaning": "mission; duty"
-      },
-      {
-        "word": "仕立て",
-        "reading": "したて",
-        "meaning": "tailoring; sewing; style of dress"
-      },
-      {
-        "word": "仕上げ",
-        "reading": "しあげ",
-        "meaning": "finish; completion"
-      },
-      {
-        "word": "使い方",
-        "reading": "つかいかた",
-        "meaning": "way to use; usage"
+        "meaning": "means; method; ways"
       }
     ]
   },
@@ -5931,52 +2211,12 @@
       {
         "word": "仕事",
         "reading": "しごと",
-        "meaning": "work, job"
-      },
-      {
-        "word": "事務",
-        "reading": "じむ",
-        "meaning": "administration, office work"
-      },
-      {
-        "word": "事故",
-        "reading": "じこ",
-        "meaning": "accident"
+        "meaning": "work; job"
       },
       {
         "word": "事実",
         "reading": "じじつ",
-        "meaning": "fact, truth"
-      },
-      {
-        "word": "事業",
-        "reading": "じぎょう",
-        "meaning": "business, enterprise"
-      },
-      {
-        "word": "事情",
-        "reading": "じじょう",
-        "meaning": "circumstances, situation"
-      },
-      {
-        "word": "出来事",
-        "reading": "できごと",
-        "meaning": "event, incident"
-      },
-      {
-        "word": "用事",
-        "reading": "ようじ",
-        "meaning": "errand, business"
-      },
-      {
-        "word": "事前",
-        "reading": "じぜん",
-        "meaning": "in advance, beforehand"
-      },
-      {
-        "word": "事務所",
-        "reading": "じむしょ",
-        "meaning": "office, business office"
+        "meaning": "fact; reality"
       }
     ]
   },
@@ -5995,49 +2235,9 @@
         "meaning": "English language"
       },
       {
-        "word": "英米",
-        "reading": "えいべい",
-        "meaning": "England and America"
-      },
-      {
-        "word": "英才",
-        "reading": "えいさい",
-        "meaning": "prodigy, gifted person"
-      },
-      {
-        "word": "英文学",
-        "reading": "えいぶんがく",
-        "meaning": "English literature"
-      },
-      {
-        "word": "英国",
-        "reading": "えいこく",
-        "meaning": "United Kingdom"
-      },
-      {
-        "word": "英会話",
-        "reading": "えいかいわ",
-        "meaning": "English conversation"
-      },
-      {
-        "word": "英知",
-        "reading": "えいち",
-        "meaning": "wisdom, intelligence"
-      },
-      {
-        "word": "英和",
-        "reading": "えいわ",
-        "meaning": "English-Japanese (dictionary)"
-      },
-      {
-        "word": "英兵",
-        "reading": "えいへい",
-        "meaning": "British soldier"
-      },
-      {
-        "word": "英豪",
-        "reading": "えいごう",
-        "meaning": "great Britain and Australia"
+        "word": "英雄",
+        "reading": "えいゆう",
+        "meaning": "hero"
       }
     ]
   },
@@ -6052,54 +2252,14 @@
     "imagePath": "kanji/秋.png",
     "vocab": [
       {
-        "word": "秋人",
-        "reading": "あきびと",
-        "meaning": "Autumn person; a person who enjoys autumn."
-      },
-      {
-        "word": "秋月",
-        "reading": "あきづき",
-        "meaning": "Autumn moon."
-      },
-      {
-        "word": "秋学",
-        "reading": "あきがく",
-        "meaning": "Autumn semester."
-      },
-      {
-        "word": "秋川",
-        "reading": "あきかわ",
-        "meaning": "Autumn river."
-      },
-      {
         "word": "秋日",
         "reading": "あきび",
-        "meaning": "Autumn day."
+        "meaning": "autumn day"
       },
       {
-        "word": "秋子",
-        "reading": "あきこ",
-        "meaning": "Child born in autumn."
-      },
-      {
-        "word": "秋長",
-        "reading": "あきなが",
-        "meaning": "Long autumn."
-      },
-      {
-        "word": "秋国",
-        "reading": "あきくに",
-        "meaning": "Autumn country."
-      },
-      {
-        "word": "秋行",
-        "reading": "あきこう",
-        "meaning": "Autumn travel."
-      },
-      {
-        "word": "秋話",
-        "reading": "あきばなし",
-        "meaning": "Autumn talk/story."
+        "word": "秋山",
+        "reading": "あきやま",
+        "meaning": "autumn mountain"
       }
     ]
   },
@@ -6117,52 +2277,12 @@
       {
         "word": "飴",
         "reading": "あめ",
-        "meaning": "candy"
+        "meaning": "candy; sweet"
       },
       {
-        "word": "学校",
-        "reading": "がっこう",
-        "meaning": "school"
-      },
-      {
-        "word": "名前",
-        "reading": "なまえ",
-        "meaning": "name"
-      },
-      {
-        "word": "今",
-        "reading": "いま",
-        "meaning": "now"
-      },
-      {
-        "word": "年",
-        "reading": "とし",
-        "meaning": "year"
-      },
-      {
-        "word": "外",
-        "reading": "そと",
-        "meaning": "outside"
-      },
-      {
-        "word": "見学",
-        "reading": "けんがく",
-        "meaning": "study by observation"
-      },
-      {
-        "word": "食事",
-        "reading": "しょくじ",
-        "meaning": "meal"
-      },
-      {
-        "word": "火",
-        "reading": "ひ",
-        "meaning": "fire"
-      },
-      {
-        "word": "行う",
-        "reading": "おこなう",
-        "meaning": "to carry out"
+        "word": "飴細工",
+        "reading": "あめざいく",
+        "meaning": "sugar art; candy craft"
       }
     ]
   },
@@ -6177,54 +2297,14 @@
     "imagePath": "kanji/姉.png",
     "vocab": [
       {
+        "word": "姉",
+        "reading": "あね",
+        "meaning": "older sister"
+      },
+      {
         "word": "姉妹",
         "reading": "しまい",
         "meaning": "sisters"
-      },
-      {
-        "word": "姉貴",
-        "reading": "あねき",
-        "meaning": "older sister (informal/slang)"
-      },
-      {
-        "word": "姉上",
-        "reading": "あねうえ",
-        "meaning": "older sister (respectful)"
-      },
-      {
-        "word": "姉弟",
-        "reading": "けいてい",
-        "meaning": "siblings (brothers and sisters)"
-      },
-      {
-        "word": "姉妹校",
-        "reading": "しまいこう",
-        "meaning": "sister schools"
-      },
-      {
-        "word": "長姉",
-        "reading": "ちょうあね",
-        "meaning": "eldest sister"
-      },
-      {
-        "word": "次姉",
-        "reading": "じあね",
-        "meaning": "second older sister"
-      },
-      {
-        "word": "妹姉",
-        "reading": "いもうとあね",
-        "meaning": "younger sister and older sister"
-      },
-      {
-        "word": "姉御",
-        "reading": "あねご",
-        "meaning": "older sister (respectful, often associated with strong female figures)"
-      },
-      {
-        "word": "姉さん",
-        "reading": "ねえさん",
-        "meaning": "older sister (casual, familiar)"
       }
     ]
   },
@@ -6244,49 +2324,9 @@
         "meaning": "siblings"
       },
       {
-        "word": "兄さん",
-        "reading": "にいさん",
+        "word": "兄",
+        "reading": "あに",
         "meaning": "older brother"
-      },
-      {
-        "word": "兄妹",
-        "reading": "きょうまい",
-        "meaning": "siblings, brother and sister"
-      },
-      {
-        "word": "先兄",
-        "reading": "せんきょう",
-        "meaning": "older brother"
-      },
-      {
-        "word": "兄貴",
-        "reading": "あにき",
-        "meaning": "older brother (informal)"
-      },
-      {
-        "word": "兄がい",
-        "reading": "あにがい",
-        "meaning": "having an older brother"
-      },
-      {
-        "word": "兄弟姉妹",
-        "reading": "きょうだいしまい",
-        "meaning": "siblings (brothers and sisters)"
-      },
-      {
-        "word": "兄弟子",
-        "reading": "あにでし",
-        "meaning": "senior apprentice (in a dojo)"
-      },
-      {
-        "word": "兄妹愛",
-        "reading": "きょうまいあい",
-        "meaning": "sibling love"
-      },
-      {
-        "word": "兄上",
-        "reading": "あにうえ",
-        "meaning": "older brother (respectful)"
       }
     ]
   },
@@ -6303,54 +2343,14 @@
     "imagePath": "kanji/青.png",
     "vocab": [
       {
-        "word": "青年",
-        "reading": "せいねん",
-        "meaning": "youth"
-      },
-      {
-        "word": "青空",
-        "reading": "あおぞら",
-        "meaning": "blue sky"
-      },
-      {
-        "word": "青信号",
-        "reading": "あおしんごう",
-        "meaning": "green (traffic) signal"
-      },
-      {
-        "word": "青色",
-        "reading": "あおいろ",
-        "meaning": "blue color"
-      },
-      {
-        "word": "青菜",
-        "reading": "あおな",
-        "meaning": "green vegetables"
-      },
-      {
-        "word": "青年団",
-        "reading": "せいねんだん",
-        "meaning": "youth group"
-      },
-      {
-        "word": "青白い",
-        "reading": "あおじろい",
-        "meaning": "pale blue"
-      },
-      {
         "word": "青い",
         "reading": "あおい",
         "meaning": "blue"
       },
       {
-        "word": "青果",
-        "reading": "せいか",
-        "meaning": "fresh fruits and vegetables"
-      },
-      {
-        "word": "青山",
-        "reading": "あおやま",
-        "meaning": "blue mountain (often a place name)"
+        "word": "青年",
+        "reading": "せいねん",
+        "meaning": "youth"
       }
     ]
   },
@@ -6364,54 +2364,14 @@
     "imagePath": "kanji/朝.png",
     "vocab": [
       {
-        "word": "朝日",
-        "reading": "あさひ",
-        "meaning": "morning sun"
-      },
-      {
         "word": "朝食",
         "reading": "ちょうしょく",
         "meaning": "breakfast"
       },
       {
-        "word": "朝晩",
-        "reading": "あさばん",
-        "meaning": "morning and night"
-      },
-      {
-        "word": "朝顔",
-        "reading": "あさがお",
-        "meaning": "morning glory (a type of flower)"
-      },
-      {
-        "word": "朝礼",
-        "reading": "ちょうれい",
-        "meaning": "morning assembly"
-      },
-      {
-        "word": "朝夕",
-        "reading": "あさゆう",
-        "meaning": "morning and evening"
-      },
-      {
-        "word": "朝寝坊",
-        "reading": "あさねぼう",
-        "meaning": "sleeping in (late in the morning)"
-      },
-      {
-        "word": "朝運",
-        "reading": "あさうん",
-        "meaning": "morning fortune"
-      },
-      {
-        "word": "朝霧",
-        "reading": "あさぎり",
-        "meaning": "morning fog"
-      },
-      {
-        "word": "朝霞",
-        "reading": "あさがすみ",
-        "meaning": "morning haze"
+        "word": "朝日",
+        "reading": "あさひ",
+        "meaning": "morning sun"
       }
     ]
   },
@@ -6425,54 +2385,14 @@
     "imagePath": "kanji/飯.png",
     "vocab": [
       {
-        "word": "食事",
-        "reading": "しょくじ",
-        "meaning": "meal"
-      },
-      {
-        "word": "飯食う",
-        "reading": "めしくう",
-        "meaning": "to eat (informal)"
-      },
-      {
-        "word": "昼飯",
-        "reading": "ひるめし",
-        "meaning": "lunch"
-      },
-      {
-        "word": "朝飯",
-        "reading": "あさめし",
-        "meaning": "breakfast"
-      },
-      {
-        "word": "晩飯",
-        "reading": "ばんめし",
-        "meaning": "dinner"
-      },
-      {
-        "word": "御飯",
-        "reading": "ごはん",
-        "meaning": "cooked rice, meal"
-      },
-      {
-        "word": "飯店",
-        "reading": "はんてん",
-        "meaning": "restaurant"
-      },
-      {
-        "word": "米飯",
-        "reading": "べいはん",
-        "meaning": "cooked rice"
+        "word": "飯",
+        "reading": "めし",
+        "meaning": "meal; cooked rice"
       },
       {
         "word": "食飯",
-        "reading": "しょくはん",
-        "meaning": "eating meal"
-      },
-      {
-        "word": "飯粒",
-        "reading": "めしつぶ",
-        "meaning": "grain of rice"
+        "reading": "ごはん",
+        "meaning": "cooked rice; meal"
       }
     ]
   },
@@ -6494,49 +2414,9 @@
         "meaning": "to be sufficient"
       },
       {
-        "word": "足元",
-        "reading": "あしもと",
-        "meaning": "at one's feet, foot of (a person)"
-      },
-      {
         "word": "足音",
         "reading": "あしおと",
         "meaning": "footsteps"
-      },
-      {
-        "word": "足りない",
-        "reading": "たりない",
-        "meaning": "not enough, insufficient"
-      },
-      {
-        "word": "足首",
-        "reading": "あしくび",
-        "meaning": "ankle"
-      },
-      {
-        "word": "足場",
-        "reading": "あしば",
-        "meaning": "scaffold, footing"
-      },
-      {
-        "word": "足伸ばす",
-        "reading": "あしのばす",
-        "meaning": "to stretch one's legs"
-      },
-      {
-        "word": "足り上げる",
-        "reading": "たりあげる",
-        "meaning": "to make sufficient, to raise up"
-      },
-      {
-        "word": "足りそぼる",
-        "reading": "たりそぼる",
-        "meaning": "to be plentiful enough"
-      },
-      {
-        "word": "足掛け",
-        "reading": "あしかけ",
-        "meaning": "step, foothold"
       }
     ]
   },
@@ -6560,49 +2440,9 @@
         "meaning": "head"
       },
       {
-        "word": "頭上",
-        "reading": "ずじょう",
-        "meaning": "above one's head"
-      },
-      {
-        "word": "頭痛",
-        "reading": "ずつう",
-        "meaning": "headache"
-      },
-      {
-        "word": "頭脳",
-        "reading": "ずのう",
-        "meaning": "brain, intellect"
-      },
-      {
-        "word": "頭部",
-        "reading": "とうぶ",
-        "meaning": "head (anatomy)"
-      },
-      {
-        "word": "頭金",
-        "reading": "あたまきん",
-        "meaning": "down payment"
-      },
-      {
-        "word": "頭数",
-        "reading": "あたまかず",
-        "meaning": "number of heads, count of people"
-      },
-      {
-        "word": "頭悪い",
-        "reading": "あたまわるい",
-        "meaning": "stupid, slow-witted"
-      },
-      {
-        "word": "頭痛薬",
-        "reading": "ずつうやく",
-        "meaning": "painkiller for headaches"
-      },
-      {
-        "word": "頭を下げる",
-        "reading": "あたまをさげる",
-        "meaning": "to bow one's head, to apologize"
+        "word": "頭",
+        "reading": "とう",
+        "meaning": "the counter for large animals or the prefix for head as in 'head of the organization'"
       }
     ]
   },
@@ -6615,7 +2455,7 @@
     "imagePath": "kanji/晩.png",
     "vocab": [
       {
-        "word": "晩御飯",
+        "word": "晩ご飯",
         "reading": "ばんごはん",
         "meaning": "dinner"
       },
@@ -6623,46 +2463,6 @@
         "word": "晩秋",
         "reading": "ばんしゅう",
         "meaning": "late autumn"
-      },
-      {
-        "word": "晩年",
-        "reading": "ばんねん",
-        "meaning": "old age, later years"
-      },
-      {
-        "word": "晩酌",
-        "reading": "ばんしゃく",
-        "meaning": "drinking in the evening"
-      },
-      {
-        "word": "晩暮",
-        "reading": "ばんぼ",
-        "meaning": "evening, twilight"
-      },
-      {
-        "word": "晩餐",
-        "reading": "ばんさん",
-        "meaning": "dinner, evening meal"
-      },
-      {
-        "word": "晩期",
-        "reading": "ばんき",
-        "meaning": "the late period"
-      },
-      {
-        "word": "晩課",
-        "reading": "ばんか",
-        "meaning": "evening service (in a religious context)"
-      },
-      {
-        "word": "晩鐘",
-        "reading": "ばんしょう",
-        "meaning": "evening bell"
-      },
-      {
-        "word": "晩晴",
-        "reading": "ばんせい",
-        "meaning": "clear evening weather"
       }
     ]
   },
@@ -6676,54 +2476,14 @@
     "imagePath": "kanji/番.png",
     "vocab": [
       {
-        "word": "番号",
+        "word": "番",
+        "reading": "ばん",
+        "meaning": "number; turn; order"
+      },
+      {
+        "word": "番",
         "reading": "ばんごう",
-        "meaning": "number (as in a series or identifier)"
-      },
-      {
-        "word": "番組",
-        "reading": "ばんぐみ",
-        "meaning": "program (broadcasting)"
-      },
-      {
-        "word": "番人",
-        "reading": "ばんにん",
-        "meaning": "watchman, guard"
-      },
-      {
-        "word": "番茶",
-        "reading": "ばんちゃ",
-        "meaning": "bancha (a type of tea)"
-      },
-      {
-        "word": "番表",
-        "reading": "ばんひょう",
-        "meaning": "schedule, timetable"
-      },
-      {
-        "word": "番勝負",
-        "reading": "ばんしょうぶ",
-        "meaning": "one match, bout"
-      },
-      {
-        "word": "番外",
-        "reading": "ばんがい",
-        "meaning": "extra, special edition"
-      },
-      {
-        "word": "番付",
-        "reading": "ばんづけ",
-        "meaning": "rank, ranking list (as in sumo)"
-      },
-      {
-        "word": "番犬",
-        "reading": "ばんけん",
-        "meaning": "watchdog"
-      },
-      {
-        "word": "番所",
-        "reading": "ばんしょ",
-        "meaning": "guardhouse, police box"
+        "meaning": "number (as in a phone number or identification number)"
       }
     ]
   },
@@ -6738,54 +2498,14 @@
     "imagePath": "kanji/号.png",
     "vocab": [
       {
-        "word": "号",
-        "reading": "ごう",
-        "meaning": "number; issue; edition"
+        "word": "番号",
+        "reading": "ばんごう",
+        "meaning": "number (used for identification, such as a phone number or identification number)"
       },
       {
         "word": "号外",
         "reading": "ごうがい",
         "meaning": "extra edition (of a newspaper)"
-      },
-      {
-        "word": "番号",
-        "reading": "ばんごう",
-        "meaning": "number; code"
-      },
-      {
-        "word": "号令",
-        "reading": "ごうれい",
-        "meaning": "order; command"
-      },
-      {
-        "word": "呼号",
-        "reading": "こごう",
-        "meaning": "call sign (e.g., radio)"
-      },
-      {
-        "word": "号泣",
-        "reading": "ごうきゅう",
-        "meaning": "crying out loud; weeping"
-      },
-      {
-        "word": "号室",
-        "reading": "ごうしつ",
-        "meaning": "room number"
-      },
-      {
-        "word": "合号",
-        "reading": "ごうごう",
-        "meaning": "combination of numbers"
-      },
-      {
-        "word": "号書",
-        "reading": "ごうしょ",
-        "meaning": "index number or title"
-      },
-      {
-        "word": "号数",
-        "reading": "ごうすう",
-        "meaning": "number of the issue"
       }
     ]
   },
@@ -6799,54 +2519,14 @@
     "imagePath": "kanji/不.png",
     "vocab": [
       {
-        "word": "不安",
-        "reading": "ふあん",
-        "meaning": "uneasiness, anxiety"
-      },
-      {
         "word": "不明",
         "reading": "ふめい",
-        "meaning": "unclear, unknown"
+        "meaning": "unknown; unclear"
       },
       {
-        "word": "不正",
-        "reading": "ふせい",
-        "meaning": "injustice, unfairness"
-      },
-      {
-        "word": "不幸",
-        "reading": "ふこう",
-        "meaning": "unhappiness, misfortune"
-      },
-      {
-        "word": "不信",
-        "reading": "ふしん",
-        "meaning": "distrust, disbelief"
-      },
-      {
-        "word": "不作法",
-        "reading": "ぶさくほう",
-        "meaning": "lack of manners, rudeness"
-      },
-      {
-        "word": "不便",
-        "reading": "ふべん",
-        "meaning": "inconvenience, unsuitability"
-      },
-      {
-        "word": "不正義",
-        "reading": "ふせいぎ",
-        "meaning": "injustice, unfairness"
-      },
-      {
-        "word": "不完全",
-        "reading": "ふかんぜん",
-        "meaning": "incomplete, imperfect"
-      },
-      {
-        "word": "不景気",
-        "reading": "ふけいき",
-        "meaning": "recession, economic downturn"
+        "word": "不良",
+        "reading": "ふりょう",
+        "meaning": "bad; delinquent"
       }
     ]
   },
@@ -6865,52 +2545,1279 @@
       {
         "word": "更新",
         "reading": "こうしん",
-        "meaning": "update; renewal"
-      },
-      {
-        "word": "更衣",
-        "reading": "こうい",
-        "meaning": "changing clothes"
-      },
-      {
-        "word": "更夜",
-        "reading": "こうや",
-        "meaning": "night; late hours"
-      },
-      {
-        "word": "更生",
-        "reading": "こうせい",
-        "meaning": "rehabilitation; reform"
+        "meaning": "update"
       },
       {
         "word": "更に",
         "reading": "さらに",
-        "meaning": "furthermore; moreover"
+        "meaning": "furthermore"
+      }
+    ]
+  },
+  {
+    "kanji": "風",
+    "readings": [
+      "かざ-",
+      "かぜ",
+      "ふ",
+      "ふう"
+    ],
+    "meaning": "air, manner, style, wind",
+    "imagePath": "kanji/風.png",
+    "vocab": [
+      {
+        "word": "風",
+        "reading": "ふう",
+        "meaning": "style; manner; wind"
       },
       {
-        "word": "更期",
-        "reading": "こうき",
-        "meaning": "the period for changes"
+        "word": "風",
+        "reading": "かぜ",
+        "meaning": "wind"
+      }
+    ]
+  },
+  {
+    "kanji": "程",
+    "readings": [
+      "-ほど",
+      "ほど",
+      "てい"
+    ],
+    "meaning": "amount, degree, distance, extent, formula, law, limits",
+    "imagePath": "kanji/程.png",
+    "vocab": [
+      {
+        "word": "程度",
+        "reading": "ていど",
+        "meaning": "degree; extent; level"
       },
       {
-        "word": "更科",
-        "reading": "さらしな",
-        "meaning": "a place name; a variety of buckwheat"
+        "word": "程よい",
+        "reading": "ほどよい",
+        "meaning": "moderate; just right"
+      }
+    ]
+  },
+  {
+    "kanji": "味",
+    "readings": [
+      "あじ",
+      "あじ.わう",
+      "み"
+    ],
+    "meaning": "flavor, taste",
+    "imagePath": "kanji/味.png",
+    "vocab": [
+      {
+        "word": "味",
+        "reading": "あじ",
+        "meaning": "taste, flavor"
       },
       {
-        "word": "更半期",
-        "reading": "こうはんき",
-        "meaning": "second half of the term or semester"
+        "word": "味わう",
+        "reading": "あじわう",
+        "meaning": "to taste, to savor"
+      }
+    ]
+  },
+  {
+    "kanji": "渋",
+    "readings": [
+      "しぶ",
+      "しぶ.い",
+      "しぶ.る",
+      "しゅう",
+      "じゅう"
+    ],
+    "meaning": "astringent, have diarrhea, hesitate, reluctant",
+    "imagePath": "kanji/渋.png",
+    "vocab": [
+      {
+        "word": "渋滞",
+        "reading": "じゅうたい",
+        "meaning": "traffic jam"
       },
       {
-        "word": "更元",
-        "reading": "こうげん",
-        "meaning": "emergence of change"
+        "word": "渋い",
+        "reading": "しぶい",
+        "meaning": "bitter; astringent; cool; stylish"
+      }
+    ]
+  },
+  {
+    "kanji": "滞",
+    "readings": [
+      "とどこお.る",
+      "たい",
+      "てい"
+    ],
+    "meaning": "arrears, be delayed, overdue, stagnate",
+    "imagePath": "kanji/滞.png",
+    "vocab": [
+      {
+        "word": "滞留",
+        "reading": "たいりゅう",
+        "meaning": "stay, stagnation"
       },
       {
-        "word": "更務",
-        "reading": "こうむ",
-        "meaning": "to change duties or assignments"
+        "word": "滞在",
+        "reading": "たいざい",
+        "meaning": "stay, sojourn"
+      }
+    ]
+  },
+  {
+    "kanji": "最",
+    "readings": [
+      "つま",
+      "もっと.も",
+      "さい",
+      "しゅ"
+    ],
+    "meaning": "extreme, most, utmost",
+    "imagePath": "kanji/最.png",
+    "vocab": [
+      {
+        "word": "最近",
+        "reading": "さいきん",
+        "meaning": "recently"
+      },
+      {
+        "word": "最初",
+        "reading": "さいしょ",
+        "meaning": "the beginning; first"
+      }
+    ]
+  },
+  {
+    "kanji": "作",
+    "readings": [
+      "-づく.り",
+      "つく.り",
+      "つく.る",
+      "さ",
+      "さく"
+    ],
+    "meaning": "build, make, prepare, production",
+    "imagePath": "kanji/作.png",
+    "vocab": [
+      {
+        "word": "作業",
+        "reading": "さぎょう",
+        "meaning": "work; task"
+      },
+      {
+        "word": "作品",
+        "reading": "さくひん",
+        "meaning": "work of art; piece (of work)"
+      }
+    ]
+  },
+  {
+    "kanji": "合",
+    "readings": [
+      "-あ.い",
+      "-あ.う",
+      "-あ.わせる",
+      "-あい",
+      "あ.い",
+      "あ.う",
+      "あ.わす",
+      "あ.わせる",
+      "あい-",
+      "かっ",
+      "がっ",
+      "ごう"
+    ],
+    "meaning": "0.1, fit, join, suit",
+    "imagePath": "kanji/合.png",
+    "vocab": [
+      {
+        "word": "合格",
+        "reading": "ごうかく",
+        "meaning": "passing (an exam, etc.)"
+      },
+      {
+        "word": "合う",
+        "reading": "あう",
+        "meaning": "to fit, to match, to meet"
+      }
+    ]
+  },
+  {
+    "kanji": "昨",
+    "readings": [
+      "さく"
+    ],
+    "meaning": "previous, yesterday",
+    "imagePath": "kanji/昨.png",
+    "vocab": [
+      {
+        "word": "昨夜",
+        "reading": "さくや",
+        "meaning": "last night"
+      },
+      {
+        "word": "昨日",
+        "reading": "きのう",
+        "meaning": "yesterday"
+      }
+    ]
+  },
+  {
+    "kanji": "丁",
+    "readings": [
+      "ひのと",
+      "ち",
+      "ちょう",
+      "ちん",
+      "てい",
+      "とう"
+    ],
+    "meaning": "4th calendar sign, counter for guns, tools, leaves or cakes of something, even number, street, town, ward",
+    "imagePath": "kanji/丁.png",
+    "vocab": [
+      {
+        "word": "丁目",
+        "reading": "ちょうめ",
+        "meaning": "block number (in an address)"
+      },
+      {
+        "word": "丁寧",
+        "reading": "ていねい",
+        "meaning": "polite, courteous"
+      }
+    ]
+  },
+  {
+    "kanji": "化",
+    "readings": [
+      "け.する",
+      "ば.かす",
+      "ば.ける",
+      "ふ.ける",
+      "か",
+      "け"
+    ],
+    "meaning": "-ization, change, delude, enchant, influence, take the form of",
+    "imagePath": "kanji/化.png",
+    "vocab": [
+      {
+        "word": "化学",
+        "reading": "かがく",
+        "meaning": "chemistry"
+      },
+      {
+        "word": "変化",
+        "reading": "へんか",
+        "meaning": "change"
+      }
+    ]
+  },
+  {
+    "kanji": "手",
+    "readings": [
+      "-て",
+      "た-",
+      "て",
+      "て-",
+      "しゅ",
+      "ず"
+    ],
+    "meaning": "hand",
+    "imagePath": "kanji/手.png",
+    "vocab": [
+      {
+        "word": "手",
+        "reading": "て",
+        "meaning": "hand"
+      },
+      {
+        "word": "手紙",
+        "reading": "てがみ",
+        "meaning": "letter"
+      }
+    ]
+  },
+  {
+    "kanji": "道",
+    "readings": [
+      "いう",
+      "みち",
+      "とう",
+      "どう"
+    ],
+    "meaning": "course, district, journey, moral, road-way, street, teachings",
+    "imagePath": "kanji/道.png",
+    "vocab": [
+      {
+        "word": "道",
+        "reading": "みち",
+        "meaning": "road, way, path"
+      },
+      {
+        "word": "道",
+        "reading": "どう",
+        "meaning": "doctrine, training, method"
+      }
+    ]
+  },
+  {
+    "kanji": "私",
+    "readings": [
+      "わたくし",
+      "わたし",
+      "し"
+    ],
+    "meaning": "I, me, private",
+    "imagePath": "kanji/私.png",
+    "vocab": [
+      {
+        "word": "私",
+        "reading": "わたし",
+        "meaning": "I; me (used by both genders)"
+      },
+      {
+        "word": "私",
+        "reading": "あたくし",
+        "meaning": "I; me (used by women, formal)"
+      }
+    ]
+  },
+  {
+    "kanji": "猫",
+    "readings": [
+      "ねこ",
+      "びょう"
+    ],
+    "meaning": "cat",
+    "imagePath": "kanji/猫.png",
+    "vocab": [
+      {
+        "word": "猫",
+        "reading": "ねこ",
+        "meaning": "cat"
+      },
+      {
+        "word": "猫",
+        "reading": "びょう",
+        "meaning": "cat (used in compounds, like 猫耳 - cat ears)"
+      }
+    ]
+  },
+  {
+    "kanji": "綺",
+    "readings": [
+      "あや",
+      "き"
+    ],
+    "meaning": "beautiful, figured cloth",
+    "imagePath": "kanji/綺.png",
+    "vocab": [
+      {
+        "word": "綺麗",
+        "reading": "きれい",
+        "meaning": "beautiful; clean"
+      },
+      {
+        "word": "綺羅",
+        "reading": "きら",
+        "meaning": "glitter; brilliance"
+      }
+    ]
+  },
+  {
+    "kanji": "海",
+    "readings": [
+      "うみ",
+      "かい"
+    ],
+    "meaning": "ocean, sea",
+    "imagePath": "kanji/海.png",
+    "vocab": [
+      {
+        "word": "海",
+        "reading": "うみ",
+        "meaning": "sea, ocean"
+      },
+      {
+        "word": "海洋",
+        "reading": "かいよう",
+        "meaning": "ocean, marine waters"
+      }
+    ]
+  },
+  {
+    "kanji": "映",
+    "readings": [
+      "-ば.え",
+      "うつ.す",
+      "うつ.る",
+      "は.える",
+      "えい"
+    ],
+    "meaning": "projection, reflect, reflection",
+    "imagePath": "kanji/映.png",
+    "vocab": [
+      {
+        "word": "映像",
+        "reading": "えいぞう",
+        "meaning": "image; video"
+      },
+      {
+        "word": "映る",
+        "reading": "うつる",
+        "meaning": "to be reflected; to be projected"
+      }
+    ]
+  },
+  {
+    "kanji": "画",
+    "readings": [
+      "えが.く",
+      "かぎ.る",
+      "かく.する",
+      "はか.る",
+      "はかりごと",
+      "え",
+      "かい",
+      "かく",
+      "が"
+    ],
+    "meaning": "brush-stroke, picture",
+    "imagePath": "kanji/画.png",
+    "vocab": [
+      {
+        "word": "映画",
+        "reading": "えいが",
+        "meaning": "movie, film"
+      },
+      {
+        "word": "画面",
+        "reading": "がめん",
+        "meaning": "screen"
+      }
+    ]
+  },
+  {
+    "kanji": "好",
+    "readings": [
+      "い.い",
+      "この.む",
+      "す.く",
+      "よ.い",
+      "こう"
+    ],
+    "meaning": "fond, like something, pleasing",
+    "imagePath": "kanji/好.png",
+    "vocab": [
+      {
+        "word": "好く",
+        "reading": "すく",
+        "meaning": "to like; to be fond of"
+      },
+      {
+        "word": "好な",
+        "reading": "このむ",
+        "meaning": "favorite; preferred; to like"
+      }
+    ]
+  },
+  {
+    "kanji": "家",
+    "readings": [
+      "いえ",
+      "うち",
+      "や",
+      "か",
+      "け"
+    ],
+    "meaning": "expert, family, home, house, performer, professional",
+    "imagePath": "kanji/家.png",
+    "vocab": [
+      {
+        "word": "家",
+        "reading": "いえ",
+        "meaning": "house, home"
+      },
+      {
+        "word": "家族",
+        "reading": "かぞく",
+        "meaning": "family"
+      }
+    ]
+  },
+  {
+    "kanji": "夜",
+    "readings": [
+      "よ",
+      "よる",
+      "や"
+    ],
+    "meaning": "evening, night",
+    "imagePath": "kanji/夜.png",
+    "vocab": [
+      {
+        "word": "夜中",
+        "reading": "よなか",
+        "meaning": "midnight"
+      },
+      {
+        "word": "今夜",
+        "reading": "こんや",
+        "meaning": "tonight"
+      }
+    ]
+  },
+  {
+    "kanji": "駐",
+    "readings": [
+      "ちゅう"
+    ],
+    "meaning": "reside in, resident, stop-over",
+    "imagePath": "kanji/駐.png",
+    "vocab": [
+      {
+        "word": "駐車",
+        "reading": "ちゅうしゃ",
+        "meaning": "parking"
+      },
+      {
+        "word": "駐留",
+        "reading": "ちゅうりゅう",
+        "meaning": "stationing (of troops)"
+      }
+    ]
+  },
+  {
+    "kanji": "場",
+    "readings": [
+      "ば",
+      "じょう",
+      "ちょう"
+    ],
+    "meaning": "location, place",
+    "imagePath": "kanji/場.png",
+    "vocab": [
+      {
+        "word": "場所",
+        "reading": "ばしょ",
+        "meaning": "place, location"
+      },
+      {
+        "word": "現場",
+        "reading": "げんば",
+        "meaning": "scene, site"
+      }
+    ]
+  },
+  {
+    "kanji": "無",
+    "readings": [
+      "な.い",
+      "ぶ",
+      "む"
+    ],
+    "meaning": "ain't, nil, none, not, nothing, nothingness",
+    "imagePath": "kanji/無.png",
+    "vocab": [
+      {
+        "word": "無人",
+        "reading": "むじん",
+        "meaning": "unmanned, without people"
+      },
+      {
+        "word": "無理",
+        "reading": "むり",
+        "meaning": "impossible, unreasonable"
+      }
+    ]
+  },
+  {
+    "kanji": "信",
+    "readings": [
+      "しん"
+    ],
+    "meaning": "faith, fidelity, trust, truth",
+    "imagePath": "kanji/信.png",
+    "vocab": [
+      {
+        "word": "信じる",
+        "reading": "しんじる",
+        "meaning": "to believe"
+      },
+      {
+        "word": "信号",
+        "reading": "しんごう",
+        "meaning": "traffic light"
+      }
+    ]
+  },
+  {
+    "kanji": "横",
+    "readings": [
+      "よこ",
+      "おう"
+    ],
+    "meaning": "horizontal, perverse, side, sideways, unreasonable, width, woof",
+    "imagePath": "kanji/横.png",
+    "vocab": [
+      {
+        "word": "横断",
+        "reading": "おうだん",
+        "meaning": "crossing (e.g., street)"
+      },
+      {
+        "word": "横浜",
+        "reading": "よこはま",
+        "meaning": "Yokohama (a city in Japan)"
+      }
+    ]
+  },
+  {
+    "kanji": "押",
+    "readings": [
+      "お.さえる",
+      "お.し-",
+      "お.す",
+      "お.っ-",
+      "おさ.える",
+      "おう"
+    ],
+    "meaning": "attach, check, do in spite of, press, push, seal, seize, shove, stop, subdue, weight",
+    "imagePath": "kanji/押.png",
+    "vocab": [
+      {
+        "word": "押し",
+        "reading": "おし",
+        "meaning": "push"
+      },
+      {
+        "word": "押す",
+        "reading": "おす",
+        "meaning": "to push"
+      }
+    ]
+  },
+  {
+    "kanji": "非",
+    "readings": [
+      "あら.ず",
+      "ひ"
+    ],
+    "meaning": "injustice, mistake, negative, non-, un-",
+    "imagePath": "kanji/非.png",
+    "vocab": [
+      {
+        "word": "非常",
+        "reading": "ひじょう",
+        "meaning": "extraordinary; unusual; emergency"
+      },
+      {
+        "word": "非効率",
+        "reading": "ひこうりつ",
+        "meaning": "inefficiency"
+      }
+    ]
+  },
+  {
+    "kanji": "常",
+    "readings": [
+      "つね",
+      "とこ-",
+      "じょう"
+    ],
+    "meaning": "always, common, continually, long-lasting, normal, ordinary, regular, usual",
+    "imagePath": "kanji/常.png",
+    "vocab": [
+      {
+        "word": "常時",
+        "reading": "じょうじ",
+        "meaning": "always; at all times"
+      },
+      {
+        "word": "常識",
+        "reading": "じょうしき",
+        "meaning": "common sense; common knowledge"
+      }
+    ]
+  },
+  {
+    "kanji": "口",
+    "readings": [
+      "くち",
+      "く",
+      "こう"
+    ],
+    "meaning": "mouth",
+    "imagePath": "kanji/口.png",
+    "vocab": [
+      {
+        "word": "口",
+        "reading": "くち",
+        "meaning": "mouth"
+      },
+      {
+        "word": "聞く",
+        "reading": "きく",
+        "meaning": "to ask; to listen"
+      }
+    ]
+  },
+  {
+    "kanji": "危",
+    "readings": [
+      "あぶ.ない",
+      "あや.うい",
+      "あや.ぶむ",
+      "き"
+    ],
+    "meaning": "dangerous, fear, uneasy",
+    "imagePath": "kanji/危.png",
+    "vocab": [
+      {
+        "word": "危険",
+        "reading": "きけん",
+        "meaning": "danger"
+      },
+      {
+        "word": "危ない",
+        "reading": "あぶない",
+        "meaning": "dangerous"
+      }
+    ]
+  },
+  {
+    "kanji": "各",
+    "readings": [
+      "おのおの",
+      "かく"
+    ],
+    "meaning": "each, either, every",
+    "imagePath": "kanji/各.png",
+    "vocab": [
+      {
+        "word": "各種",
+        "reading": "かくしゅ",
+        "meaning": "various kinds"
+      },
+      {
+        "word": "各部",
+        "reading": "かくぶ",
+        "meaning": "each department"
+      }
+    ]
+  },
+  {
+    "kanji": "駅",
+    "readings": [
+      "えき"
+    ],
+    "meaning": "station",
+    "imagePath": "kanji/駅.png",
+    "vocab": [
+      {
+        "word": "駅",
+        "reading": "えき",
+        "meaning": "station"
+      },
+      {
+        "word": "駅前",
+        "reading": "えきまえ",
+        "meaning": "in front of the station"
+      }
+    ]
+  },
+  {
+    "kanji": "早",
+    "readings": [
+      "さ-",
+      "はや",
+      "はや-",
+      "はや.い",
+      "はや.まる",
+      "はや.める",
+      "さっ",
+      "そう"
+    ],
+    "meaning": "early, fast",
+    "imagePath": "kanji/早.png",
+    "vocab": [
+      {
+        "word": "早い",
+        "reading": "はやい",
+        "meaning": "early; fast"
+      },
+      {
+        "word": "早朝",
+        "reading": "そうちょう",
+        "meaning": "early morning"
+      }
+    ]
+  },
+  {
+    "kanji": "過",
+    "readings": [
+      "あやま.ち",
+      "あやま.つ",
+      "す.ぎる",
+      "す.ごす",
+      "よ.ぎる",
+      "よぎ.る",
+      "か"
+    ],
+    "meaning": "error, exceed, go beyond, overdo",
+    "imagePath": "kanji/過.png",
+    "vocab": [
+      {
+        "word": "過去",
+        "reading": "かこ",
+        "meaning": "past"
+      },
+      {
+        "word": "過ぎる",
+        "reading": "すぎる",
+        "meaning": "to pass; to exceed"
+      }
+    ]
+  },
+  {
+    "kanji": "去",
+    "readings": [
+      "-さ.る",
+      "さ.る",
+      "きょ",
+      "こ"
+    ],
+    "meaning": "divorce, elapse, eliminate, gone, leave, past, quit",
+    "imagePath": "kanji/去.png",
+    "vocab": [
+      {
+        "word": "去る",
+        "reading": "さる",
+        "meaning": "to leave; to go away"
+      },
+      {
+        "word": "去年",
+        "reading": "きょねん",
+        "meaning": "last year"
+      }
+    ]
+  },
+  {
+    "kanji": "禁",
+    "readings": [
+      "きん"
+    ],
+    "meaning": "ban, forbid, prohibition",
+    "imagePath": "kanji/禁.png",
+    "vocab": [
+      {
+        "word": "禁止",
+        "reading": "きんし",
+        "meaning": "prohibition"
+      },
+      {
+        "word": "禁煙",
+        "reading": "きんえん",
+        "meaning": "no smoking"
+      }
+    ]
+  },
+  {
+    "kanji": "止",
+    "readings": [
+      "-さ.し",
+      "-さ.す",
+      "-と.める",
+      "-ど.まり",
+      "-ど.め",
+      "-や.む",
+      "と.まる",
+      "と.める",
+      "とど.まる",
+      "とど.め",
+      "とど.める",
+      "や.む",
+      "や.める",
+      "よ.す",
+      "し"
+    ],
+    "meaning": "halt, stop",
+    "imagePath": "kanji/止.png",
+    "vocab": [
+      {
+        "word": "禁止",
+        "reading": "きんし",
+        "meaning": "prohibition"
+      },
+      {
+        "word": "停止",
+        "reading": "ていし",
+        "meaning": "suspension; stop"
+      }
+    ]
+  },
+  {
+    "kanji": "全",
+    "readings": [
+      "すべ.て",
+      "まった.く",
+      "ぜん"
+    ],
+    "meaning": "all, complete, entire, fulfill, whole",
+    "imagePath": "kanji/全.png",
+    "vocab": [
+      {
+        "word": "全く",
+        "reading": "まったく",
+        "meaning": "totally, completely"
+      },
+      {
+        "word": "全体",
+        "reading": "ぜんたい",
+        "meaning": "whole, entirety"
+      }
+    ]
+  },
+  {
+    "kanji": "面",
+    "readings": [
+      "おも",
+      "おもて",
+      "つら",
+      "べん",
+      "めん"
+    ],
+    "meaning": "face, features, mask, surface",
+    "imagePath": "kanji/面.png",
+    "vocab": [
+      {
+        "word": "面白い",
+        "reading": "おもしろい",
+        "meaning": "interesting, fun"
+      },
+      {
+        "word": "面接",
+        "reading": "めんせつ",
+        "meaning": "interview"
+      }
+    ]
+  },
+  {
+    "kanji": "次",
+    "readings": [
+      "つ.ぐ",
+      "つぎ",
+      "し",
+      "じ"
+    ],
+    "meaning": "next, order, sequence",
+    "imagePath": "kanji/次.png",
+    "vocab": [
+      {
+        "word": "次",
+        "reading": "つぎ",
+        "meaning": "next"
+      },
+      {
+        "word": "次",
+        "reading": "じ",
+        "meaning": "order; rank"
+      }
+    ]
+  },
+  {
+    "kanji": "満",
+    "readings": [
+      "み.たす",
+      "み.ちる",
+      "み.つ",
+      "ばん",
+      "まん"
+    ],
+    "meaning": "enough, full, fullness, satisfy",
+    "imagePath": "kanji/満.png",
+    "vocab": [
+      {
+        "word": "満ちる",
+        "reading": "みちる",
+        "meaning": "to be full, to be filled"
+      },
+      {
+        "word": "満足",
+        "reading": "まんぞく",
+        "meaning": "satisfaction, contentment"
+      }
+    ]
+  },
+  {
+    "kanji": "向",
+    "readings": [
+      "-む.き",
+      "-む.け",
+      "む.い",
+      "む.かい",
+      "む.かう",
+      "む.く",
+      "む.ける",
+      "む.こう",
+      "む.こう-",
+      "むか.い",
+      "むこ",
+      "こう"
+    ],
+    "meaning": "approach, beyond, confront, defy, facing, tend toward, yonder",
+    "imagePath": "kanji/向.png",
+    "vocab": [
+      {
+        "word": "方向",
+        "reading": "ほうこう",
+        "meaning": "direction"
+      },
+      {
+        "word": "向かう",
+        "reading": "むかう",
+        "meaning": "to face; to head towards"
+      }
+    ]
+  },
+  {
+    "kanji": "禁",
+    "readings": [
+      "きん"
+    ],
+    "meaning": "ban, forbid, prohibition",
+    "imagePath": "kanji/禁.png",
+    "vocab": [
+      {
+        "word": "禁煙",
+        "reading": "きんえん",
+        "meaning": "no smoking"
+      },
+      {
+        "word": "禁止",
+        "reading": "きんし",
+        "meaning": "prohibition"
+      }
+    ]
+  },
+  {
+    "kanji": "関",
+    "readings": [
+      "-ぜき",
+      "かか.わる",
+      "からくり",
+      "かんぬき",
+      "せき",
+      "かん"
+    ],
+    "meaning": "barrier, concerning, connection, gateway, involve",
+    "imagePath": "kanji/関.png",
+    "vocab": [
+      {
+        "word": "関係",
+        "reading": "かんけい",
+        "meaning": "relation, relationship"
+      },
+      {
+        "word": "関する",
+        "reading": "かんする",
+        "meaning": "to be related to, to concern"
+      }
+    ]
+  },
+  {
+    "kanji": "係",
+    "readings": [
+      "-がかり",
+      "かか.る",
+      "かか.わる",
+      "かかり",
+      "けい"
+    ],
+    "meaning": "concern oneself, connection, duty, person in charge",
+    "imagePath": "kanji/係.png",
+    "vocab": [
+      {
+        "word": "係",
+        "reading": "かかり",
+        "meaning": "person in charge"
+      },
+      {
+        "word": "係",
+        "reading": "けい",
+        "meaning": "connection or relation"
+      }
+    ]
+  },
+  {
+    "kanji": "断",
+    "readings": [
+      "ことわ.る",
+      "さだ.める",
+      "た.つ",
+      "だん"
+    ],
+    "meaning": "apologize, cutting, decision, decline, dismiss, judgement, prohibit, refuse, severance, warn",
+    "imagePath": "kanji/断.png",
+    "vocab": [
+      {
+        "word": "断絶",
+        "reading": "だんぜつ",
+        "meaning": "disconnection; interruption"
+      },
+      {
+        "word": "断る",
+        "reading": "ことわる",
+        "meaning": "to refuse; to decline"
+      }
+    ]
+  },
+  {
+    "kanji": "伝",
+    "readings": [
+      "-づた.い",
+      "つた.う",
+      "つた.える",
+      "つた.わる",
+      "つだ.う",
+      "つて",
+      "てん",
+      "でん"
+    ],
+    "meaning": "communicate, follow, go along, legend, report, tradition, transmit, walk along",
+    "imagePath": "kanji/伝.png",
+    "vocab": [
+      {
+        "word": "伝える",
+        "reading": "つたえる",
+        "meaning": "to convey, to transmit"
+      },
+      {
+        "word": "伝説",
+        "reading": "でんせつ",
+        "meaning": "legend"
+      }
+    ]
+  },
+  {
+    "kanji": "強",
+    "readings": [
+      "こわ.い",
+      "し.いる",
+      "つよ.い",
+      "つよ.まる",
+      "つよ.める",
+      "きょう",
+      "ごう"
+    ],
+    "meaning": "strong",
+    "imagePath": "kanji/強.png",
+    "vocab": [
+      {
+        "word": "強い",
+        "reading": "つよい",
+        "meaning": "strong"
+      },
+      {
+        "word": "強化",
+        "reading": "きょうか",
+        "meaning": "strengthening"
+      }
+    ]
+  },
+  {
+    "kanji": "悪",
+    "readings": [
+      "-にく.い",
+      "あ.し",
+      "ああ",
+      "いずくに",
+      "いずくんぞ",
+      "にく.い",
+      "にく.む",
+      "わる-",
+      "わる.い",
+      "あく",
+      "お"
+    ],
+    "meaning": "bad, evil, false, rascal, vice, wrong",
+    "imagePath": "kanji/悪.png",
+    "vocab": [
+      {
+        "word": "悪人",
+        "reading": "あくにん",
+        "meaning": "bad person, villain"
+      },
+      {
+        "word": "悪化",
+        "reading": "あっか",
+        "meaning": "deterioration, worsening"
+      }
+    ]
+  },
+  {
+    "kanji": "以",
+    "readings": [
+      "もっ.て",
+      "い"
+    ],
+    "meaning": "because, by means of, compared with, in view of",
+    "imagePath": "kanji/以.png",
+    "vocab": [
+      {
+        "word": "以上",
+        "reading": "いじょう",
+        "meaning": "more than; greater than; over"
+      },
+      {
+        "word": "以外",
+        "reading": "いがい",
+        "meaning": "except; other than"
+      }
+    ]
+  },
+  {
+    "kanji": "君",
+    "readings": [
+      "-ぎみ",
+      "きみ",
+      "くん"
+    ],
+    "meaning": "male name suffix, mister, ruler, you",
+    "imagePath": "kanji/君.png",
+    "vocab": [
+      {
+        "word": "君",
+        "reading": "きみ",
+        "meaning": "you (informal, often used to address someone close)"
+      },
+      {
+        "word": "君主",
+        "reading": "くんしゅ",
+        "meaning": "monarch or ruler"
+      }
+    ]
+  },
+  {
+    "kanji": "感",
+    "readings": [
+      "かん"
+    ],
+    "meaning": "emotion, feeling, sensation",
+    "imagePath": "kanji/感.png",
+    "vocab": [
+      {
+        "word": "感情",
+        "reading": "かんじょう",
+        "meaning": "emotion, feeling"
+      },
+      {
+        "word": "感謝",
+        "reading": "かんしゃ",
+        "meaning": "thanks, gratitude"
       }
     ]
   }

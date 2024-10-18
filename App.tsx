@@ -1,19 +1,30 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useMemo } from "react";
 import KanjiViewer from "./src/KanjiViewer";
-import { KanjiData, KanjiHistory } from "./src/types";
-
-enum StudyMode {
-  All = "all",
-  RecentlyAdded = "recentlyAdded",
-  RecentlyFailed = "recentlyFailed",
-  LowestCorrectPercent = "lowestCorrectPercent",
-  NotSeenRecently = "notSeenRecently",
-}
+import { KanjiData, KanjiHistory, SessionSummary } from "./src/types";
+import { createSRSStorage } from "./src/SRSStorage";
+import { createSRSCalculator } from "./src/SRSCalculator";
 
 function App() {
   const [allKanji, setAllKanji] = useState<KanjiData>([]);
   const [error, setError] = useState<string | null>(null);
-  const [studyMode, setStudyMode] = useState<StudyMode>(StudyMode.All);
+  const [sessionKanji, setSessionKanji] = useState<KanjiData>([]);
+  const [isLearningSession, setIsLearningSession] = useState(false);
+  const [sessionSummary, setSessionSummary] = useState<SessionSummary | null>(
+    null
+  );
+  const [manualSessionSize, setManualSessionSize] = useState<number | null>(
+    null
+  );
+
+  const srsStorage = useMemo(() => createSRSStorage(), []);
+  const srsCalculator = useMemo(
+    () =>
+      createSRSCalculator({
+        getAttempt: srsStorage.getKanji,
+        storeAttempt: srsStorage.storeKanji,
+      }),
+    [srsStorage]
+  );
 
   useEffect(() => {
     fetch("/kanjiDetails.json")
@@ -27,96 +38,128 @@ function App() {
       });
   }, []);
 
-  const getKanjiHistory = (): KanjiHistory => {
-    return JSON.parse(localStorage.getItem("kanjiHistory") || "{}");
+  const handleSessionComplete = (summary: SessionSummary) => {
+    if (isLearningSession) {
+      const incorrectKanji = sessionKanji.filter(
+        (kanji) => srsStorage.getKanji(kanji.kanji)?.level === 0
+      );
+      setSessionKanji(incorrectKanji);
+    } else {
+      setSessionKanji([]);
+      setSessionSummary(summary);
+    }
   };
 
-  const filterKanjiData = (): KanjiData => {
-    if (studyMode === StudyMode.RecentlyAdded) {
-      const history = getKanjiHistory();
-      return allKanji.filter((kanji) => !history[kanji.kanji]);
-    }
-    if (studyMode === StudyMode.RecentlyFailed) {
-      const history = getKanjiHistory();
-      return allKanji.filter((kanji) => {
-        const attempts = history[kanji.kanji] || [];
-        const recentAttempts = attempts.slice(-2);
-        const failedAttempts = recentAttempts.filter(
-          (attempt) => !attempt.correct
-        );
-        return failedAttempts.length > 0;
-      });
-    }
-
-    if (studyMode === StudyMode.LowestCorrectPercent) {
-      const history = getKanjiHistory();
-      return allKanji.sort((a, b) => {
-        const attempts = history[a.kanji] || [];
-        const correctAttempts = attempts.filter((attempt) => attempt.correct);
-        const aCorrectPercent =
-          (correctAttempts.length / attempts.length) * 100;
-
-        const attemptsB = history[b.kanji] || [];
-        const correctAttemptsB = attemptsB.filter((attempt) => attempt.correct);
-        const bCorrectPercent =
-          (correctAttemptsB.length / attemptsB.length) * 100;
-
-        return aCorrectPercent - bCorrectPercent;
-      });
-    }
-
-    if (studyMode === StudyMode.NotSeenRecently) {
-      const history = getKanjiHistory();
-      const recentAttemptsThreshold =
-        new Date().getTime() - 1000 * 60 * 60 * 24; // 1 day
-      return allKanji
-        .filter((kanji) => {
-          const attempts = history[kanji.kanji] || [];
-          const recentAttempts = attempts.filter(
-            (attempt) => new Date(attempt.time) > recentAttemptsThreshold
-          );
-          return recentAttempts.length === 0;
-        })
-        .sort((a, b) => {
-          const attemptsA = history[a.kanji] || [];
-          const attemptsB = history[b.kanji] || [];
-          const latestAttemptA = attemptsA[attemptsA.length - 1];
-          const latestAttemptB = attemptsB[attemptsB.length - 1];
-          return (
-            new Date(latestAttemptA.time).getTime() -
-            new Date(latestAttemptB.time).getTime()
-          );
-        });
-    }
-
-    return allKanji;
+  const createNewSession = () => {
+    const newSession = srsCalculator.createNewSession(allKanji);
+    let filteredSession = newSession.filter((kanji) => {
+      const level = srsStorage.getKanji(kanji.kanji)?.level || 0;
+      return level !== 0;
+    });
+    if (manualSessionSize)
+      filteredSession = filteredSession.slice(0, manualSessionSize);
+    setSessionKanji(filteredSession);
+    setIsLearningSession(false);
   };
 
-  const filteredKanjiData = filterKanjiData();
+  const createLearningSession = () => {
+    let newSession = srsCalculator
+      .createNewSession(allKanji)
+      .filter((kanji) => {
+        const level = srsStorage.getKanji(kanji.kanji)?.level || 0;
+        return level === 0 || level === 1;
+      });
+    if (manualSessionSize) newSession = newSession.slice(0, manualSessionSize);
+    setSessionKanji(newSession);
+    setIsLearningSession(true);
+  };
 
   return (
     <div className="App">
       {error && <div className="error">{error}</div>}
-      <div>
-        <button onClick={() => setStudyMode(StudyMode.All)}>All Kanji</button>
-        <button onClick={() => setStudyMode(StudyMode.RecentlyAdded)}>
-          Recently Added
-        </button>
-        <button onClick={() => setStudyMode(StudyMode.RecentlyFailed)}>
-          Recently Failed
-        </button>
-        <button onClick={() => setStudyMode(StudyMode.LowestCorrectPercent)}>
-          Lowest Scores
-        </button>
-        <button onClick={() => setStudyMode(StudyMode.NotSeenRecently)}>
-          Not Seen Recently
-        </button>
+
+      <button
+        onClick={createNewSession}
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          backgroundColor: "#007bff",
+          color: "white",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+          fontSize: "16px",
+          transition: "background-color 0.3s",
+        }}
+        onMouseEnter={(e) =>
+          (e.currentTarget.style.backgroundColor = "#0056b3")
+        }
+        onMouseLeave={(e) =>
+          (e.currentTarget.style.backgroundColor = "#007bff")
+        }
+      >
+        Create New Session
+      </button>
+
+      <button
+        onClick={createLearningSession}
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          backgroundColor: "#28a745",
+          color: "white",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+          fontSize: "16px",
+          transition: "background-color 0.3s",
+        }}
+        onMouseEnter={(e) =>
+          (e.currentTarget.style.backgroundColor = "#218838")
+        }
+        onMouseLeave={(e) =>
+          (e.currentTarget.style.backgroundColor = "#28a745")
+        }
+      >
+        Create Learning Session
+      </button>
+
+      <div style={{ marginTop: "20px" }}>
+        <label htmlFor="sessionSize" style={{ marginRight: "10px" }}>
+          Choose Session Size:
+        </label>
+        <input
+          type="number"
+          id="sessionSize"
+          min="1"
+          max="20"
+          onChange={(e) => setManualSessionSize(Number(e.target.value))}
+          style={{
+            padding: "10px",
+            fontSize: "16px",
+            borderRadius: "5px",
+            border: "1px solid #ccc",
+            width: "60px",
+          }}
+        />
       </div>
-      <div>
-        <p>Total Kanji in Session: {filteredKanjiData.length}</p>
-      </div>
-      {filteredKanjiData.length > 0 && (
-        <KanjiViewer kanjiData={filteredKanjiData} />
+
+      {sessionKanji.length > 0 && (
+        <KanjiViewer
+          onSessionComplete={handleSessionComplete}
+          kanjiData={sessionKanji}
+          srsStorage={srsStorage}
+          onCorrect={srsCalculator.correctAttempt}
+          onIncorrect={srsCalculator.incorrectAttempt}
+        />
+      )}
+
+      {sessionSummary && (
+        <div>
+          <h2>Session Summary</h2>
+          <p>Correct: {sessionSummary.correctKanji}</p>
+          <p>Incorrect: {sessionSummary.incorrectKanji}</p>
+        </div>
       )}
     </div>
   );
