@@ -3820,5 +3820,325 @@
         "meaning": "thanks, gratitude"
       }
     ]
+  },
+  {
+    "kanji": "式",
+    "readings": [
+      "しき"
+    ],
+    "meaning": "ceremony, expression, form, function, method, rite, style, system",
+    "imagePath": "kanji/式.png",
+    "vocab": [
+      {
+        "word": "公式",
+        "reading": "こうしき",
+        "meaning": "official; formal; formula"
+      },
+      {
+        "word": "式場",
+        "reading": "しきじょう",
+        "meaning": "ceremony hall; wedding venue"
+      }
+    ]
+  },
+  {
+    "kanji": "正",
+    "readings": [
+      "ただ.しい",
+      "ただ.す",
+      "まさ",
+      "まさ.に",
+      "しょう",
+      "せい"
+    ],
+    "meaning": "10**40, correct, justice, righteous",
+    "imagePath": "kanji/正.png",
+    "vocab": [
+      {
+        "word": "正しい",
+        "reading": "ただしい",
+        "meaning": "correct; right"
+      },
+      {
+        "word": "正午",
+        "reading": "しょうご",
+        "meaning": "noon"
+      }
+    ]
+  },
+  {
+    "kanji": "確",
+    "readings": [
+      "たし.か",
+      "たし.かめる",
+      "かく",
+      "こう"
+    ],
+    "meaning": "assurance, clear, confirm, evident, firm, hard, solid, tight",
+    "imagePath": "kanji/確.png",
+    "vocab": [
+      {
+        "word": "確か",
+        "reading": "たしか",
+        "meaning": "certain; sure"
+      },
+      {
+        "word": "確認",
+        "reading": "かくにん",
+        "meaning": "confirmation; verification"
+      }
+    ]
+  },
+  {
+    "kanji": "認",
+    "readings": [
+      "したた.める",
+      "みと.める",
+      "にん"
+    ],
+    "meaning": "acknowledge, appreciate, believe, discern, recognize, witness",
+    "imagePath": "kanji/認.png",
+    "vocab": [
+      {
+        "word": "認識",
+        "reading": "にんしき",
+        "meaning": "recognition; awareness"
+      },
+      {
+        "word": "認める",
+        "reading": "みとめる",
+        "meaning": "to recognize; to admit"
+      }
+    ]
+  },
+  {
+    "kanji": "飛",
+    "readings": [
+      "-と.ばす",
+      "と.ばす",
+      "と.ぶ",
+      "ひ"
+    ],
+    "meaning": "fly, scatter, skip (pages)",
+    "imagePath": "kanji/飛.png",
+    "vocab": [
+      {
+        "word": "飛行",
+        "reading": "ひこう",
+        "meaning": "flight"
+      },
+      {
+        "word": "飛ぶ",
+        "reading": "とぶ",
+        "meaning": "to fly"
+      }
+    ]
+  },
+  {
+    "kanji": "公",
+    "readings": [
+      "おおやけ",
+      "く",
+      "こう"
+    ],
+    "meaning": "governmental, official, prince, public",
+    "imagePath": "kanji/公.png",
+    "vocab": [
+      {
+        "word": "公園",
+        "reading": "こうえん",
+        "meaning": "park"
+      },
+      {
+        "word": "公立",
+        "reading": "こうりつ",
+        "meaning": "public (institution, school, etc.)"
+      }
+    ]
+  },
+  {
+    "kanji": "立",
+    "readings": [
+      "-た.つ",
+      "-た.て",
+      "-た.てる",
+      "-だ.て",
+      "-だ.てる",
+      "た.ち-",
+      "た.つ",
+      "た.て-",
+      "た.てる",
+      "たて-",
+      "りっとる",
+      "りつ",
+      "りゅう"
+    ],
+    "meaning": "erect, rise, set up, stand up",
+    "imagePath": "kanji/立.png",
+    "vocab": [
+      {
+        "word": "立ち上がる",
+        "reading": "たちあがる",
+        "meaning": "to stand up"
+      },
+      {
+        "word": "立場",
+        "reading": "たちば",
+        "meaning": "position; stance"
+      }
+    ]
+  },
+  {
+    "kanji": "豊",
+    "readings": [
+      "とよ",
+      "ゆた.か",
+      "ぶ",
+      "ほう"
+    ],
+    "meaning": "bountiful, excellent, rich",
+    "imagePath": "kanji/豊.png",
+    "vocab": [
+      {
+        "word": "豊か",
+        "reading": "ゆたか",
+        "meaning": "abundant; rich"
+      },
+      {
+        "word": "豊胸",
+        "reading": "ほうきょう",
+        "meaning": "breast enhancement; breast augmentation"
+      }
+    ]
+  },
+  {
+    "kanji": "岡",
+    "readings": [
+      "おか",
+      "こう"
+    ],
+    "meaning": "hill, knoll, mount",
+    "imagePath": "kanji/岡.png",
+    "vocab": [
+      {
+        "word": "岡",
+        "reading": "おか",
+        "meaning": "hill; knoll"
+      },
+      {
+        "word": "岡山",
+        "reading": "おかやま",
+        "meaning": "Okayama (a place name)"
+      }
+    ]
+  },
+  {
+    "kanji": "森",
+    "readings": [
+      "もり",
+      "しん"
+    ],
+    "meaning": "forest, woods",
+    "imagePath": "kanji/森.png",
+    "vocab": [
+      {
+        "word": "森",
+        "reading": "もり",
+        "meaning": "forest"
+      },
+      {
+        "word": "森",
+        "reading": "しん",
+        "meaning": "woods; forest (used in compound words)"
+      }
+    ]
+  },
+  {
+    "kanji": "兵",
+    "readings": [
+      "つわもの",
+      "ひょう",
+      "へい"
+    ],
+    "meaning": "army, private, soldier, strategy, tactics, troops, warfare",
+    "imagePath": "kanji/兵.png",
+    "vocab": [
+      {
+        "word": "兵士",
+        "reading": "へいし",
+        "meaning": "soldier"
+      },
+      {
+        "word": "兵庫",
+        "reading": "ひょうご",
+        "meaning": "Hyogo (a prefecture in Japan)"
+      }
+    ]
+  },
+  {
+    "kanji": "庫",
+    "readings": [
+      "くら",
+      "く",
+      "こ"
+    ],
+    "meaning": "storehouse, warehouse",
+    "imagePath": "kanji/庫.png",
+    "vocab": [
+      {
+        "word": "冷蔵庫",
+        "reading": "れいぞうこ",
+        "meaning": "refrigerator"
+      },
+      {
+        "word": "物置",
+        "reading": "ものおき",
+        "meaning": "storage room; storeroom"
+      }
+    ]
+  },
+  {
+    "kanji": "県",
+    "readings": [
+      "か.ける",
+      "けん"
+    ],
+    "meaning": "prefecture",
+    "imagePath": "kanji/県.png",
+    "vocab": [
+      {
+        "word": "県",
+        "reading": "けん",
+        "meaning": "prefecture"
+      },
+      {
+        "word": "県庁",
+        "reading": "けんちょう",
+        "meaning": "prefectural office"
+      }
+    ]
+  },
+  {
+    "kanji": "物",
+    "readings": [
+      "もの",
+      "もの-",
+      "ぶつ",
+      "もつ"
+    ],
+    "meaning": "matter, object, thing",
+    "imagePath": "kanji/物.png",
+    "vocab": [
+      {
+        "word": "物",
+        "reading": "もの",
+        "meaning": "thing, object"
+      },
+      {
+        "word": "物理",
+        "reading": "ぶつり",
+        "meaning": "physics"
+      }
+    ]
   }
 ]

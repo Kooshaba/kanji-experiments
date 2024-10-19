@@ -66,7 +66,7 @@ async function translateToJapanese(text) {
         { role: 'system', content: 'You are a translator that translates English text to Japanese. You ALWAYS respond in Japanese intended for use by a native Japanese speaker. You are a native Japanese speaker.' },
         { role: 'user', content: `Translate the following English text to Japanese: "${text}". Break down key words and phrases and provide context. Provide examples of how to use the words and phrases in context.` }
       ],
-      max_tokens: 60
+      max_tokens: 200
     })
   });
 

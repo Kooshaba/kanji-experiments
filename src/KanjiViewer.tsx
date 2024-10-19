@@ -207,7 +207,14 @@ const KanjiViewer = ({
           />
           <div>Readings: {currentKanji.readings.join(", ")}</div>
 
-          <div>Last Attempt: {currentKanjiSRSData?.lastAttemptAt}</div>
+          <div>
+            Last Attempt:{" "}
+            {currentKanjiSRSData?.lastAttemptAt
+              ? new Date(
+                  currentKanjiSRSData.lastAttemptAt * 1000
+                ).toLocaleString()
+              : "N/A"}
+          </div>
           <div>
             <strong>Level:</strong> {currentKanjiSRSData?.level} -{" "}
             {SRSLevelTranslations[currentKanjiSRSData?.level ?? 0]}
