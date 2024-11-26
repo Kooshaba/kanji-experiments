@@ -4140,5 +4140,1716 @@
         "meaning": "physics"
       }
     ]
+  },
+  {
+    "kanji": "者",
+    "readings": [
+      "もの",
+      "しゃ"
+    ],
+    "meaning": "person, someone",
+    "imagePath": "kanji/者.png",
+    "vocab": [
+      {
+        "word": "若者",
+        "reading": "わかもの",
+        "meaning": "young person"
+      },
+      {
+        "word": "行者",
+        "reading": "ぎょうじゃ",
+        "meaning": "traveler; ascetic"
+      }
+    ]
+  },
+  {
+    "kanji": "思",
+    "readings": [
+      "おぼ.す",
+      "おも.う",
+      "おもえら.く",
+      "し"
+    ],
+    "meaning": "think",
+    "imagePath": "kanji/思.png",
+    "vocab": [
+      {
+        "word": "思う",
+        "reading": "おもう",
+        "meaning": "to think; to consider"
+      },
+      {
+        "word": "思い",
+        "reading": "おもい",
+        "meaning": "thought; feeling"
+      }
+    ]
+  },
+  {
+    "kanji": "会",
+    "readings": [
+      "あ.う",
+      "あ.わせる",
+      "あつ.まる",
+      "え",
+      "かい"
+    ],
+    "meaning": "association, interview, join, meet, meeting, party",
+    "imagePath": "kanji/会.png",
+    "vocab": [
+      {
+        "word": "会議",
+        "reading": "かいぎ",
+        "meaning": "meeting; conference"
+      },
+      {
+        "word": "会話",
+        "reading": "かいわ",
+        "meaning": "conversation"
+      }
+    ]
+  },
+  {
+    "kanji": "的",
+    "readings": [
+      "まと",
+      "てき"
+    ],
+    "meaning": "adjective ending, bull's eye, mark, object, target",
+    "imagePath": "kanji/的.png",
+    "vocab": [
+      {
+        "word": "目的",
+        "reading": "もくてき",
+        "meaning": "purpose, objective"
+      },
+      {
+        "word": "物的",
+        "reading": "ぶつてき",
+        "meaning": "material, physical"
+      }
+    ]
+  },
+  {
+    "kanji": "方",
+    "readings": [
+      "-かた",
+      "-がた",
+      "かた",
+      "ほう"
+    ],
+    "meaning": "alternative, direction, person",
+    "imagePath": "kanji/方.png",
+    "vocab": [
+      {
+        "word": "方法",
+        "reading": "ほうほう",
+        "meaning": "method, way"
+      },
+      {
+        "word": "方針",
+        "reading": "ほうしん",
+        "meaning": "policy, direction"
+      }
+    ]
+  },
+  {
+    "kanji": "地",
+    "readings": [
+      "じ",
+      "ち"
+    ],
+    "meaning": "earth, ground",
+    "imagePath": "kanji/地.png",
+    "vocab": [
+      {
+        "word": "土地",
+        "reading": "とち",
+        "meaning": "land; soil"
+      },
+      {
+        "word": "地域",
+        "reading": "ちいき",
+        "meaning": "region; area"
+      }
+    ]
+  },
+  {
+    "kanji": "代",
+    "readings": [
+      "-が.わり",
+      "-がわ.り",
+      "か.える",
+      "か.わり",
+      "か.わる",
+      "かわ.り",
+      "かわ.る",
+      "しろ",
+      "よ",
+      "たい",
+      "だい"
+    ],
+    "meaning": "age, change, charge, convert, counter for decades of ages, eras, etc., fee, generation, period, rate, replace, substitute",
+    "imagePath": "kanji/代.png",
+    "vocab": [
+      {
+        "word": "代わり",
+        "reading": "かわり",
+        "meaning": "substitute, replacement"
+      },
+      {
+        "word": "時代",
+        "reading": "じだい",
+        "meaning": "era, age, period"
+      }
+    ]
+  },
+  {
+    "kanji": "田",
+    "readings": [
+      "た",
+      "でん"
+    ],
+    "meaning": "rice field, rice paddy",
+    "imagePath": "kanji/田.png",
+    "vocab": [
+      {
+        "word": "田",
+        "reading": "た",
+        "meaning": "rice field; paddy field"
+      },
+      {
+        "word": "田舎",
+        "reading": "いなか",
+        "meaning": "countryside; rural area"
+      }
+    ]
+  },
+  {
+    "kanji": "体",
+    "readings": [
+      "かたち",
+      "からだ",
+      "たい",
+      "てい"
+    ],
+    "meaning": "body, counter for images, object, reality, substance",
+    "imagePath": "kanji/体.png",
+    "vocab": [
+      {
+        "word": "体調",
+        "reading": "たいちょう",
+        "meaning": "physical condition"
+      },
+      {
+        "word": "身体",
+        "reading": "しんたい",
+        "meaning": "body"
+      }
+    ]
+  },
+  {
+    "kanji": "動",
+    "readings": [
+      "うご.かす",
+      "うご.く",
+      "どう"
+    ],
+    "meaning": "change, confusion, motion, move, shake, shift",
+    "imagePath": "kanji/動.png",
+    "vocab": [
+      {
+        "word": "動く",
+        "reading": "うごく",
+        "meaning": "to move"
+      },
+      {
+        "word": "動物",
+        "reading": "どうぶつ",
+        "meaning": "animal"
+      }
+    ]
+  },
+  {
+    "kanji": "社",
+    "readings": [
+      "やしろ",
+      "しゃ"
+    ],
+    "meaning": "association, company, firm, office, shrine",
+    "imagePath": "kanji/社.png",
+    "vocab": [
+      {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "meaning": "company; corporation"
+      },
+      {
+        "word": "社長",
+        "reading": "しゃちょう",
+        "meaning": "company president; CEO"
+      }
+    ]
+  },
+  {
+    "kanji": "知",
+    "readings": [
+      "し.らせる",
+      "し.る",
+      "ち"
+    ],
+    "meaning": "know, wisdom",
+    "imagePath": "kanji/知.png",
+    "vocab": [
+      {
+        "word": "知識",
+        "reading": "ちしき",
+        "meaning": "knowledge"
+      },
+      {
+        "word": "知る",
+        "reading": "しる",
+        "meaning": "to know"
+      }
+    ]
+  },
+  {
+    "kanji": "理",
+    "readings": [
+      "ことわり",
+      "り"
+    ],
+    "meaning": "arrangement, justice, logic, reason, truth",
+    "imagePath": "kanji/理.png",
+    "vocab": [
+      {
+        "word": "理科",
+        "reading": "りか",
+        "meaning": "science (subject)"
+      },
+      {
+        "word": "理由",
+        "reading": "りゆう",
+        "meaning": "reason"
+      }
+    ]
+  },
+  {
+    "kanji": "同",
+    "readings": [
+      "おな.じ",
+      "どう"
+    ],
+    "meaning": "agree, equal, same",
+    "imagePath": "kanji/同.png",
+    "vocab": [
+      {
+        "word": "同志",
+        "reading": "どうし",
+        "meaning": "comrade; a person with the same beliefs or goals"
+      },
+      {
+        "word": "同じ",
+        "reading": "おなじ",
+        "meaning": "same; identical"
+      }
+    ]
+  },
+  {
+    "kanji": "心",
+    "readings": [
+      "-ごころ",
+      "こころ",
+      "しん"
+    ],
+    "meaning": "heart, heart radical (no. 61), mind, spirit",
+    "imagePath": "kanji/心.png",
+    "vocab": [
+      {
+        "word": "心",
+        "reading": "こころ",
+        "meaning": "heart; mind; spirit"
+      },
+      {
+        "word": "安心",
+        "reading": "あんしん",
+        "meaning": "relief; peace of mind"
+      }
+    ]
+  },
+  {
+    "kanji": "発",
+    "readings": [
+      "あば.く",
+      "おこ.る",
+      "た.つ",
+      "つか.わす",
+      "はな.つ",
+      "はつ",
+      "ほつ"
+    ],
+    "meaning": "counter for gunshots, departure, discharge, disclose, emit, publish, start from",
+    "imagePath": "kanji/発.png",
+    "vocab": [
+      {
+        "word": "発表",
+        "reading": "はっぴょう",
+        "meaning": "announcement; presentation"
+      },
+      {
+        "word": "発明",
+        "reading": "はつめい",
+        "meaning": "invention"
+      }
+    ]
+  },
+  {
+    "kanji": "世",
+    "readings": [
+      "よ",
+      "せ",
+      "せい",
+      "そう"
+    ],
+    "meaning": "generation, public, society, world",
+    "imagePath": "kanji/世.png",
+    "vocab": [
+      {
+        "word": "世界",
+        "reading": "せかい",
+        "meaning": "world"
+      },
+      {
+        "word": "世代",
+        "reading": "せだい",
+        "meaning": "generation"
+      }
+    ]
+  },
+  {
+    "kanji": "度",
+    "readings": [
+      "-た.い",
+      "たび",
+      "たく",
+      "と",
+      "ど"
+    ],
+    "meaning": "attitude, consider, counter for occurrences, degrees, occurrence, time",
+    "imagePath": "kanji/度.png",
+    "vocab": [
+      {
+        "word": "温度",
+        "reading": "おんど",
+        "meaning": "temperature"
+      },
+      {
+        "word": "程度",
+        "reading": "ていど",
+        "meaning": "degree; extent"
+      }
+    ]
+  },
+  {
+    "kanji": "意",
+    "readings": [
+      "い"
+    ],
+    "meaning": "care, desire, heart, idea, liking, mind, taste, thought",
+    "imagePath": "kanji/意.png",
+    "vocab": [
+      {
+        "word": "意味",
+        "reading": "いみ",
+        "meaning": "meaning"
+      },
+      {
+        "word": "意志",
+        "reading": "いし",
+        "meaning": "will; intention"
+      }
+    ]
+  },
+  {
+    "kanji": "用",
+    "readings": [
+      "もち.いる",
+      "よう"
+    ],
+    "meaning": "business, employ, service, use, utilize",
+    "imagePath": "kanji/用.png",
+    "vocab": [
+      {
+        "word": "使用",
+        "reading": "しよう",
+        "meaning": "use; usage"
+      },
+      {
+        "word": "用事",
+        "reading": "ようじ",
+        "meaning": "errand; task"
+      }
+    ]
+  },
+  {
+    "kanji": "喜",
+    "readings": [
+      "よろこ.ばす",
+      "よろこ.ぶ",
+      "き"
+    ],
+    "meaning": "rejoice, take pleasure in",
+    "imagePath": "kanji/喜.png",
+    "vocab": [
+      {
+        "word": "喜び",
+        "reading": "よろこび",
+        "meaning": "joy, pleasure"
+      },
+      {
+        "word": "喜ぶ",
+        "reading": "よろこぶ",
+        "meaning": "to be delighted, to rejoice"
+      }
+    ]
+  },
+  {
+    "kanji": "待",
+    "readings": [
+      "-ま.ち",
+      "ま.つ",
+      "たい"
+    ],
+    "meaning": "depend on, wait",
+    "imagePath": "kanji/待.png",
+    "vocab": [
+      {
+        "word": "待つ",
+        "reading": "まつ",
+        "meaning": "to wait"
+      },
+      {
+        "word": "待機",
+        "reading": "たいき",
+        "meaning": "standby"
+      }
+    ]
+  },
+  {
+    "kanji": "持",
+    "readings": [
+      "-も.ち",
+      "も.つ",
+      "も.てる",
+      "じ"
+    ],
+    "meaning": "have, hold",
+    "imagePath": "kanji/持.png",
+    "vocab": [
+      {
+        "word": "持つ",
+        "reading": "もつ",
+        "meaning": "to hold; to possess"
+      },
+      {
+        "word": "保持",
+        "reading": "ほじ",
+        "meaning": "retention; maintaining"
+      }
+    ]
+  },
+  {
+    "kanji": "驚",
+    "readings": [
+      "おどろ.かす",
+      "おどろ.く",
+      "きょう"
+    ],
+    "meaning": "amazed, be surprised, frightened, wonder",
+    "imagePath": "kanji/驚.png",
+    "vocab": [
+      {
+        "word": "驚く",
+        "reading": "おどろく",
+        "meaning": "to be surprised"
+      },
+      {
+        "word": "驚き",
+        "reading": "おどろき",
+        "meaning": "surprise, astonishment"
+      }
+    ]
+  },
+  {
+    "kanji": "回",
+    "readings": [
+      "-まわ.し",
+      "-まわ.す",
+      "-まわ.り",
+      "-まわ.る",
+      "か.える",
+      "まわ.し-",
+      "まわ.す",
+      "まわ.る",
+      "もとお.る",
+      "え",
+      "かい"
+    ],
+    "meaning": "-times, counter for occurrences, game, revolve, round",
+    "imagePath": "kanji/回.png",
+    "vocab": [
+      {
+        "word": "回り",
+        "reading": "まわり",
+        "meaning": "circumference; surroundings"
+      },
+      {
+        "word": "回数",
+        "reading": "かいすう",
+        "meaning": "number of times; frequency"
+      }
+    ]
+  },
+  {
+    "kanji": "重",
+    "readings": [
+      "え",
+      "おも",
+      "おも.い",
+      "おも.なう",
+      "おも.り",
+      "かさ.なる",
+      "かさ.ねる",
+      "じゅう",
+      "ちょう"
+    ],
+    "meaning": "-fold, esteem, heap up, heavy, important, nest of boxes, pile up, respect",
+    "imagePath": "kanji/重.png",
+    "vocab": [
+      {
+        "word": "重要",
+        "reading": "じゅうよう",
+        "meaning": "important"
+      },
+      {
+        "word": "重い",
+        "reading": "おもい",
+        "meaning": "heavy"
+      }
+    ]
+  },
+  {
+    "kanji": "通",
+    "readings": [
+      "-とお.り",
+      "-どお.し",
+      "-どお.り",
+      "かよ.う",
+      "とお.し",
+      "とお.す",
+      "とお.り",
+      "とお.る",
+      "つ",
+      "つう"
+    ],
+    "meaning": "avenue, commute, counter for letters, notes, documents, etc., pass through, traffic",
+    "imagePath": "kanji/通.png",
+    "vocab": [
+      {
+        "word": "交通",
+        "reading": "こうつう",
+        "meaning": "traffic; transportation"
+      },
+      {
+        "word": "通じる",
+        "reading": "つうじる",
+        "meaning": "to be understood; to communicate"
+      }
+    ]
+  },
+  {
+    "kanji": "文",
+    "readings": [
+      "あや",
+      "ふみ",
+      "ぶん",
+      "もん"
+    ],
+    "meaning": "art, decoration, figures, literary radical (no. 67), literature, plan, sentence, style",
+    "imagePath": "kanji/文.png",
+    "vocab": [
+      {
+        "word": "文学",
+        "reading": "ぶんがく",
+        "meaning": "literature"
+      },
+      {
+        "word": "文書",
+        "reading": "ぶんしょ",
+        "meaning": "document, written matter"
+      }
+    ]
+  },
+  {
+    "kanji": "屋",
+    "readings": [
+      "や",
+      "おく"
+    ],
+    "meaning": "dealer, house, roof, seller, shop",
+    "imagePath": "kanji/屋.png",
+    "vocab": [
+      {
+        "word": "屋",
+        "reading": "や",
+        "meaning": "house, roof, shop"
+      },
+      {
+        "word": "家",
+        "reading": "いえ",
+        "meaning": "house, home"
+      }
+    ]
+  },
+  {
+    "kanji": "業",
+    "readings": [
+      "わざ",
+      "ぎょう",
+      "ごう"
+    ],
+    "meaning": "arts, business, performance, vocation",
+    "imagePath": "kanji/業.png",
+    "vocab": [
+      {
+        "word": "業界",
+        "reading": "ぎょうかい",
+        "meaning": "industry, sector"
+      },
+      {
+        "word": "業務",
+        "reading": "ぎょうむ",
+        "meaning": "business, duties, operations"
+      }
+    ]
+  },
+  {
+    "kanji": "身",
+    "readings": [
+      "み",
+      "しん"
+    ],
+    "meaning": "one's station in life, person, somebody",
+    "imagePath": "kanji/身.png",
+    "vocab": [
+      {
+        "word": "身",
+        "reading": "み",
+        "meaning": "body; oneself"
+      },
+      {
+        "word": "身分",
+        "reading": "みぶん",
+        "meaning": "social status; position"
+      }
+    ]
+  },
+  {
+    "kanji": "多",
+    "readings": [
+      "おお.い",
+      "まさ.に",
+      "まさ.る",
+      "た"
+    ],
+    "meaning": "frequent, many, much",
+    "imagePath": "kanji/多.png",
+    "vocab": [
+      {
+        "word": "多い",
+        "reading": "おおい",
+        "meaning": "many; a lot"
+      },
+      {
+        "word": "多様",
+        "reading": "たよう",
+        "meaning": "diversity; variety"
+      }
+    ]
+  },
+  {
+    "kanji": "野",
+    "readings": [
+      "の",
+      "の-",
+      "しょ",
+      "や"
+    ],
+    "meaning": "civilian life, field, plains, rustic",
+    "imagePath": "kanji/野.png",
+    "vocab": [
+      {
+        "word": "野菜",
+        "reading": "やさい",
+        "meaning": "vegetable"
+      },
+      {
+        "word": "野球",
+        "reading": "やきゅう",
+        "meaning": "baseball"
+      }
+    ]
+  },
+  {
+    "kanji": "考",
+    "readings": [
+      "かんが.え",
+      "かんが.える",
+      "こう"
+    ],
+    "meaning": "consider, think over",
+    "imagePath": "kanji/考.png",
+    "vocab": [
+      {
+        "word": "考える",
+        "reading": "かんがえる",
+        "meaning": "to think"
+      },
+      {
+        "word": "考え",
+        "reading": "かんがえ",
+        "meaning": "thought; idea"
+      }
+    ]
+  },
+  {
+    "kanji": "教",
+    "readings": [
+      "おし.える",
+      "おそ.わる",
+      "きょう"
+    ],
+    "meaning": "doctrine, faith, teach",
+    "imagePath": "kanji/教.png",
+    "vocab": [
+      {
+        "word": "教える",
+        "reading": "おしえる",
+        "meaning": "to teach"
+      },
+      {
+        "word": "教育",
+        "reading": "きょういく",
+        "meaning": "education"
+      }
+    ]
+  },
+  {
+    "kanji": "近",
+    "readings": [
+      "ちか.い",
+      "きん",
+      "こん"
+    ],
+    "meaning": "akin, early, near, tantamount",
+    "imagePath": "kanji/近.png",
+    "vocab": [
+      {
+        "word": "近い",
+        "reading": "ちかい",
+        "meaning": "close; near"
+      },
+      {
+        "word": "近所",
+        "reading": "きんじょ",
+        "meaning": "neighborhood"
+      }
+    ]
+  },
+  {
+    "kanji": "問",
+    "readings": [
+      "と.い",
+      "と.う",
+      "とん",
+      "もん"
+    ],
+    "meaning": "ask, problem, question",
+    "imagePath": "kanji/問.png",
+    "vocab": [
+      {
+        "word": "質問",
+        "reading": "しつもん",
+        "meaning": "question"
+      },
+      {
+        "word": "問題",
+        "reading": "もんだい",
+        "meaning": "problem"
+      }
+    ]
+  },
+  {
+    "kanji": "真",
+    "readings": [
+      "ま",
+      "ま-",
+      "まこと",
+      "しん"
+    ],
+    "meaning": "Buddhist sect, reality, true",
+    "imagePath": "kanji/真.png",
+    "vocab": [
+      {
+        "word": "真実",
+        "reading": "しんじつ",
+        "meaning": "truth"
+      },
+      {
+        "word": "真っ白",
+        "reading": "まっしろ",
+        "meaning": "pure white"
+      }
+    ]
+  },
+  {
+    "kanji": "界",
+    "readings": [
+      "かい"
+    ],
+    "meaning": "boundary, world",
+    "imagePath": "kanji/界.png",
+    "vocab": [
+      {
+        "word": "世界",
+        "reading": "せかい",
+        "meaning": "world"
+      },
+      {
+        "word": "境界",
+        "reading": "きょうかい",
+        "meaning": "boundary; border"
+      }
+    ]
+  },
+  {
+    "kanji": "少",
+    "readings": [
+      "すく.ない",
+      "すこ.し",
+      "しょう"
+    ],
+    "meaning": "few, little",
+    "imagePath": "kanji/少.png",
+    "vocab": [
+      {
+        "word": "少人数",
+        "reading": "しょうにんず",
+        "meaning": "small number of people"
+      },
+      {
+        "word": "少し",
+        "reading": "すこし",
+        "meaning": "a little; a few"
+      }
+    ]
+  },
+  {
+    "kanji": "切",
+    "readings": [
+      "-き.り",
+      "-き.る",
+      "-き.れ",
+      "-き.れる",
+      "-ぎ.り",
+      "-ぎ.れ",
+      "き.り",
+      "き.る",
+      "き.れ",
+      "き.れる",
+      "さい",
+      "せつ"
+    ],
+    "meaning": "be sharp, cut, cutoff",
+    "imagePath": "kanji/切.png",
+    "vocab": [
+      {
+        "word": "切る",
+        "reading": "きる",
+        "meaning": "to cut"
+      },
+      {
+        "word": "切れ",
+        "reading": "きれ",
+        "meaning": "a piece; a cut"
+      }
+    ]
+  },
+  {
+    "kanji": "自",
+    "readings": [
+      "おの.ずから",
+      "おの.ずと",
+      "みずか.ら",
+      "し",
+      "じ"
+    ],
+    "meaning": "oneself",
+    "imagePath": "kanji/自.png",
+    "vocab": [
+      {
+        "word": "自分",
+        "reading": "じぶん",
+        "meaning": "oneself"
+      },
+      {
+        "word": "自然",
+        "reading": "しぜん",
+        "meaning": "nature"
+      }
+    ]
+  },
+  {
+    "kanji": "員",
+    "readings": [
+      "いん"
+    ],
+    "meaning": "employee, member, number, the one in charge",
+    "imagePath": "kanji/員.png",
+    "vocab": [
+      {
+        "word": "職員",
+        "reading": "しょくいん",
+        "meaning": "staff; employee"
+      },
+      {
+        "word": "会員",
+        "reading": "かいいん",
+        "meaning": "member"
+      }
+    ]
+  },
+  {
+    "kanji": "目",
+    "readings": [
+      "-め",
+      "ま-",
+      "め",
+      "ぼく",
+      "もく"
+    ],
+    "meaning": "care, class, experience, eye, favor, insight, look",
+    "imagePath": "kanji/目.png",
+    "vocab": [
+      {
+        "word": "目",
+        "reading": "め",
+        "meaning": "eye; sight; look"
+      },
+      {
+        "word": "見",
+        "reading": "み",
+        "meaning": "to see; to look at; to watch"
+      }
+    ]
+  },
+  {
+    "kanji": "林",
+    "readings": [
+      "はやし",
+      "りん"
+    ],
+    "meaning": "forest, grove",
+    "imagePath": "kanji/林.png",
+    "vocab": [
+      {
+        "word": "林",
+        "reading": "はやし",
+        "meaning": "grove, woods"
+      },
+      {
+        "word": "森林",
+        "reading": "しんりん",
+        "meaning": "forest"
+      }
+    ]
+  },
+  {
+    "kanji": "空",
+    "readings": [
+      "あ.き",
+      "あ.く",
+      "あ.ける",
+      "から",
+      "す.かす",
+      "す.く",
+      "そら",
+      "むな.しい",
+      "くう"
+    ],
+    "meaning": "empty, sky, vacant, vacuum, void",
+    "imagePath": "kanji/空.png",
+    "vocab": [
+      {
+        "word": "空気",
+        "reading": "くうき",
+        "meaning": "air"
+      },
+      {
+        "word": "空間",
+        "reading": "くうかん",
+        "meaning": "space, atmosphere"
+      }
+    ]
+  },
+  {
+    "kanji": "花",
+    "readings": [
+      "はな",
+      "か",
+      "け"
+    ],
+    "meaning": "flower",
+    "imagePath": "kanji/花.png",
+    "vocab": [
+      {
+        "word": "花見",
+        "reading": "はなみ",
+        "meaning": "flower viewing, cherry blossom viewing"
+      },
+      {
+        "word": "花束",
+        "reading": "はなたば",
+        "meaning": "flower bouquet"
+      }
+    ]
+  },
+  {
+    "kanji": "昼",
+    "readings": [
+      "ひる",
+      "ちゅう"
+    ],
+    "meaning": "daytime, noon",
+    "imagePath": "kanji/昼.png",
+    "vocab": [
+      {
+        "word": "昼ごはん",
+        "reading": "ひるごはん",
+        "meaning": "lunch"
+      },
+      {
+        "word": "昼間",
+        "reading": "ひるま",
+        "meaning": "daytime"
+      }
+    ]
+  },
+  {
+    "kanji": "夕",
+    "readings": [
+      "ゆう",
+      "せき"
+    ],
+    "meaning": "evening",
+    "imagePath": "kanji/夕.png",
+    "vocab": [
+      {
+        "word": "夕食",
+        "reading": "ゆうしょく",
+        "meaning": "dinner"
+      },
+      {
+        "word": "夕方",
+        "reading": "ゆうがた",
+        "meaning": "evening"
+      }
+    ]
+  },
+  {
+    "kanji": "春",
+    "readings": [
+      "はる",
+      "しゅん"
+    ],
+    "meaning": "spring (season), springtime",
+    "imagePath": "kanji/春.png",
+    "vocab": [
+      {
+        "word": "春休み",
+        "reading": "はるやすみ",
+        "meaning": "spring break"
+      },
+      {
+        "word": "春花",
+        "reading": "しゅんか",
+        "meaning": "spring flower"
+      }
+    ]
+  },
+  {
+    "kanji": "夏",
+    "readings": [
+      "なつ",
+      "か",
+      "が",
+      "げ"
+    ],
+    "meaning": "summer",
+    "imagePath": "kanji/夏.png",
+    "vocab": [
+      {
+        "word": "夏休み",
+        "reading": "なつやすみ",
+        "meaning": "summer vacation"
+      },
+      {
+        "word": "夏目",
+        "reading": "なつめ",
+        "meaning": "Japanese pear (also a common given name)"
+      }
+    ]
+  },
+  {
+    "kanji": "冬",
+    "readings": [
+      "ふゆ",
+      "とう"
+    ],
+    "meaning": "winter",
+    "imagePath": "kanji/冬.png",
+    "vocab": [
+      {
+        "word": "冬",
+        "reading": "ふゆ",
+        "meaning": "winter"
+      },
+      {
+        "word": "冬休み",
+        "reading": "ふゆやすみ",
+        "meaning": "winter vacation"
+      }
+    ]
+  },
+  {
+    "kanji": "週",
+    "readings": [
+      "しゅう"
+    ],
+    "meaning": "week",
+    "imagePath": "kanji/週.png",
+    "vocab": [
+      {
+        "word": "週末",
+        "reading": "しゅうまつ",
+        "meaning": "weekend"
+      },
+      {
+        "word": "週間",
+        "reading": "しゅうかん",
+        "meaning": "week (duration of)"
+      }
+    ]
+  },
+  {
+    "kanji": "黒",
+    "readings": [
+      "くろ",
+      "くろ.い",
+      "くろ.ずむ",
+      "こく"
+    ],
+    "meaning": "black",
+    "imagePath": "kanji/黒.png",
+    "vocab": [
+      {
+        "word": "黒人",
+        "reading": "こくじん",
+        "meaning": "Black person"
+      },
+      {
+        "word": "黒い",
+        "reading": "くろい",
+        "meaning": "black (color)"
+      }
+    ]
+  },
+  {
+    "kanji": "弟",
+    "readings": [
+      "おとうと",
+      "だい",
+      "てい",
+      "で"
+    ],
+    "meaning": "faithful service to elders, younger brother",
+    "imagePath": "kanji/弟.png",
+    "vocab": [
+      {
+        "word": "弟",
+        "reading": "おとうと",
+        "meaning": "younger brother"
+      },
+      {
+        "word": "弟子",
+        "reading": "でし",
+        "meaning": "disciple; apprentice"
+      }
+    ]
+  },
+  {
+    "kanji": "妹",
+    "readings": [
+      "いもうと",
+      "まい"
+    ],
+    "meaning": "younger sister",
+    "imagePath": "kanji/妹.png",
+    "vocab": [
+      {
+        "word": "妹",
+        "reading": "いもうと",
+        "meaning": "younger sister"
+      },
+      {
+        "word": "妹さん",
+        "reading": "いもうとさん",
+        "meaning": "younger sister (polite)"
+      }
+    ]
+  },
+  {
+    "kanji": "魚",
+    "readings": [
+      "-ざかな",
+      "うお",
+      "さかな",
+      "ぎょ"
+    ],
+    "meaning": "fish",
+    "imagePath": "kanji/魚.png",
+    "vocab": [
+      {
+        "word": "魚",
+        "reading": "さかな",
+        "meaning": "fish"
+      },
+      {
+        "word": "魚",
+        "reading": "うお",
+        "meaning": "fish (literary or formal term)"
+      }
+    ]
+  },
+  {
+    "kanji": "鳥",
+    "readings": [
+      "とり",
+      "ちょう"
+    ],
+    "meaning": "bird, chicken",
+    "imagePath": "kanji/鳥.png",
+    "vocab": [
+      {
+        "word": "鳥",
+        "reading": "とり",
+        "meaning": "bird"
+      },
+      {
+        "word": "鳥類",
+        "reading": "ちょうるい",
+        "meaning": "avian species; birds"
+      }
+    ]
+  },
+  {
+    "kanji": "犬",
+    "readings": [
+      "いぬ",
+      "いぬ-",
+      "けん"
+    ],
+    "meaning": "dog",
+    "imagePath": "kanji/犬.png",
+    "vocab": [
+      {
+        "word": "犬",
+        "reading": "いぬ",
+        "meaning": "dog"
+      },
+      {
+        "word": "犬猫",
+        "reading": "いぬねこ",
+        "meaning": "dogs and cats"
+      }
+    ]
+  },
+  {
+    "kanji": "牛",
+    "readings": [
+      "うし",
+      "ぎゅう"
+    ],
+    "meaning": "cow",
+    "imagePath": "kanji/牛.png",
+    "vocab": [
+      {
+        "word": "牛乳",
+        "reading": "ぎゅうにゅう",
+        "meaning": "milk"
+      },
+      {
+        "word": "牛丼",
+        "reading": "ぎゅうどん",
+        "meaning": "beef bowl (rice topped with beef)"
+      }
+    ]
+  },
+  {
+    "kanji": "町",
+    "readings": [
+      "まち",
+      "ちょう"
+    ],
+    "meaning": "block, street, town, village",
+    "imagePath": "kanji/町.png",
+    "vocab": [
+      {
+        "word": "町",
+        "reading": "まち",
+        "meaning": "town"
+      },
+      {
+        "word": "町",
+        "reading": "ちょう",
+        "meaning": "town (as a suffix in place names)"
+      }
+    ]
+  },
+  {
+    "kanji": "村",
+    "readings": [
+      "むら",
+      "そん"
+    ],
+    "meaning": "town, village",
+    "imagePath": "kanji/村.png",
+    "vocab": [
+      {
+        "word": "村",
+        "reading": "むら",
+        "meaning": "village"
+      },
+      {
+        "word": "村人",
+        "reading": "むらびと",
+        "meaning": "villager"
+      }
+    ]
+  },
+  {
+    "kanji": "店",
+    "readings": [
+      "たな",
+      "みせ",
+      "てん"
+    ],
+    "meaning": "shop, store",
+    "imagePath": "kanji/店.png",
+    "vocab": [
+      {
+        "word": "店",
+        "reading": "みせ",
+        "meaning": "store, shop"
+      },
+      {
+        "word": "店",
+        "reading": "てん",
+        "meaning": "establishment, shop (used in compounds)"
+      }
+    ]
+  },
+  {
+    "kanji": "院",
+    "readings": [
+      "いん"
+    ],
+    "meaning": "Inst., institution, mansion, school, temple",
+    "imagePath": "kanji/院.png",
+    "vocab": [
+      {
+        "word": "医院",
+        "reading": "いいん",
+        "meaning": "hospital"
+      },
+      {
+        "word": "学院",
+        "reading": "がくいん",
+        "meaning": "academy"
+      }
+    ]
+  },
+  {
+    "kanji": "銀",
+    "readings": [
+      "しろがね",
+      "ぎん"
+    ],
+    "meaning": "silver",
+    "imagePath": "kanji/銀.png",
+    "vocab": [
+      {
+        "word": "銀行",
+        "reading": "ぎんこう",
+        "meaning": "bank"
+      },
+      {
+        "word": "銀色",
+        "reading": "ぎんいろ",
+        "meaning": "silver color"
+      }
+    ]
+  },
+  {
+    "kanji": "飲",
+    "readings": [
+      "-の.み",
+      "の.む",
+      "いん",
+      "おん"
+    ],
+    "meaning": "drink, smoke, take",
+    "imagePath": "kanji/飲.png",
+    "vocab": [
+      {
+        "word": "飲み物",
+        "reading": "のみもの",
+        "meaning": "beverage"
+      },
+      {
+        "word": "飲食",
+        "reading": "いんしょく",
+        "meaning": "food and drink"
+      }
+    ]
+  },
+  {
+    "kanji": "参",
+    "readings": [
+      "まい-",
+      "まい.る",
+      "まじわる",
+      "みつ",
+      "さん",
+      "しん"
+    ],
+    "meaning": "be defeated, be madly in love, coming, die, going, nonplussed, participate, take part in, three (in documents), visit, visiting",
+    "imagePath": "kanji/参.png",
+    "vocab": [
+      {
+        "word": "参加",
+        "reading": "さんか",
+        "meaning": "participation"
+      },
+      {
+        "word": "参照",
+        "reading": "さんしょう",
+        "meaning": "reference"
+      }
+    ]
+  },
+  {
+    "kanji": "加",
+    "readings": [
+      "くわ.える",
+      "くわ.わる",
+      "か"
+    ],
+    "meaning": "Canada, add, addition, include, increase, join",
+    "imagePath": "kanji/加.png",
+    "vocab": [
+      {
+        "word": "参加",
+        "reading": "さんか",
+        "meaning": "participation"
+      },
+      {
+        "word": "加減",
+        "reading": "かげん",
+        "meaning": "adjustment; moderation"
+      }
+    ]
+  },
+  {
+    "kanji": "席",
+    "readings": [
+      "むしろ",
+      "せき"
+    ],
+    "meaning": "mat, occasion, place, seat",
+    "imagePath": "kanji/席.png",
+    "vocab": [
+      {
+        "word": "席",
+        "reading": "せき",
+        "meaning": "seat"
+      },
+      {
+        "word": "席",
+        "reading": "しき",
+        "meaning": "position, place (often used in a more formal or specialized context)"
+      }
+    ]
+  },
+  {
+    "kanji": "宇",
+    "readings": [
+      "う"
+    ],
+    "meaning": "eaves, heaven, house, roof",
+    "imagePath": "kanji/宇.png",
+    "vocab": [
+      {
+        "word": "宇宙",
+        "reading": "うちゅう",
+        "meaning": "universe"
+      },
+      {
+        "word": "宇顔",
+        "reading": "うがお",
+        "meaning": "face of the universe"
+      }
+    ]
+  },
+  {
+    "kanji": "靴",
+    "readings": [
+      "くつ",
+      "か"
+    ],
+    "meaning": "shoes",
+    "imagePath": "kanji/靴.png",
+    "vocab": [
+      {
+        "word": "靴下",
+        "reading": "くつした",
+        "meaning": "socks"
+      },
+      {
+        "word": "靴屋",
+        "reading": "くつや",
+        "meaning": "shoe store"
+      }
+    ]
+  },
+  {
+    "kanji": "脱",
+    "readings": [
+      "ぬ.ぐ",
+      "ぬ.げる",
+      "だつ"
+    ],
+    "meaning": "be left out, escape from, get rid of, removing, take off, undress",
+    "imagePath": "kanji/脱.png",
+    "vocab": [
+      {
+        "word": "脱出",
+        "reading": "だっしゅつ",
+        "meaning": "escape, exit"
+      },
+      {
+        "word": "脱皮",
+        "reading": "だっぴ",
+        "meaning": "molting, shedding skin"
+      }
+    ]
+  },
+  {
+    "kanji": "札",
+    "readings": [
+      "ふだ",
+      "さつ"
+    ],
+    "meaning": "bid, counter for bonds, paper money, placard, tag",
+    "imagePath": "kanji/札.png",
+    "vocab": [
+      {
+        "word": "札",
+        "reading": "ふだ",
+        "meaning": "tag; label"
+      },
+      {
+        "word": "札",
+        "reading": "さつ",
+        "meaning": "paper money; bill"
+      }
+    ]
+  },
+  {
+    "kanji": "破",
+    "readings": [
+      "やぶ.る",
+      "やぶ.れる",
+      "わ.れる",
+      "は"
+    ],
+    "meaning": "break, defeat, destroy, frustrate, rend, rip, tear",
+    "imagePath": "kanji/破.png",
+    "vocab": [
+      {
+        "word": "破壊",
+        "reading": "はかい",
+        "meaning": "destruction"
+      },
+      {
+        "word": "破産",
+        "reading": "はさん",
+        "meaning": "bankruptcy"
+      }
+    ]
+  },
+  {
+    "kanji": "壊",
+    "readings": [
+      "こわ.す",
+      "こわ.れる",
+      "やぶ.る",
+      "え",
+      "かい"
+    ],
+    "meaning": "break, demolition, destroy",
+    "imagePath": "kanji/壊.png",
+    "vocab": [
+      {
+        "word": "壊す",
+        "reading": "こわす",
+        "meaning": "to break; to destroy"
+      },
+      {
+        "word": "壊れる",
+        "reading": "こわれる",
+        "meaning": "to be broken; to break down"
+      }
+    ]
+  },
+  {
+    "kanji": "宙",
+    "readings": [
+      "ちゅう"
+    ],
+    "meaning": "air, interval of time, memorization, mid-air, sky, space",
+    "imagePath": "kanji/宙.png",
+    "vocab": [
+      {
+        "word": "宇宙",
+        "reading": "うちゅう",
+        "meaning": "universe"
+      },
+      {
+        "word": "宙",
+        "reading": "ちゅう",
+        "meaning": "sky; space"
+      }
+    ]
   }
 ]

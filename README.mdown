@@ -1,0 +1,23 @@
+# Kanji Learning App
+
+I made this app for my personal kanji learning. It is mainly designed to help with learning to physically write the kanji, and is less focused on memorizing readings or vocabulary.
+
+NOTE: Currently only works locally in dev mode.
+
+## Install
+
+```bash
+pnpm install
+node kanji-download.js # Downloads stroke order, meaning, and readings for all kanji found in kanji-list.txt. The list is currently just my own personal list to learn, this can be replaced with anything.
+pnpm dev # Run the app locally
+```
+
+## Vocab with OpenAI
+
+I've been experimenting with using OpenAI to generate vocab for each kanji. You can add your OpenAI api key in the .env file to try it out. Not required for the app to work.
+
+The following script fetches vocab from the API and adds it to the kanjiDetails.json file:
+
+```bash
+node add-vocab.js
+```

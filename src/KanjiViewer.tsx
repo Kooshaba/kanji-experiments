@@ -16,12 +16,14 @@ const KanjiViewer = ({
   onIncorrect,
   srsStorage,
   onSessionComplete,
+  isLearningSession,
 }: {
   kanjiData: KanjiData;
   srsStorage: ReturnType<typeof createSRSStorage>;
   onCorrect: (kanji: string, easeFactor?: number) => void;
-  onIncorrect: (kanji: string) => void;
+  onIncorrect: (kanji: string, isLearningSession: boolean) => void;
   onSessionComplete: (summary: SessionSummary) => void;
+  isLearningSession: boolean;
 }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showDetails, setShowDetails] = useState(false);
@@ -124,7 +126,7 @@ const KanjiViewer = ({
 
   const handleIncorrect = async () => {
     const currentKanji = kanjiData[currentIndex].kanji;
-    onIncorrect(currentKanji);
+    onIncorrect(currentKanji, isLearningSession);
     setSessionSummary({
       ...sessionSummary,
       totalKanji: sessionSummary.totalKanji + 1,

@@ -1,8 +1,9 @@
 import React, { useState, useEffect, useMemo } from "react";
 import KanjiViewer from "./src/KanjiViewer";
-import { KanjiData, KanjiHistory, SessionSummary } from "./src/types";
+import { KanjiData, SessionSummary } from "./src/types";
 import { createSRSStorage } from "./src/SRSStorage";
 import { createSRSCalculator } from "./src/SRSCalculator";
+import { KanjiBoard } from "./src/KanjiBoard";
 
 function App() {
   const [allKanji, setAllKanji] = useState<KanjiData>([]);
@@ -15,6 +16,7 @@ function App() {
   const [manualSessionSize, setManualSessionSize] = useState<number | null>(
     null
   );
+  const [displayKanjiBoard, setDisplayKanjiBoard] = useState(false);
 
   const srsStorage = useMemo(() => createSRSStorage(), []);
   const srsCalculator = useMemo(
@@ -77,6 +79,37 @@ function App() {
   return (
     <div className="App">
       {error && <div className="error">{error}</div>}
+
+      <button
+        onClick={() => setDisplayKanjiBoard((prev) => !prev)}
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          backgroundColor: "#ffc107",
+          color: "white",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+          fontSize: "16px",
+          transition: "background-color 0.3s",
+        }}
+        onMouseEnter={(e) =>
+          (e.currentTarget.style.backgroundColor = "#e0a800")
+        }
+        onMouseLeave={(e) =>
+          (e.currentTarget.style.backgroundColor = "#ffc107")
+        }
+      >
+        {displayKanjiBoard ? "Hide Kanji Board" : "Show Kanji Board"}
+      </button>
+
+      {displayKanjiBoard && (
+        <KanjiBoard
+          kanjiHistory={srsStorage.getSRSHistory()}
+          allKanji={allKanji}
+          setHistory={srsStorage.storeKanji}
+        />
+      )}
 
       <button
         onClick={createNewSession}
@@ -151,6 +184,7 @@ function App() {
           srsStorage={srsStorage}
           onCorrect={srsCalculator.correctAttempt}
           onIncorrect={srsCalculator.incorrectAttempt}
+          isLearningSession={isLearningSession}
         />
       )}
 

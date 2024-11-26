@@ -25,8 +25,8 @@ export const createSRSCalculator = ({
       attempt = createBlankSrsData(kanji);
     }
     let newLevel = (attempt.level + 1 + easeFactor) as SRSLevel;
-    if (newLevel > 12) {
-      newLevel = 12 as SRSLevel;
+    if (newLevel > 8) {
+      newLevel = 8 as SRSLevel;
     }
 
     const newAttempt = {
@@ -37,16 +37,19 @@ export const createSRSCalculator = ({
     storeAttempt(kanji, newAttempt);
   };
 
-  const incorrectAttempt = (kanji: string) => {
+  const incorrectAttempt = (kanji: string, isLearningSession: boolean) => {
     let attempt = getAttempt(kanji);
     if (!attempt) {
       attempt = createBlankSrsData(kanji);
     }
 
     let newLevel = (attempt.level - 2) as SRSLevel;
-    if (newLevel < 0) {
+    if (isLearningSession && newLevel < 0) {
       newLevel = 0 as SRSLevel;
+    } else if (newLevel <= 1) {
+      newLevel = 1 as SRSLevel;
     }
+
     const newAttempt = {
       ...attempt,
       level: newLevel,
